@@ -1,7 +1,0 @@
-id=mmrl_install_tools
-name=MMRL Install Tools
-version=3.2.1
-versionCode=321
-author=Der_Googler
-description=Required module if you want to install modules from Explore
-minApi=26
