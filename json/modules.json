@@ -1,35 +1,35 @@
 {
-    "name": "Googlers Magisk Repo",
-    "metadata": {
-      "version": 1,
-      "timestamp": 1705233962.763305
-    },
-    "modules": [
-      {
-        "id": "mmrl_install_tools",
-        "name": "MMRL Install Tools",
-        "version": "3.2.1",
-        "versionCode": 321,
-        "author": "Der_Googler",
-        "description": "Required module if you want to install modules from Explore",
-        "track": {
-          "type": "GIT",
-          "added": 1705233324.376441,
-          "license": "",
-          "homepage": "",
-          "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
-          "support": "https://github.com/Googlers-Repo/mmrl_install_tools/issues",
-          "donate": "https://github.com/sponsors/DerGoogler"
-        },
-        "versions": [
-          {
-            "timestamp": 1705103442.0,
-            "version": "3.2.1",
-            "versionCode": 321,
-            "zipUrl": "https://gr.dergoogler.com/repo/modules/mmrl_install_tools/3.2.1_321.zip",
-            "changelog": ""
-          }
-        ]
-      }
-    ]
-  }
+  "name": "Googlers Magisk Repo",
+  "metadata": {
+    "version": 1,
+    "timestamp": 1705236862.30681
+  },
+  "modules": [
+    {
+      "id": "mmrl_install_tools",
+      "name": "MMRL Install Tools",
+      "version": "3.2.1",
+      "versionCode": 321,
+      "author": "Der_Googler",
+      "description": "Required module if you want to install modules from Explore",
+      "track": {
+        "type": "GIT",
+        "added": 1705236543.122436,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
+        "support": "https://github.com/Googlers-Repo/mmrl_install_tools/issues",
+        "donate": "https://github.com/sponsors/DerGoogler"
+      },
+      "versions": [
+        {
+          "timestamp": 1705103442.0,
+          "version": "3.2.1",
+          "versionCode": 321,
+          "zipUrl": "https://gr.dergoogler.com/repo/modules/mmrl_install_tools/3.2.1_321.zip",
+          "changelog": ""
+        }
+      ]
+    }
+  ]
+}
