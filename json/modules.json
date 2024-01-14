@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705237217.374813
+    "timestamp": 1705238949.647601
   },
   "modules": [
     {
@@ -18,13 +18,15 @@
       "description": "Required module if you want to install modules from Explore",
       "track": {
         "type": "GIT",
-        "added": 1705236543.122436,
+        "added": 1705238797.0266,
         "license": "",
         "homepage": "",
         "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
         "support": "https://github.com/Googlers-Repo/mmrl_install_tools/issues",
         "donate": "https://github.com/sponsors/DerGoogler",
-        "verified": true
+        "verified": false,
+        "category": "",
+        "categories": []
       },
       "versions": [
         {
