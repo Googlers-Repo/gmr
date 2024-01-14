@@ -1,0 +1,13 @@
+{
+  "id": "xhhttp",
+  "timestamp": 1701025578.0,
+  "versions": [
+    {
+      "timestamp": 1701025578.0,
+      "version": "v0.20.1",
+      "versionCode": 201,
+      "zipUrl": "https://gr.dergoogler.com/repo/modules/xhhttp/v0.20.1_201.zip",
+      "changelog": ""
+    }
+  ]
+}
