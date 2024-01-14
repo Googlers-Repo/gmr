@@ -1,8 +1,12 @@
 {
   "name": "Googlers Magisk Repo",
+  "website": "https://mmrl.dergoogler.com",
+  "support": "https://github.com/Googlers-Repo/repo/issues",
+  "donate": "https://github.com/sponsors/DerGoogler",
+  "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705236862.30681
+    "timestamp": 1705237721.406908
   },
   "modules": [
     {
@@ -19,7 +23,8 @@
         "homepage": "",
         "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
         "support": "https://github.com/Googlers-Repo/mmrl_install_tools/issues",
-        "donate": "https://github.com/sponsors/DerGoogler"
+        "donate": "https://github.com/sponsors/DerGoogler",
+        "verified": true
       },
       "versions": [
         {

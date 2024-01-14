@@ -1,5 +1,9 @@
 {
   "name": "Googlers Magisk Repo",
+  "website": "https://mmrl.dergoogler.com",
+  "support": "https://github.com/Googlers-Repo/repo/issues",
+  "donate": "https://github.com/sponsors/DerGoogler",
+  "submission": null,
   "base_url": "https://gr.dergoogler.com/repo/",
   "max_num": 3,
   "enable_log": true,

@@ -1,0 +1,61 @@
+#!/system/bin/sh
+set -e
+source $MODULES/mmrl_install_tools/system/etc/mmrl.sh
+
+# Systemless Mkshrc could affect this
+TMPDIR="/data/local/tmp"
+cd $TMPDIR
+
+# $MMRL - If runs in MMRL
+# $MMRL_VER - MMRL version
+# $ZIPFILE - Path of the zip module
+
+BASENAME=$(basename -- "$ZIPFILE")
+FILENAME="${BASENAME%.*}"
+
+if [ ! -z "$($UNZIP -p "$ZIPFILE" "module.prop")" ]; then
+   echo "$CYAN- Detected a valid module$RESET"
+   install_cli "$ZIPFILE"
+else
+   echo "$YELLOW- Selecting GitHub Archive method$RESET"
+   echo "- Decompressing..."
+
+   if [ ! -d "$TMPDIR/mmrl_unzipped/$FILENAME" ]; then
+      mkdir -p "$TMPDIR/mmrl_unzipped/$FILENAME"
+   fi
+
+   $UNZIP $EXTRA_UNZIP_ARGS "$ZIPFILE" -d "$TMPDIR/mmrl_unzipped/$FILENAME"
+
+   if [ $(echo $?) -eq 0 ]; then
+      echo "$GREEN- Successful decompressed$RESET"
+   else
+      echo "$RED! Something went wrong$RESET"
+      exit 1
+   fi
+
+   echo "- Checking..."
+   CHECK=$(ls "$TMPDIR/mmrl_unzipped/$FILENAME")
+
+   if [ ! "$CHECK" = "$FILENAME" ]; then
+      echo "$RED! Error, folders does not match$RESET"
+      exit 1
+   fi
+
+   echo "- Rezipping to a valid archive..."
+
+   cd "$TMPDIR/mmrl_unzipped/$FILENAME/$FILENAME"
+   $ZIP $EXTRA_ZIP_ARGS "$TMPDIR/$FILENAME-moduled.zip" *
+   cd $TMPDIR
+
+   if [ $(echo $?) -eq 0 ]; then
+      echo "$GREEN- Successful rezipped$RESET"
+   else
+      echo "$RED! Something went wrong$RESET"
+      exit 1
+   fi
+   
+   install_cli "$TMPDIR/$FILENAME-moduled.zip"
+fi
+
+# Run cleanup
+trap cleanup EXIT
