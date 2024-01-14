@@ -1,0 +1,7 @@
+{
+  "name": "Googlers Magisk Repo",
+  "base_url": "https://gr.dergoogler.com/repo/",
+  "max_num": 3,
+  "enable_log": true,
+  "log_dir": "log"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mmrl_install_tools",
+  "enable": true,
+  "update_to": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
+  "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
+  "support": "https://github.com/Googlers-Repo/mmrl_install_tools/issues",
+  "donate": "https://github.com/sponsors/DerGoogler",
+  "added": 1705233324.376441
+}
