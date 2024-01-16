@@ -1,14 +1,14 @@
 {
   "id": "node",
   "enable": true,
-  "verified": false,
+  "verified": true,
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
   "license": "MIT",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues",
   "donate": "https://github.com/sponsors/DerGoogler",
   "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
-  "logo": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
+  "icon": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
   "require": [
     "mkshrc"
   ],
@@ -18,7 +18,6 @@
     "Tools"
   ],
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
-  "stars": 40,
   "added": 1705247305.749979,
   "last_update": 1701020945.0,
   "versions": 1
