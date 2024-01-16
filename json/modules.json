@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705353015.828321
+    "timestamp": 1705401869.00981
   },
   "modules": [
     {
@@ -38,8 +38,7 @@
           "Configurable",
           "Tools"
         ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
-        "stars": 39
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md"
       },
       "versions": [
         {
@@ -54,8 +53,8 @@
     {
       "id": "mmrl_install_tools",
       "name": "MMRL Install Tools",
-      "version": "3.2.1",
-      "versionCode": 321,
+      "version": "4.2.2",
+      "versionCode": 422,
       "author": "Der_Googler",
       "description": "Required module if you want to install modules from Explore",
       "track": {
@@ -80,8 +79,7 @@
           "System",
           "Configurable"
         ],
-        "readme": "",
-        "stars": 0
+        "readme": ""
       },
       "versions": [
         {
@@ -89,6 +87,13 @@
           "version": "3.2.1",
           "versionCode": 321,
           "zipUrl": "https://gr.dergoogler.com/repo/modules/mmrl_install_tools/3.2.1_321.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1705390629.0,
+          "version": "4.2.2",
+          "versionCode": 422,
+          "zipUrl": "https://gr.dergoogler.com/repo/modules/mmrl_install_tools/4.2.2_422.zip",
           "changelog": ""
         }
       ]
@@ -118,8 +123,7 @@
           "Configurable",
           "Tools"
         ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
-        "stars": 40
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md"
       },
       "versions": [
         {
@@ -156,8 +160,7 @@
         "categories": [
           "System"
         ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
-        "stars": 16
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md"
       },
       "versions": [
         {
