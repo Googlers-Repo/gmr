@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705402507.05962
+    "timestamp": 1705406577.354691
   },
   "modules": [
     {
@@ -16,6 +16,8 @@
       "versionCode": 1513,
       "author": "Der_Googler",
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
+      "added": 1705247355.84234,
+      "timestamp": 1705018302.0,
       "track": {
         "type": "GIT",
         "added": 1705247355.84234,
@@ -57,6 +59,8 @@
       "versionCode": 422,
       "author": "Der_Googler",
       "description": "Required module if you want to install modules from Explore",
+      "added": 1705238797.0266,
+      "timestamp": 1705390629.0,
       "track": {
         "type": "GIT",
         "added": 1705238797.0266,
@@ -105,6 +109,8 @@
       "versionCode": 154,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
+      "added": 1705247305.749979,
+      "timestamp": 1701020945.0,
       "track": {
         "type": "GIT",
         "added": 1705247305.749979,
@@ -142,6 +148,8 @@
       "versionCode": 201,
       "author": "ducaale & Der_Googler",
       "description": "Friendly and fast tool for sending HTTP requests",
+      "added": 1705247343.892676,
+      "timestamp": 1701025578.0,
       "track": {
         "type": "GIT",
         "added": 1705247343.892676,
