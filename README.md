@@ -1,7 +1,7 @@
 # Googlers Magisk Repo
 - This repository stores modules for [MMRL](https://github.com/DerGoogler/MMRL) and [MRepo](https://github.com/MRepoApp/MRepo.git).
 
-## Add to MMRL or MRepo
+## Add to MMRL or MRepo 
 
 ```
 https://gr.dergoogler.com/gmr/
