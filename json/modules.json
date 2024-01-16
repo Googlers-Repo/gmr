@@ -1,12 +1,12 @@
 {
   "name": "Googlers Magisk Repo",
   "website": "https://mmrl.dergoogler.com",
-  "support": "https://github.com/Googlers-Repo/repo/issues",
+  "support": "https://github.com/Googlers-Repo/gmr/issues",
   "donate": "https://github.com/sponsors/DerGoogler",
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705409448.603474
+    "timestamp": 1705410015.866607
   },
   "modules": [
     {
