@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705406577.354691
+    "timestamp": 1705408844.38323
   },
   "modules": [
     {
@@ -26,9 +26,9 @@
         "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues",
         "donate": "https://github.com/sponsors/DerGoogler",
-        "verified": false,
+        "verified": true,
         "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
-        "logo": "",
+        "icon": "",
         "screenshots": [
           "https://cdn.dergoogler.com/images/mkshrc-screen1.png",
           "https://cdn.dergoogler.com/images/mkshrc-screen2.png",
@@ -40,7 +40,8 @@
           "Configurable",
           "Tools"
         ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md"
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
+        "antifeatures": ""
       },
       "versions": [
         {
@@ -69,9 +70,9 @@
         "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
         "support": "https://github.com/Googlers-Repo/mmrl_install_tools/issues",
         "donate": "https://github.com/sponsors/DerGoogler",
-        "verified": false,
+        "verified": true,
         "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
-        "logo": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
+        "icon": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
         "screenshots": [
           "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/f5b7d396-781e-463a-b4ed-dc345cc15ba3I",
           "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/0a03c54a-3064-4ed0-a69b-90db437bd9f0",
@@ -83,7 +84,8 @@
           "System",
           "Configurable"
         ],
-        "readme": ""
+        "readme": "",
+        "antifeatures": ""
       },
       "versions": [
         {
@@ -119,9 +121,9 @@
         "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues",
         "donate": "https://github.com/sponsors/DerGoogler",
-        "verified": false,
+        "verified": true,
         "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
-        "logo": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
+        "icon": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
         "screenshots": "",
         "category": "",
         "categories": [
@@ -129,7 +131,8 @@
           "Configurable",
           "Tools"
         ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md"
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
+        "antifeatures": ""
       },
       "versions": [
         {
@@ -158,9 +161,9 @@
         "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
         "donate": "",
-        "verified": false,
+        "verified": true,
         "cover": "https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif",
-        "logo": "",
+        "icon": "",
         "screenshots": [
           "https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif"
         ],
@@ -168,7 +171,8 @@
         "categories": [
           "System"
         ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md"
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
+        "antifeatures": ""
       },
       "versions": [
         {
