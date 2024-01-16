@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705408844.38323
+    "timestamp": 1705409448.603474
   },
   "modules": [
     {
@@ -84,7 +84,7 @@
           "System",
           "Configurable"
         ],
-        "readme": "",
+        "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
         "antifeatures": ""
       },
       "versions": [
