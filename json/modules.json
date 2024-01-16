@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705413261.748779
+    "timestamp": 1705424235.755389
   },
   "modules": [
     {
@@ -48,7 +48,7 @@
           "timestamp": 1705018302.0,
           "version": "1.5.13",
           "versionCode": 1513,
-          "zipUrl": "https://gr.dergoogler.com/repo/modules/mkshrc/1.5.13_1513.zip",
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mkshrc/1.5.13_1513.zip",
           "changelog": ""
         }
       ]
@@ -92,14 +92,14 @@
           "timestamp": 1705103442.0,
           "version": "3.2.1",
           "versionCode": 321,
-          "zipUrl": "https://gr.dergoogler.com/repo/modules/mmrl_install_tools/3.2.1_321.zip",
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/3.2.1_321.zip",
           "changelog": ""
         },
         {
           "timestamp": 1705390629.0,
           "version": "4.2.2",
           "versionCode": 422,
-          "zipUrl": "https://gr.dergoogler.com/repo/modules/mmrl_install_tools/4.2.2_422.zip",
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/4.2.2_422.zip",
           "changelog": ""
         }
       ]
@@ -139,7 +139,7 @@
           "timestamp": 1701020945.0,
           "version": "1.5.4",
           "versionCode": 154,
-          "zipUrl": "https://gr.dergoogler.com/repo/modules/node/1.5.4_154.zip",
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/node/1.5.4_154.zip",
           "changelog": ""
         }
       ]
@@ -179,7 +179,7 @@
           "timestamp": 1701025578.0,
           "version": "v0.20.1",
           "versionCode": 201,
-          "zipUrl": "https://gr.dergoogler.com/repo/modules/xhhttp/v0.20.1_201.zip",
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.20.1_201.zip",
           "changelog": ""
         }
       ]
