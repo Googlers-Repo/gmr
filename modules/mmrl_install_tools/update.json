@@ -15,6 +15,13 @@
       "versionCode": 422,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/4.2.2_422.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1705489810.0,
+      "version": "4.2.3",
+      "versionCode": 423,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/4.2.3_423.zip",
+      "changelog": ""
     }
   ]
 }

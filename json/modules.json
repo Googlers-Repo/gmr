@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1705424235.755389
+    "timestamp": 1705602112.65987
   },
   "modules": [
     {
@@ -56,12 +56,12 @@
     {
       "id": "mmrl_install_tools",
       "name": "MMRL Install Tools",
-      "version": "4.2.2",
-      "versionCode": 422,
+      "version": "4.2.3",
+      "versionCode": 423,
       "author": "Der_Googler",
       "description": "Required module if you want to install modules from Explore",
       "added": 1705238797.0266,
-      "timestamp": 1705390629.0,
+      "timestamp": 1705489810.0,
       "track": {
         "type": "GIT",
         "added": 1705238797.0266,
@@ -100,6 +100,13 @@
           "version": "4.2.2",
           "versionCode": 422,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/4.2.2_422.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1705489810.0,
+          "version": "4.2.3",
+          "versionCode": 423,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/4.2.3_423.zip",
           "changelog": ""
         }
       ]
