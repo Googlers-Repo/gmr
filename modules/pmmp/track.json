@@ -1,7 +1,7 @@
 {
   "id": "pmmp",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/TukangM/PocketMine-MP4Android.git",
   "source": "https://github.com/TukangM/PocketMine-MP4Android.git",
   "support": "https://github.com/TukangM/PocketMine-MP4Android/issues",
