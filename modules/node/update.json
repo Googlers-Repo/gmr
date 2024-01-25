@@ -8,6 +8,13 @@
       "versionCode": 154,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/node/1.5.4_154.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1706173983.0,
+      "version": "1.5.5",
+      "versionCode": 155,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/node/1.5.5_155.zip",
+      "changelog": ""
     }
   ]
 }
