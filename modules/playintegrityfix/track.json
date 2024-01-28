@@ -1,0 +1,9 @@
+{
+  "id": "playintegrityfix",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/daboynb/PlayIntegrityNEXT/main/update.json",
+  "license": "GPL-3.0",
+  "categories": [],
+  "added": 1706465906.617061
+}

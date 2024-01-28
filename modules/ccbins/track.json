@@ -1,0 +1,11 @@
+{
+  "id": "ccbins",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Repo/ccbins.git",
+  "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
+  "support": "https://github.com/Magisk-Modules-Repo/ccbins/issues",
+  "categories": [],
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
+  "added": 1706465625.561501
+}
