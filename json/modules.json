@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1706552399.730656
+    "timestamp": 1706553375.964585
   },
   "modules": [
     {
@@ -227,42 +227,6 @@
           "versionCode": 155,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/node/1.5.5_155.zip",
           "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "playcurl",
-      "name": "playcurl",
-      "version": "v5",
-      "versionCode": 500,
-      "author": "daboynb",
-      "description": "Curl binary for Fp_downloader.apk",
-      "added": 1706465906.617061,
-      "timestamp": 1706386348.0,
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1706465906.617061,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": "",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": "",
-        "category": "",
-        "categories": [],
-        "readme": "",
-        "antifeatures": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1706386348.0,
-          "version": "v5",
-          "versionCode": 500,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v5_500.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v5_500.md"
         }
       ]
     },
