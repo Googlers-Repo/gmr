@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1706465885.958392
+    "timestamp": 1706490626.185907
   },
   "modules": [
     {
@@ -41,6 +41,42 @@
           "version": "v3",
           "versionCode": 3,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/Off-Tombstoned/v3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ccbins",
+      "name": "Cross Compiled Binaries",
+      "version": "v11",
+      "versionCode": 16,
+      "author": "Zackptg5",
+      "description": "A growing collection of cross compiled binaries for android",
+      "added": 1706465625.561501,
+      "timestamp": 1691966533.0,
+      "track": {
+        "type": "GIT",
+        "added": 1706465625.561501,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
+        "support": "https://github.com/Magisk-Modules-Repo/ccbins/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691966533.0,
+          "version": "v11",
+          "versionCode": 16,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v11_16.zip",
           "changelog": ""
         }
       ]
@@ -191,6 +227,42 @@
           "versionCode": 155,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/node/1.5.5_155.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "playcurl",
+      "name": "playcurl",
+      "version": "v5",
+      "versionCode": 500,
+      "author": "daboynb",
+      "description": "Curl binary for Fp_downloader.apk",
+      "added": 1706465906.617061,
+      "timestamp": 1706386348.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1706465906.617061,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1706386348.0,
+          "version": "v5",
+          "versionCode": 500,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v5_500.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v5_500.md"
         }
       ]
     },
