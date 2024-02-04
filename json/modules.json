@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1707049633.410371
+    "timestamp": 1707070848.569571
   },
   "modules": [
     {
@@ -84,12 +84,12 @@
     {
       "id": "mkshrc",
       "name": "Systemless Mkshrc",
-      "version": "1.5.13",
-      "versionCode": 1513,
+      "version": "1.5.14",
+      "versionCode": 1514,
       "author": "Der_Googler",
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "added": 1705247355.84234,
-      "timestamp": 1705018302.0,
+      "timestamp": 1707054518.0,
       "track": {
         "type": "GIT",
         "added": 1705247355.84234,
@@ -121,6 +121,13 @@
           "version": "1.5.13",
           "versionCode": 1513,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mkshrc/1.5.13_1513.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1707054518.0,
+          "version": "1.5.14",
+          "versionCode": 1514,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mkshrc/1.5.14_1514.zip",
           "changelog": ""
         }
       ]
