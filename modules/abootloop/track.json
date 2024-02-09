@@ -5,5 +5,7 @@
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues",
-  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md"
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
+  "last_update": 1706963354.0,
+  "versions": 1
 }

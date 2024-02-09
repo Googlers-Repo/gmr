@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1707459633.890927
+    "timestamp": 1707481719.922009
   },
   "modules": [
     {
@@ -41,6 +41,42 @@
           "version": "v3",
           "versionCode": 3,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/Off-Tombstoned/v3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "abootloop",
+      "name": "Anti bootloop",
+      "version": "v1.2",
+      "versionCode": 3,
+      "author": "nedorazrab0",
+      "description": "Protection from bootloop. Press power key at boot to disable magisk modules",
+      "added": null,
+      "timestamp": 1706963354.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1706963354.0,
+          "version": "v1.2",
+          "versionCode": 3,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/abootloop/v1.2_3.zip",
           "changelog": ""
         }
       ]
