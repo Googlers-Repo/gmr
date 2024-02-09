@@ -2,8 +2,8 @@
   "id": "abootloop",
   "enable": true,
   "verified": false,
-  "update_to": "https://github.com/Magisk-Modules-Repo/abootloop.git",
-  "source": "https://github.com/Magisk-Modules-Repo/abootloop.git",
-  "support": "https://github.com/Magisk-Modules-Repo/abootloop/issues",
-  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/abootloop/main/README.md"
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md"
 }
