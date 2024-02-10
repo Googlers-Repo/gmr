@@ -200,7 +200,7 @@
           "Configurable"
         ],
         "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
-        "antifeatures": ""
+        "antifeatures": ["Ads", "Tracking"]
       },
       "versions": [
         {
