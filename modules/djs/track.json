@@ -1,0 +1,10 @@
+{
+  "id": "djs",
+  "enable": true,
+  "verified": true,
+  "update_to": "https://github.com/VR-25/djs.git",
+  "source": "https://github.com/VR-25/djs.git",
+  "support": "https://github.com/VR-25/djs/issues",
+  "categories": ["Customization", "Management"],
+  "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md"
+}

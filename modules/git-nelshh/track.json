@@ -1,0 +1,10 @@
+{
+    "id": "git-nelshh",
+    "enable": true,
+    "verified": false,
+    "update_to": "https://github.com/henriknelson/git-magisk-module.git",
+    "source": "https://github.com/henriknelson/git-magisk-module.git",
+    "support": "https://github.com/henriknelson/git-magisk-module/issues",
+    "readme": "https://raw.githubusercontent.com/henriknelson/git-magisk-module/master/README.md",
+    "antifeatures": ["No Source Since"]
+  }
