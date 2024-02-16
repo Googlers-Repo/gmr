@@ -1,12 +1,19 @@
 {
-    "id": "magisk-tailscaled",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/anasfanani/Magisk-Tailscaled.git",
-    "source": "https://github.com/anasfanani/Magisk-Tailscaled.git",
-    "support": "https://github.com/anasfanani/Magisk-Tailscaled/issues",
-    "categories": ["Tools", "Privacy Enhancements"],
-    "readme": "https://raw.githubusercontent.com/anasfanani/Magisk-Tailscaled/main/README.md",
-    "icon": "https://play-lh.googleusercontent.com/wczDL05-AOb39FcL58L32h6j_TrzzGTXDLlOrOmJ-aNsnoGsT1Gkk2vU4qyTb7tGxRw=w240-h480-rw",
-    "antifeatures": ["Tracking"]
-  }
+  "id": "magisk-tailscaled",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/anasfanani/Magisk-Tailscaled.git",
+  "source": "https://github.com/anasfanani/Magisk-Tailscaled.git",
+  "support": "https://github.com/anasfanani/Magisk-Tailscaled/issues",
+  "icon": "https://play-lh.googleusercontent.com/wczDL05-AOb39FcL58L32h6j_TrzzGTXDLlOrOmJ-aNsnoGsT1Gkk2vU4qyTb7tGxRw=w240-h480-rw",
+  "categories": [
+    "Tools",
+    "Privacy Enhancements"
+  ],
+  "readme": "https://raw.githubusercontent.com/anasfanani/Magisk-Tailscaled/main/README.md",
+  "antifeatures": [
+    "Tracking"
+  ],
+  "last_update": 1708045340.0,
+  "versions": 1
+}

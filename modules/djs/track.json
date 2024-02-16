@@ -5,6 +5,11 @@
   "update_to": "https://github.com/VR-25/djs.git",
   "source": "https://github.com/VR-25/djs.git",
   "support": "https://github.com/VR-25/djs/issues",
-  "categories": ["Customization", "Management"],
-  "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md"
+  "categories": [
+    "Customization",
+    "Management"
+  ],
+  "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
+  "last_update": 1639484648.0,
+  "versions": 1
 }

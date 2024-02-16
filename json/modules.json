@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1708064443.49653
+    "timestamp": 1708082273.500007
   },
   "modules": [
     {
@@ -113,6 +113,128 @@
           "version": "v11",
           "versionCode": 16,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v11_16.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "djs",
+      "name": "Daily Job Scheduler (DJS)",
+      "version": "v2021.11.3",
+      "versionCode": 202111030,
+      "author": "VR25",
+      "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
+      "added": null,
+      "timestamp": 1639484648.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/VR-25/djs.git",
+        "support": "https://github.com/VR-25/djs/issues",
+        "donate": "",
+        "verified": true,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Customization",
+          "Management"
+        ],
+        "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1639484648.0,
+          "version": "v2021.11.3",
+          "versionCode": 202111030,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.11.3_202111030.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "lhroot",
+      "name": "Linux Chroot Installer",
+      "version": "v2.2.0",
+      "versionCode": 1,
+      "author": "FerryAr",
+      "description": "Systemless linux chroot installer and chroot boot script",
+      "added": null,
+      "timestamp": 1703514265.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/FerryAr/lhroot.git",
+        "support": "https://github.com/FerryAr/lhroot/issues",
+        "donate": "",
+        "verified": true,
+        "cover": "https://preview.redd.it/help-lhroot-error-v0-9r30zwofnf8c1.png?width=1080&crop=smart&auto=webp&s=cf7c1000be0103c7320f58b22c0779d5aa7b9cde",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png",
+        "screenshots": [
+          "https://i.ibb.co/gdpw8QG/lhroot.png"
+        ],
+        "category": "",
+        "categories": [
+          "Customization",
+          "Tweaks and Hacks",
+          "Miscellaneous"
+        ],
+        "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1703514265.0,
+          "version": "v2.2.0",
+          "versionCode": 1,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/lhroot/v2.2.0_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk-tailscaled",
+      "name": "Magisk Tailscaled",
+      "version": "1.60.0.0",
+      "versionCode": 1600000,
+      "author": "anasfanani",
+      "description": "Tailscale. The easiest, most secure way to use WireGuard and 2FA.",
+      "added": null,
+      "timestamp": 1708045340.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/anasfanani/Magisk-Tailscaled.git",
+        "support": "https://github.com/anasfanani/Magisk-Tailscaled/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "https://play-lh.googleusercontent.com/wczDL05-AOb39FcL58L32h6j_TrzzGTXDLlOrOmJ-aNsnoGsT1Gkk2vU4qyTb7tGxRw=w240-h480-rw",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Tools",
+          "Privacy Enhancements"
+        ],
+        "readme": "https://raw.githubusercontent.com/anasfanani/Magisk-Tailscaled/main/README.md",
+        "antifeatures": [
+          "Tracking"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1708045340.0,
+          "version": "1.60.0.0",
+          "versionCode": 1600000,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-tailscaled/1.60.0.0_1600000.zip",
           "changelog": ""
         }
       ]
