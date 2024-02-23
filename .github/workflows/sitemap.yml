@@ -5,9 +5,9 @@ on:
   push:
     branches: [ master ]
 
-defaults:
-  run:
-    working-directory: modules
+#defaults:
+#  run:
+#    working-directory: modules
 
 jobs:
   sitemap_job:
@@ -25,7 +25,6 @@ jobs:
       uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://mmrl.dergoogler.com/?module=
-        path-to-root: ..
         additional-extensions: json
         sitemap-format: xml
 
