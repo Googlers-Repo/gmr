@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1708669295.327493
+    "timestamp": 1708686658.818354
   },
   "modules": [
     {
@@ -344,6 +344,46 @@
           "version": "6.3.8",
           "versionCode": 638,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/6.3.8_638.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "mmrl_wpd",
+      "name": "WiFi Password Viewer for MMRL",
+      "version": "1.0.0",
+      "versionCode": 100,
+      "author": "Der_Googler, veez21 @ xda-developers",
+      "description": "View all your WiFi passwords inside MMRL",
+      "added": null,
+      "timestamp": 1708686252.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Googlers-Repo/wpd.git",
+        "support": "https://github.com/Googlers-Repo/wpd/issues",
+        "donate": "",
+        "verified": true,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Configurable",
+          "Tweaks and Hacks",
+          "Miscellaneous"
+        ],
+        "readme": "",
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1708686252.0,
+          "version": "1.0.0",
+          "versionCode": 100,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/1.0.0_100.zip",
           "changelog": ""
         }
       ]
