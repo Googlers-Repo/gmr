@@ -4,7 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: [ master ]
-    paths: [ 'modules' ]
+
+defaults:
+  run:
+    working-directory: modules
 
 jobs:
   sitemap_job:
@@ -22,6 +25,7 @@ jobs:
       uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://mmrl.dergoogler.com/?module=
+        additional-extensions: json
         sitemap-format: xml
 
     - name: Output stats
