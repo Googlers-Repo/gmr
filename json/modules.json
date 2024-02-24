@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1708781457.456226
+    "timestamp": 1708790622.211384
   },
   "modules": [
     {
@@ -197,7 +197,10 @@
         ],
         "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": [
+          "Tracking",
+          "No Source Since"
+        ]
       },
       "versions": [
         {
