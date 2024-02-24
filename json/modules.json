@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1708777644.645498
+    "timestamp": 1708780458.219859
   },
   "modules": [
     {
@@ -33,6 +33,7 @@
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/LeanxModulostk/Off-Tombstoned/main/README.md",
+        "require": [],
         "antifeatures": ""
       },
       "versions": [
@@ -69,6 +70,7 @@
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
+        "require": [],
         "antifeatures": ""
       },
       "versions": [
@@ -103,8 +105,11 @@
         "icon": "",
         "screenshots": "",
         "category": "",
-        "categories": [],
+        "categories": [
+          "Miscellaneous"
+        ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
+        "require": [],
         "antifeatures": ""
       },
       "versions": [
@@ -144,6 +149,7 @@
           "Management"
         ],
         "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
+        "require": [],
         "antifeatures": ""
       },
       "versions": [
@@ -186,6 +192,9 @@
           "Miscellaneous"
         ],
         "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
+        "require": [
+          "ccbins"
+        ],
         "antifeatures": ""
       },
       "versions": [
@@ -225,6 +234,7 @@
           "Privacy Enhancements"
         ],
         "readme": "https://raw.githubusercontent.com/anasfanani/Magisk-Tailscaled/main/README.md",
+        "require": [],
         "antifeatures": [
           "Tracking"
         ]
@@ -271,6 +281,7 @@
           "Tools"
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
+        "require": [],
         "antifeatures": ""
       },
       "versions": [
@@ -322,6 +333,7 @@
           "Configurable"
         ],
         "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
+        "require": [],
         "antifeatures": ""
       },
       "versions": [
@@ -376,6 +388,7 @@
           "Miscellaneous"
         ],
         "readme": "",
+        "require": [],
         "antifeatures": ""
       },
       "versions": [
@@ -416,6 +429,9 @@
           "Tools"
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
+        "require": [
+          "mkshrc"
+        ],
         "antifeatures": ""
       },
       "versions": [
@@ -463,6 +479,7 @@
           "System"
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
+        "require": [],
         "antifeatures": ""
       },
       "versions": [
