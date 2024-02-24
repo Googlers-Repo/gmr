@@ -1,17 +1,19 @@
 {
-    "id": "acp",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/Magisk-Modules-Repo/acp.git",
-    "source": "https://github.com/Magisk-Modules-Repo/acp.git",
-    "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
-    "categories": [
-        "Audio Enhancements",
-        "Advanced Audio Mods",
-        "App Additions and Features"
-    ],
-    "require": [
-        "aml"
-    ],
-    "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md"
+  "id": "acp",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Repo/acp.git",
+  "source": "https://github.com/Magisk-Modules-Repo/acp.git",
+  "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
+  "require": [
+    "aml"
+  ],
+  "categories": [
+    "Audio Enhancements",
+    "Advanced Audio Mods",
+    "App Additions and Features"
+  ],
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
+  "last_update": 1643646579.0,
+  "versions": 1
 }

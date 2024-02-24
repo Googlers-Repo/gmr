@@ -1,15 +1,17 @@
 {
-    "id": "amtsmagisk",
-    "enable": true,
-    "verified": true,
-    "update_to": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
-    "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
-    "support": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues",
-    "icon": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
-    "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
-    "categories": [
-        "Privacy Enhancements",
-        "Adblocking and Hosts Files"
-    ],
-    "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md"
+  "id": "amtsmagisk",
+  "enable": true,
+  "verified": true,
+  "update_to": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
+  "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
+  "support": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues",
+  "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
+  "icon": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
+  "categories": [
+    "Privacy Enhancements",
+    "Adblocking and Hosts Files"
+  ],
+  "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
+  "last_update": 1703239411.0,
+  "versions": 1
 }

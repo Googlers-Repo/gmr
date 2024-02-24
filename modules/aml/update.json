@@ -1,0 +1,13 @@
+{
+  "id": "aml",
+  "timestamp": 1690235714.0,
+  "versions": [
+    {
+      "timestamp": 1690235714.0,
+      "version": "v5.1",
+      "versionCode": 59,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v5.1_59.zip",
+      "changelog": ""
+    }
+  ]
+}

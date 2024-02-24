@@ -1,0 +1,13 @@
+{
+  "id": "acp",
+  "timestamp": 1643646579.0,
+  "versions": [
+    {
+      "timestamp": 1643646579.0,
+      "version": "v2.5",
+      "versionCode": 39,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/acp/v2.5_39.zip",
+      "changelog": ""
+    }
+  ]
+}

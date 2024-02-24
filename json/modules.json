@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1708780458.219859
+    "timestamp": 1708781457.456226
   },
   "modules": [
     {
@@ -79,6 +79,132 @@
           "version": "v1.2",
           "versionCode": 3,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/abootloop/v1.2_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "acp",
+      "name": "Audio Compatibility Patch",
+      "version": "v2.5",
+      "versionCode": 39,
+      "author": "zackptg5, ahrion, John Fawkes",
+      "description": "Fixes music and streaming apps (Spotify, Pandora, etc) that aren't processing audio effects for various equalizer applications through the modification of audio policy",
+      "added": null,
+      "timestamp": 1643646579.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/acp.git",
+        "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Audio Enhancements",
+          "Advanced Audio Mods",
+          "App Additions and Features"
+        ],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
+        "require": [
+          "aml"
+        ],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1643646579.0,
+          "version": "v2.5",
+          "versionCode": 39,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/acp/v2.5_39.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "aml",
+      "name": "Audio Modification Library",
+      "version": "v5.1",
+      "versionCode": 59,
+      "author": "zackptg5, ahrion",
+      "description": "AudModLib is a framework that allows the seamless integration of multiple audio mods in Magisk.",
+      "added": null,
+      "timestamp": 1690235714.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Zackptg5/Audio-Modification-Library.git",
+        "support": "https://github.com/Zackptg5/Audio-Modification-Library/issues",
+        "donate": "",
+        "verified": true,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Audio Enhancements",
+          "Advanced Audio Mods",
+          "App Additions and Features"
+        ],
+        "readme": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/README.md",
+        "require": [
+          "acp"
+        ],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690235714.0,
+          "version": "v5.1",
+          "versionCode": 59,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v5.1_59.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "amtsmagisk",
+      "name": "AntiAMTS for Magisk",
+      "version": "1.2.5",
+      "versionCode": 125,
+      "author": "Der_Googler & Sierra Community",
+      "description": "AntiAMTS ist ein kostenloser AdBlocker, der von SierraDevoplers bereitgestellt wird.",
+      "added": null,
+      "timestamp": 1703239411.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
+        "support": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues",
+        "donate": "",
+        "verified": true,
+        "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
+        "icon": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Privacy Enhancements",
+          "Adblocking and Hosts Files"
+        ],
+        "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1703239411.0,
+          "version": "1.2.5",
+          "versionCode": 125,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/1.2.5_125.zip",
           "changelog": ""
         }
       ]
