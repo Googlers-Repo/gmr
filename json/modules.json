@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1708928543.013214
+    "timestamp": 1708950588.716941
   },
   "modules": [
     {
@@ -451,9 +451,9 @@
         "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
         "icon": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
         "screenshots": [
-          "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/f5b7d396-781e-463a-b4ed-dc345cc15ba3I",
-          "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/0a03c54a-3064-4ed0-a69b-90db437bd9f0",
-          "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/8fbc9621-fe85-4b66-8070-271599f87d38"
+          "https://github.com/Googlers-Repo/mmrl_install_tools/blob/master/assets/1.png?raw=true",
+          "https://github.com/Googlers-Repo/mmrl_install_tools/blob/master/assets/2.png?raw=true",
+          "https://github.com/Googlers-Repo/mmrl_install_tools/blob/master/assets/3.png?raw=true"
         ],
         "category": "",
         "categories": [
