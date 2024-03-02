@@ -1,5 +1,5 @@
 {
-  "id": "node",
+  "id": "node_on_android",
   "enable": true,
   "verified": true,
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
