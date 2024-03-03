@@ -1,6 +1,6 @@
 {
   "id": "magisk-tailscaled",
-  "enable": true,
+  "enable": false,
   "verified": false,
   "update_to": "https://github.com/anasfanani/Magisk-Tailscaled.git",
   "source": "https://github.com/anasfanani/Magisk-Tailscaled.git",
