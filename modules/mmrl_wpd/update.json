@@ -15,6 +15,13 @@
       "versionCode": 110,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/1.1.0_110.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1709457655.0,
+      "version": "2.1.1",
+      "versionCode": 211,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.1.1_211.zip",
+      "changelog": ""
     }
   ]
 }

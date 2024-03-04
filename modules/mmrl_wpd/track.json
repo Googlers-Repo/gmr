@@ -5,12 +5,12 @@
   "update_to": "https://github.com/Googlers-Repo/wpd.git",
   "source": "https://github.com/Googlers-Repo/wpd.git",
   "support": "https://github.com/Googlers-Repo/wpd/issues",
-  "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
   "categories": [
     "Configurable",
     "Tweaks and Hacks",
     "Miscellaneous"
   ],
-  "last_update": 1709202865.0,
-  "versions": 2
+  "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
+  "last_update": 1709457655.0,
+  "versions": 3
 }
