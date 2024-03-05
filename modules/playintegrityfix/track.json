@@ -1,0 +1,15 @@
+{
+    "id": "playintegrityfix",
+    "enable": true,
+    "verified": true,
+    "license": "GPL-3.0",
+    "donate": "https://www.paypal.com/paypalme/chiteroman",
+    "update_to": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json",
+    "source": "https://github.com/chiteroman/PlayIntegrityFix",
+    "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
+    "categories": [
+        "Zygisk",
+        "Security"
+    ],
+    "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md"
+}
