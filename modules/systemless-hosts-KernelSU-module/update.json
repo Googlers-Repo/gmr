@@ -1,0 +1,13 @@
+{
+  "id": "systemless-hosts-KernelSU-module",
+  "timestamp": 1707677112.0,
+  "versions": [
+    {
+      "timestamp": 1707677112.0,
+      "version": "v1.1.3",
+      "versionCode": 113,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.3_113.zip",
+      "changelog": ""
+    }
+  ]
+}

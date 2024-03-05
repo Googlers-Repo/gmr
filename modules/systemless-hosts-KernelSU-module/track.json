@@ -1,14 +1,16 @@
 {
-    "id": "systemless-hosts-KernelSU-module",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module.git",
-    "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module",
-    "support": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues",
-    "categories": [
-      "Adblocking and Hosts Files",
-      "KernelSU",
-      "APatch"
-    ],
-    "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md"
-  }
+  "id": "systemless-hosts-KernelSU-module",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module.git",
+  "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module",
+  "support": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues",
+  "categories": [
+    "Adblocking and Hosts Files",
+    "KernelSU",
+    "APatch"
+  ],
+  "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
+  "last_update": 1707677112.0,
+  "versions": 1
+}

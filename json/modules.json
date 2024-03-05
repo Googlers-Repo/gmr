@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1709619632.851431
+    "timestamp": 1709625803.379924
   },
   "modules": [
     {
@@ -337,6 +337,84 @@
       ]
     },
     {
+      "id": "livebootmagisk",
+      "name": "LiveBoot",
+      "version": "v1.1.2",
+      "versionCode": 112,
+      "author": "Ali Beyaz (avalibeyaz.com/github)",
+      "description": "A Magisk and KernelSU module that enables unix-style (verbose) boot animation for Android devices",
+      "added": null,
+      "timestamp": 1702580314.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/symbuzzer/livebootmodule",
+        "support": "https://github.com/symbuzzer/livebootmodule/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Customization"
+        ],
+        "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1702580314.0,
+          "version": "v1.1.2",
+          "versionCode": 112,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v1.1.2_112.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk_proc_monitor",
+      "name": "Process Monitor Tool",
+      "version": "2.3",
+      "versionCode": 10,
+      "author": "HuskyDG",
+      "description": "Provide the way for modules to run script whenever app process start. More information, please visit http://github.com/huskydg/magisk_proc_monitor",
+      "added": null,
+      "timestamp": 1694360679.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues",
+        "donate": "",
+        "verified": true,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "App Additions and Features"
+        ],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694360679.0,
+          "version": "2.3",
+          "versionCode": 10,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk_proc_monitor/2.3_10.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "mkshrc",
       "name": "Systemless Mkshrc",
       "version": "1.5.14",
@@ -548,6 +626,86 @@
           "version": "1.5.5",
           "versionCode": 155,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/node_on_android/1.5.5_155.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "sqlite3",
+      "name": "SQLite for arm, arm64, x86 and x64 devices",
+      "version": "v3.45.1",
+      "versionCode": 20240204,
+      "author": "Rojen Zaman",
+      "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
+      "added": null,
+      "timestamp": 1707060999.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/rojenzaman/sqlite3-magisk-module",
+        "support": "https://github.com/rojenzaman/sqlite3-magisk-module/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Tools"
+        ],
+        "readme": "https://raw.githubusercontent.com/rojenzaman/sqlite3-magisk-module/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1707060999.0,
+          "version": "v3.45.1",
+          "versionCode": 20240204,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.1_20240204.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "systemless-hosts-KernelSU-module",
+      "name": "systemless hosts KernelSU module",
+      "version": "v1.1.3",
+      "versionCode": 113,
+      "author": "symbuzzer (avalibeyaz.com/github)",
+      "description": "Required module to use applications such as AdAway on KernelSU and APatch",
+      "added": null,
+      "timestamp": 1707677112.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module",
+        "support": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Adblocking and Hosts Files",
+          "KernelSU",
+          "APatch"
+        ],
+        "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1707677112.0,
+          "version": "v1.1.3",
+          "versionCode": 113,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.3_113.zip",
           "changelog": ""
         }
       ]

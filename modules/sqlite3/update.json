@@ -1,0 +1,13 @@
+{
+  "id": "sqlite3",
+  "timestamp": 1707060999.0,
+  "versions": [
+    {
+      "timestamp": 1707060999.0,
+      "version": "v3.45.1",
+      "versionCode": 20240204,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.1_20240204.zip",
+      "changelog": ""
+    }
+  ]
+}

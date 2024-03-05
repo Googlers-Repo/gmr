@@ -1,12 +1,14 @@
 {
-    "id": "livebootmagisk",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/symbuzzer/livebootmodule.git",
-    "source": "https://github.com/symbuzzer/livebootmodule",
-    "support": "https://github.com/symbuzzer/livebootmodule/issues",
-    "categories": [
-      "Customization"
-    ],
-    "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md"
-  }
+  "id": "livebootmagisk",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/symbuzzer/livebootmodule.git",
+  "source": "https://github.com/symbuzzer/livebootmodule",
+  "support": "https://github.com/symbuzzer/livebootmodule/issues",
+  "categories": [
+    "Customization"
+  ],
+  "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
+  "last_update": 1702580314.0,
+  "versions": 1
+}

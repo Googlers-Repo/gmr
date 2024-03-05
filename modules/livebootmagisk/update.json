@@ -1,0 +1,13 @@
+{
+  "id": "livebootmagisk",
+  "timestamp": 1702580314.0,
+  "versions": [
+    {
+      "timestamp": 1702580314.0,
+      "version": "v1.1.2",
+      "versionCode": 112,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v1.1.2_112.zip",
+      "changelog": ""
+    }
+  ]
+}

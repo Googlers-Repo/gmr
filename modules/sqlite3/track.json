@@ -1,12 +1,14 @@
 {
-    "id": "sqlite3",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/rojenzaman/sqlite3-magisk-module.git",
-    "source": "https://github.com/rojenzaman/sqlite3-magisk-module",
-    "support": "https://github.com/rojenzaman/sqlite3-magisk-module/issues",
-    "categories": [
-      "Tools"
-    ],
-    "readme": "https://raw.githubusercontent.com/rojenzaman/sqlite3-magisk-module/master/README.md"
-  }
+  "id": "sqlite3",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/rojenzaman/sqlite3-magisk-module.git",
+  "source": "https://github.com/rojenzaman/sqlite3-magisk-module",
+  "support": "https://github.com/rojenzaman/sqlite3-magisk-module/issues",
+  "categories": [
+    "Tools"
+  ],
+  "readme": "https://raw.githubusercontent.com/rojenzaman/sqlite3-magisk-module/master/README.md",
+  "last_update": 1707060999.0,
+  "versions": 1
+}
