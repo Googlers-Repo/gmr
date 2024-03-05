@@ -1,0 +1,13 @@
+{
+  "id": "playintegrityfix",
+  "timestamp": 1709399823.0,
+  "versions": [
+    {
+      "timestamp": 1709399823.0,
+      "version": "v15.9.3",
+      "versionCode": 15930,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.3_15930.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.3_15930.md"
+    }
+  ]
+}

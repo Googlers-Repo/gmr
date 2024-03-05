@@ -6,7 +6,7 @@
   "submission": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1709625803.379924
+    "timestamp": 1709634585.460099
   },
   "modules": [
     {
@@ -627,6 +627,46 @@
           "versionCode": 155,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/node_on_android/1.5.5_155.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "playintegrityfix",
+      "name": "Play Integrity Fix",
+      "version": "v15.9.3",
+      "versionCode": 15930,
+      "author": "chiteroman",
+      "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-14.",
+      "added": null,
+      "timestamp": 1709399823.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/chiteroman/PlayIntegrityFix",
+        "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
+        "donate": "https://www.paypal.com/paypalme/chiteroman",
+        "verified": true,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Zygisk",
+          "Security"
+        ],
+        "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1709399823.0,
+          "version": "v15.9.3",
+          "versionCode": 15930,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.3_15930.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.3_15930.md"
         }
       ]
     },

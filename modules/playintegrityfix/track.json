@@ -1,15 +1,17 @@
 {
-    "id": "playintegrityfix",
-    "enable": true,
-    "verified": true,
-    "license": "GPL-3.0",
-    "donate": "https://www.paypal.com/paypalme/chiteroman",
-    "update_to": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json",
-    "source": "https://github.com/chiteroman/PlayIntegrityFix",
-    "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
-    "categories": [
-        "Zygisk",
-        "Security"
-    ],
-    "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md"
+  "id": "playintegrityfix",
+  "enable": true,
+  "verified": true,
+  "update_to": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json",
+  "license": "GPL-3.0",
+  "source": "https://github.com/chiteroman/PlayIntegrityFix",
+  "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
+  "donate": "https://www.paypal.com/paypalme/chiteroman",
+  "categories": [
+    "Zygisk",
+    "Security"
+  ],
+  "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
+  "last_update": 1709399823.0,
+  "versions": 1
 }
