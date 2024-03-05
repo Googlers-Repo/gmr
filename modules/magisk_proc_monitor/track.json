@@ -1,0 +1,12 @@
+{
+    "id": "magisk_proc_monitor",
+    "enable": true,
+    "verified": true,
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
+    "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor",
+    "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues",
+    "categories": [
+      "App Additions and Features"
+    ],
+    "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md"
+  }
