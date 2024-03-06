@@ -8,6 +8,13 @@
       "versionCode": 15930,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.3_15930.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.3_15930.md"
+    },
+    {
+      "timestamp": 1709739032.0,
+      "version": "v15.9.4",
+      "versionCode": 15940,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.4_15940.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.4_15940.md"
     }
   ]
 }
