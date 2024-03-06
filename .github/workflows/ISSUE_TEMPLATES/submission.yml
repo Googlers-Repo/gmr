@@ -1,0 +1,117 @@
+name: Module submission
+description: Submit your module
+title: '[Module]: '
+labels:
+  - module
+body:
+  - type: input
+    id: update_to
+    attributes:
+      label: Update to
+      description: Vaild JSON or Git
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: id
+    attributes:
+      label: Module ID
+      placeholder: mkshrc
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Systemless Mkshrc
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: My module does this and this
+    validations:
+      required: true
+  - type: dropdown
+    id: categories
+    attributes:
+      label: Categories
+      multiple: true
+      options:
+        - Tools
+        - Boot
+        - Coding
+        - Configurable
+        - Managment
+        - System
+        - Apps
+        - Gaming
+        - Other
+        - Magisk
+        - KernelSU
+        - APatch
+        - LSPosed
+        - Zygisk
+        - Xposed
+        - Performance Optimization
+        - Battery Life
+        - Customization
+        - Audio Enhancements
+        - Security
+        - Camera Enhancements
+        - SystemUI Mods
+        - Tweaks and Hacks
+        - Modifications for Root Apps
+        - System Fonts and Emojis
+        - Miscellaneous
+        - ROM-Specific Modules
+        - Gamepad and Controller Support
+        - App Additions and Features
+        - Adblocking and Hosts Files
+        - Navigation Bar and Gesture Customization
+        - Advanced Audio Mods
+        - Custom Kernels
+        - Boot Animation
+        - Privacy Enhancements
+  - type: input
+    id: raw_readme
+    attributes:
+      label: Raw README
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: icon
+    attributes:
+      label: Icon
+      placeholder: https://...
+  - type: input
+    id: cover
+    attributes:
+      label: Cover
+      placeholder: https://...
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Please every screenshot in a new line
+      value: |-
+        http://...
+        http://...
+        http://...
+  - type: input
+    id: donation
+    attributes:
+      label: Donation
+      placeholder: https://...
+  - type: input
+    id: support
+    attributes:
+      label: Support
+      placeholder: https://...
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)
