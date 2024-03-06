@@ -2,7 +2,7 @@ name: Module submission
 description: Submit your module
 title: '[Module]: '
 labels:
-  - bug
+  - module
 body:
   - type: input
     id: update_to
