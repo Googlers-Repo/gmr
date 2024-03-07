@@ -22,26 +22,29 @@ body:
       description: >-
         Please provide links for external used sources e.g. for included
         binaries
-      placeholder: https://...\nhttps://...
+      placeholder: |
+        https://...
+        https://...
+        https://...
   - type: input
     id: id
     attributes:
       label: Module ID
-      placeholder: mkshrc
+      placeholder: code_server
     validations:
       required: true
   - type: input
     id: name
     attributes:
       label: Name
-      placeholder: Systemless Mkshrc
+      placeholder: Code Server for Android
     validations:
       required: true
   - type: textarea
     id: description
     attributes:
       label: Description
-      placeholder: My module does this and this
+      placeholder: Use Code Server on Android without Termux
     validations:
       required: true
   - type: dropdown
@@ -103,11 +106,22 @@ body:
       label: Cover
       placeholder: https://...
   - type: textarea
+    id: module_requires
+    attributes:
+      label: Require
+      description: Does your module depend on other modules? Insert here the module ID of it (spaerrated by a new line).
+      placeholder: |
+        mkshrc
+        node_on_android
+  - type: textarea
     id: screenshots
     attributes:
       label: Screenshots
       description: Spaerrated by new lines
-      placeholder: https://...\nhttps://...
+      placeholder: |
+        https://...
+        https://...
+        https://...
   - type: input
     id: donation
     attributes:
