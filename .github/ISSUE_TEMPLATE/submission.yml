@@ -1,17 +1,28 @@
-name: Module submission
-description: Submit your module
+name: Module Submission
+description: Preferred Magisk Module submission template
 title: '[Module]: '
-labels:
-  - module
 body:
+  - type: markdown
+    attributes:
+      value: >-
+        ## Read our [guidelines](https://dergoogler.com/gmr/guidelines) before
+        you submit your module!
   - type: input
     id: update_to
     attributes:
       label: Update to
-      description: Vaild JSON or Git
+      description: Vaild URL to an `update.json` or an Git URL
       placeholder: https://...
     validations:
       required: true
+  - type: textarea
+    id: external_sources
+    attributes:
+      label: External sources
+      description: >-
+        Please provide links for external used sources e.g. for included
+        binaries
+      placeholder: https://...\nhttps://...
   - type: input
     id: id
     attributes:
@@ -95,11 +106,8 @@ body:
     id: screenshots
     attributes:
       label: Screenshots
-      description: Please every screenshot in a new line
-      value: |-
-        http://...
-        http://...
-        http://...
+      description: Spaerrated by new lines
+      placeholder: https://...\nhttps://...
   - type: input
     id: donation
     attributes:
