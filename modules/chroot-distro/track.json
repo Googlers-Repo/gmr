@@ -1,0 +1,24 @@
+{
+    "id": "chroot-distro",
+    "enable": true,
+    "update_to": "https://github.com/YasserNull/chroot-distro.git",
+    "source": "https://github.com/YasserNull/chroot-distro",
+    "support": "https://github.com/YasserNull/chroot-distro/issues",
+    "donate": "",
+    "cover": "",
+    "icon": "",
+    "categories": [
+        "Customization"
+    ],
+    "require": [
+        "busybox-ndk"
+    ],
+    "screenshots": [
+        "https://github.com/YasserNull/chroot-distro/blob/main/screenshot/debian_vnc.png?raw=true",
+        "https://github.com/YasserNull/chroot-distro/blob/main/screenshot/kali-linux.png?raw=true",
+        "https://github.com/YasserNull/chroot-distro/blob/main/screenshot/debian.png?raw=true",
+        "https://github.com/YasserNull/chroot-distro/blob/main/screenshot/help.png?raw=true"
+    ],
+    "antifeatures": [],
+    "readme": "https://github.com/YasserNull/chroot-distro/raw/main/README.md"
+}
