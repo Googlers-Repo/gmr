@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1710051562.293679
+    "timestamp": 1710073614.715691
   },
   "modules": [
     {
@@ -469,12 +469,12 @@
     {
       "id": "mmrl_install_tools",
       "name": "MMRL Install Tools",
-      "version": "6.4.8",
-      "versionCode": 648,
+      "version": "6.4.9",
+      "versionCode": 649,
       "author": "Der_Googler",
       "description": "Required module if you want to install modules from Explore",
       "added": 1705238797.0266,
-      "timestamp": 1709236117.0,
+      "timestamp": 1710063051.0,
       "track": {
         "type": "GIT",
         "added": 1705238797.0266,
@@ -503,13 +503,6 @@
       },
       "versions": [
         {
-          "timestamp": 1705792370.0,
-          "version": "4.3.4",
-          "versionCode": 434,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/4.3.4_434.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1708668459.0,
           "version": "6.3.8",
           "versionCode": 638,
@@ -521,6 +514,13 @@
           "version": "6.4.8",
           "versionCode": 648,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/6.4.8_648.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1710063051.0,
+          "version": "6.4.9",
+          "versionCode": 649,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/6.4.9_649.zip",
           "changelog": ""
         }
       ]
