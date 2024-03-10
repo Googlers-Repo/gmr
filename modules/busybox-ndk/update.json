@@ -1,0 +1,13 @@
+{
+  "id": "busybox-ndk",
+  "timestamp": 1699710957.0,
+  "versions": [
+    {
+      "timestamp": 1699710957.0,
+      "version": "1.36.1",
+      "versionCode": 13614,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/busybox-ndk/1.36.1_13614.zip",
+      "changelog": ""
+    }
+  ]
+}
