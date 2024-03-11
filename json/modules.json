@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1710160235.410787
+    "timestamp": 1710181243.677945
   },
   "modules": [
     {
@@ -151,7 +151,7 @@
         "categories": [
           "System"
         ],
-        "readme": "https://github.com/Magisk-Modules-Repo/adb-ndk/raw/master/README.md",
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
         "require": [],
         "antifeatures": ""
       },
@@ -277,7 +277,7 @@
           "System",
           "Tools"
         ],
-        "readme": "https://github.com/Magisk-Modules-Repo/busybox-ndk/raw/master/README.md",
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
         "require": [],
         "antifeatures": ""
       },
@@ -360,7 +360,7 @@
         "categories": [
           "Customization"
         ],
-        "readme": "https://github.com/YasserNull/chroot-distro/raw/main/README.md",
+        "readme": "https://raw.githubusercontent.com/YasserNull/chroot-distro/main/README.md",
         "require": [
           "busybox-ndk"
         ],
@@ -530,7 +530,7 @@
           "System",
           "Magisk"
         ],
-        "readme": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/raw/main/README.md",
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
         "require": [],
         "antifeatures": ""
       },
@@ -774,7 +774,7 @@
         "categories": [
           "System"
         ],
-        "readme": "https://github.com/Magisk-Modules-Repo/nano-ndk/raw/master/README.md",
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
         "require": [],
         "antifeatures": ""
       },
@@ -1031,7 +1031,7 @@
         "categories": [
           "System"
         ],
-        "readme": "https://github.com/Magisk-Modules-Repo/zipsigner/raw/master/README.md",
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
         "require": [],
         "antifeatures": ""
       },
