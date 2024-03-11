@@ -1,0 +1,13 @@
+{
+  "id": "adb-ndk",
+  "timestamp": 1698679366.0,
+  "versions": [
+    {
+      "timestamp": 1698679366.0,
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/adb-ndk/1.0.41_104114.zip",
+      "changelog": ""
+    }
+  ]
+}

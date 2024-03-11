@@ -1,17 +1,17 @@
 {
-    "id": "zipsigner",
-    "enable": true,
-    "update_to": "https://github.com/Magisk-Modules-Repo/zipsigner.git",
-    "source": "https://github.com/Magisk-Modules-Repo/zipsigner",
-    "support": "https://github.com/Magisk-Modules-Repo/zipsigner/issues",
-    "donate": "https://github.com/sponsors/osm0sis",
-    "cover": "",
-    "icon": "",
-    "categories": [
-        "System"
-    ],
-    "require": [],
-    "screenshots": [],
-    "antifeatures": [],
-    "readme": "https://github.com/Magisk-Modules-Repo/zipsigner/raw/master/README.md"
+  "id": "zipsigner",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/zipsigner.git",
+  "source": "https://github.com/Magisk-Modules-Repo/zipsigner",
+  "support": "https://github.com/Magisk-Modules-Repo/zipsigner/issues",
+  "donate": "https://github.com/sponsors/osm0sis",
+  "screenshots": [],
+  "require": [],
+  "categories": [
+    "System"
+  ],
+  "readme": "https://github.com/Magisk-Modules-Repo/zipsigner/raw/master/README.md",
+  "antifeatures": [],
+  "last_update": 1709523749.0,
+  "versions": 1
 }

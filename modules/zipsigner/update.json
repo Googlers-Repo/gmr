@@ -1,0 +1,13 @@
+{
+  "id": "zipsigner",
+  "timestamp": 1709523749.0,
+  "versions": [
+    {
+      "timestamp": 1709523749.0,
+      "version": "3.0-13",
+      "versionCode": 301303,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zipsigner/3.0-13_301303.zip",
+      "changelog": ""
+    }
+  ]
+}

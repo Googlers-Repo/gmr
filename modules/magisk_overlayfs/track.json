@@ -1,18 +1,17 @@
 {
-    "id": "magisk_overlayfs",
-    "enable": true,
-    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
-    "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs",
-    "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues",
-    "donate": "",
-    "cover": "",
-    "icon": "",
-    "categories": [
-        "System",
-        "Magisk"
-    ],
-    "require": [],
-    "screenshots": [],
-    "antifeatures": [],
-    "readme": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/raw/main/README.md"
+  "id": "magisk_overlayfs",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues",
+  "screenshots": [],
+  "require": [],
+  "categories": [
+    "System",
+    "Magisk"
+  ],
+  "readme": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/raw/main/README.md",
+  "antifeatures": [],
+  "last_update": 1686805349.0,
+  "versions": 1
 }

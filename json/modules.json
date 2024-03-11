@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1710138095.367704
+    "timestamp": 1710150938.718524
   },
   "modules": [
     {
@@ -122,6 +122,45 @@
           "version": "v2.5",
           "versionCode": 39,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/acp/v2.5_39.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "adb-ndk",
+      "name": "ADB & Fastboot for Android NDK",
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "author": "osm0sis & Surge1223 @ xda-developers",
+      "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
+      "added": null,
+      "timestamp": 1698679366.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/adb-ndk",
+        "support": "https://github.com/Magisk-Modules-Repo/adb-ndk/issues",
+        "donate": "https://github.com/sponsors/osm0sis",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "System"
+        ],
+        "readme": "https://github.com/Magisk-Modules-Repo/adb-ndk/raw/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1698679366.0,
+          "version": "1.0.41",
+          "versionCode": 104114,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/adb-ndk/1.0.41_104114.zip",
           "changelog": ""
         }
       ]
@@ -445,11 +484,15 @@
         "screenshots": "",
         "category": "",
         "categories": [
-          "Customization"
+          "Boot",
+          "Boot Animation",
+          "System"
         ],
-        "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
+        "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": [
+          "No Source Since"
+        ]
       },
       "versions": [
         {
@@ -457,6 +500,46 @@
           "version": "v1.1.2",
           "versionCode": 112,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v1.1.2_112.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "magisk_overlayfs",
+      "name": "Magical Overlayfs",
+      "version": "v3.1.2",
+      "versionCode": 30102,
+      "author": "HuskyDG",
+      "description": "Use OverlayFS to make read-only system partitions become read-write partitions. OverlayFS MUST be supported by kernel!",
+      "added": null,
+      "timestamp": 1686805349.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "System",
+          "Magisk"
+        ],
+        "readme": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/raw/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686805349.0,
+          "version": "v3.1.2",
+          "versionCode": 30102,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk_overlayfs/v3.1.2_30102.zip",
           "changelog": ""
         }
       ]
@@ -662,6 +745,45 @@
           "version": "2.1.1",
           "versionCode": 211,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.1.1_211.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "nano-ndk",
+      "name": "Nano for Android NDK",
+      "version": "7.2",
+      "versionCode": 7204,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static arm/arm64 nano binary for Android built with the NDK",
+      "added": null,
+      "timestamp": 1699585603.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/nano-ndk",
+        "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",
+        "donate": "https://github.com/sponsors/osm0sis",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "System"
+        ],
+        "readme": "https://github.com/Magisk-Modules-Repo/nano-ndk/raw/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1699585603.0,
+          "version": "7.2",
+          "versionCode": 7204,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/7.2_7204.zip",
           "changelog": ""
         }
       ]
@@ -880,6 +1002,45 @@
           "version": "v0.20.1",
           "versionCode": 201,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.20.1_201.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "zipsigner",
+      "name": "Zip & ZipSigner for Android NDK",
+      "version": "3.0-13",
+      "versionCode": 301303,
+      "author": "osm0sis & topjohnwu @ xda-developers",
+      "description": "Wrapped dexed zipsigner.jar, and static arm/arm64 zip and zipalign binaries for Android built with the NDK",
+      "added": null,
+      "timestamp": 1709523749.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/zipsigner",
+        "support": "https://github.com/Magisk-Modules-Repo/zipsigner/issues",
+        "donate": "https://github.com/sponsors/osm0sis",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "System"
+        ],
+        "readme": "https://github.com/Magisk-Modules-Repo/zipsigner/raw/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1709523749.0,
+          "version": "3.0-13",
+          "versionCode": 301303,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zipsigner/3.0-13_301303.zip",
           "changelog": ""
         }
       ]

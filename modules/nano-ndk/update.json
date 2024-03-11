@@ -1,0 +1,13 @@
+{
+  "id": "nano-ndk",
+  "timestamp": 1699585603.0,
+  "versions": [
+    {
+      "timestamp": 1699585603.0,
+      "version": "7.2",
+      "versionCode": 7204,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/7.2_7204.zip",
+      "changelog": ""
+    }
+  ]
+}
