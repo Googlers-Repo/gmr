@@ -1,0 +1,17 @@
+{
+    "id": "adb-ndk",
+    "enable": true,
+    "update_to": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
+    "source": "https://github.com/Magisk-Modules-Repo/adb-ndk",
+    "support": "https://github.com/Magisk-Modules-Repo/adb-ndk/issues",
+    "donate": "https://github.com/sponsors/osm0sis",
+    "cover": "",
+    "icon": "",
+    "categories": [
+        "System"
+    ],
+    "require": [],
+    "screenshots": [],
+    "antifeatures": [],
+    "readme": "https://github.com/Magisk-Modules-Repo/adb-ndk/raw/master/README.md"
+}

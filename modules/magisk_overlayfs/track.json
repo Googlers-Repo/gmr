@@ -1,0 +1,18 @@
+{
+    "id": "magisk_overlayfs",
+    "enable": true,
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+    "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs",
+    "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues",
+    "donate": "",
+    "cover": "",
+    "icon": "",
+    "categories": [
+        "System",
+        "Magisk"
+    ],
+    "require": [],
+    "screenshots": [],
+    "antifeatures": [],
+    "readme": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/raw/main/README.md"
+}

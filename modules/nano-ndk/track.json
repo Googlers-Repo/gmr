@@ -1,0 +1,17 @@
+{
+    "id": "nano-ndk",
+    "enable": true,
+    "update_to": "https://github.com/Magisk-Modules-Repo/nano-ndk.git",
+    "source": "https://github.com/Magisk-Modules-Repo/nano-ndk",
+    "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",
+    "donate": "https://github.com/sponsors/osm0sis",
+    "cover": "",
+    "icon": "",
+    "categories": [
+        "System"
+    ],
+    "require": [],
+    "screenshots": [],
+    "antifeatures": [],
+    "readme": "https://github.com/Magisk-Modules-Repo/nano-ndk/raw/master/README.md"
+}

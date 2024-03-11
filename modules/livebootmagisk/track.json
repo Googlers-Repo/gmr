@@ -1,14 +1,23 @@
 {
   "id": "livebootmagisk",
   "enable": true,
-  "verified": false,
   "update_to": "https://github.com/symbuzzer/livebootmodule.git",
   "source": "https://github.com/symbuzzer/livebootmodule",
   "support": "https://github.com/symbuzzer/livebootmodule/issues",
+  "donate": "",
+  "cover": "",
+  "icon": "",
   "categories": [
-    "Customization"
+      "Boot",
+      "Boot Animation",
+      "System"
   ],
-  "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
+  "require": [],
+  "screenshots": [],
+  "antifeatures": [
+      "No Source Since"
+  ],
+  "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
   "last_update": 1702580314.0,
   "versions": 1
 }
