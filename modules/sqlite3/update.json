@@ -8,6 +8,13 @@
       "versionCode": 20240204,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.1_20240204.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1710449902.0,
+      "version": "v3.45.2",
+      "versionCode": 20240314,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.2_20240314.zip",
+      "changelog": ""
     }
   ]
 }

@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1710440443.931684
+    "timestamp": 1710465024.748967
   },
   "modules": [
     {
@@ -888,12 +888,12 @@
     {
       "id": "sqlite3",
       "name": "SQLite for arm, arm64, x86 and x64 devices",
-      "version": "v3.45.1",
-      "versionCode": 20240204,
+      "version": "v3.45.2",
+      "versionCode": 20240314,
       "author": "Rojen Zaman",
       "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
       "added": null,
-      "timestamp": 1707060999.0,
+      "timestamp": 1710449902.0,
       "track": {
         "type": "GIT",
         "added": null,
@@ -920,6 +920,13 @@
           "version": "v3.45.1",
           "versionCode": 20240204,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.1_20240204.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1710449902.0,
+          "version": "v3.45.2",
+          "versionCode": 20240314,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.2_20240314.zip",
           "changelog": ""
         }
       ]
