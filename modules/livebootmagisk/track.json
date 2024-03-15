@@ -4,20 +4,17 @@
   "update_to": "https://github.com/symbuzzer/livebootmodule.git",
   "source": "https://github.com/symbuzzer/livebootmodule",
   "support": "https://github.com/symbuzzer/livebootmodule/issues",
-  "donate": "",
-  "cover": "",
-  "icon": "",
-  "categories": [
-      "Boot",
-      "Boot Animation",
-      "System"
-  ],
-  "require": [],
   "screenshots": [],
-  "antifeatures": [
-      "No Source Since"
+  "require": [],
+  "categories": [
+    "Boot",
+    "Boot Animation",
+    "System"
   ],
   "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
-  "last_update": 1702580314.0,
-  "versions": 1
+  "antifeatures": [
+    "No Source Since"
+  ],
+  "last_update": 1710505431.0,
+  "versions": 2
 }
