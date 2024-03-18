@@ -15,6 +15,13 @@
       "versionCode": 200,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v2.0.0_200.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1710766831.0,
+      "version": "v2.0.1",
+      "versionCode": 20001,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v2.0.1_20001.zip",
+      "changelog": ""
     }
   ]
 }
