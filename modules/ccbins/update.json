@@ -8,6 +8,13 @@
       "versionCode": 16,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v11_16.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1711830438.0,
+      "version": "v12",
+      "versionCode": 17,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v12_17.zip",
+      "changelog": ""
     }
   ]
 }

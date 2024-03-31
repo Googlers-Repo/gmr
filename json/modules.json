@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1711822851.697313
+    "timestamp": 1711847809.829198
   },
   "modules": [
     {
@@ -294,12 +294,12 @@
     {
       "id": "ccbins",
       "name": "Cross Compiled Binaries",
-      "version": "v11",
-      "versionCode": 16,
+      "version": "v12",
+      "versionCode": 17,
       "author": "Zackptg5",
       "description": "A growing collection of cross compiled binaries for android",
       "added": 1706465625.561501,
-      "timestamp": 1691966533.0,
+      "timestamp": 1711830438.0,
       "track": {
         "type": "GIT",
         "added": 1706465625.561501,
@@ -326,6 +326,13 @@
           "version": "v11",
           "versionCode": 16,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v11_16.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1711830438.0,
+          "version": "v12",
+          "versionCode": 17,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v12_17.zip",
           "changelog": ""
         }
       ]
