@@ -1,0 +1,20 @@
+{
+    "id": "faina",
+    "enable": true,
+    "update_to": "https://github.com/AmanoTeam/Faina.git",
+    "source": "https://github.com/AmanoTeam/Faina",
+    "support": "https://github.com/AmanoTeam/Faina/issues",
+    "donate": "",
+    "cover": "",
+    "icon": "",
+    "categories": [
+        "Miscellaneous",
+        "System",
+        "Tools"
+    ],
+    "require": [],
+    "screenshots": [],
+    "antifeatures": [],
+    "readme": "https://raw.githubusercontent.com/AmanoTeam/Faina/master/README.md",
+    "license": ""
+}
