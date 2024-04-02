@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1712061096.392869
+    "timestamp": 1712065569.278731
   },
   "modules": [
     {
@@ -670,16 +670,16 @@
         "added": 1705238797.0266,
         "license": "",
         "homepage": "",
-        "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
-        "support": "https://github.com/Googlers-Repo/mmrl_install_tools/issues",
+        "source": "https://github.com/DerGoogler/mmrl_install_tools",
+        "support": "https://github.com/DerGoogler/mmrl_install_tools/issues",
         "donate": "https://github.com/sponsors/DerGoogler",
         "verified": true,
         "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
         "icon": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
         "screenshots": [
-          "https://github.com/Googlers-Repo/mmrl_install_tools/blob/master/assets/1.png?raw=true",
-          "https://github.com/Googlers-Repo/mmrl_install_tools/blob/master/assets/2.png?raw=true",
-          "https://github.com/Googlers-Repo/mmrl_install_tools/blob/master/assets/3.png?raw=true"
+          "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/1.png?raw=true",
+          "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/2.png?raw=true",
+          "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/3.png?raw=true"
         ],
         "category": "",
         "categories": [
@@ -687,7 +687,7 @@
           "System",
           "Configurable"
         ],
-        "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
+        "readme": "https://raw.githubusercontent.com/DerGoogler/mmrl_install_tools/master/README.md",
         "require": [],
         "antifeatures": ""
       },
@@ -718,12 +718,12 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "2.1.1",
-      "versionCode": 211,
+      "version": "2.2.1",
+      "versionCode": 221,
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords inside MMRL",
       "added": null,
-      "timestamp": 1709457655.0,
+      "timestamp": 1712064578.0,
       "track": {
         "type": "GIT",
         "added": null,
@@ -748,13 +748,6 @@
       },
       "versions": [
         {
-          "timestamp": 1708686252.0,
-          "version": "1.0.0",
-          "versionCode": 100,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/1.0.0_100.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1709202865.0,
           "version": "1.1.0",
           "versionCode": 110,
@@ -766,6 +759,13 @@
           "version": "2.1.1",
           "versionCode": 211,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.1.1_211.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1712064578.0,
+          "version": "2.2.1",
+          "versionCode": 221,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.2.1_221.zip",
           "changelog": ""
         }
       ]
