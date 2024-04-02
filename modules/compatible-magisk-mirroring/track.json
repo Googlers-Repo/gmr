@@ -1,20 +1,19 @@
 {
-    "id": "compatible-magisk-mirroring",
-    "enable": true,
-    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring.git",
-    "source": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring",
-    "support": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/issues",
-    "donate": "",
-    "cover": "",
-    "icon": "",
-    "categories": [
-        "Advanced Audio Mods",
-        "Tools",
-        "System"
-    ],
-    "require": [],
-    "screenshots": [],
-    "antifeatures": [],
-    "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/README.md",
-    "license": "AGPL-3.0"
+  "id": "compatible-magisk-mirroring",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring.git",
+  "license": "AGPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/issues",
+  "screenshots": [],
+  "require": [],
+  "categories": [
+    "Advanced Audio Mods",
+    "Tools",
+    "System"
+  ],
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/README.md",
+  "antifeatures": [],
+  "last_update": 1711374321.0,
+  "versions": 1
 }

@@ -1,0 +1,13 @@
+{
+  "id": "compatible-magisk-mirroring",
+  "timestamp": 1711374321.0,
+  "versions": [
+    {
+      "timestamp": 1711374321.0,
+      "version": "v1.1.1",
+      "versionCode": 1101,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.1_1101.zip",
+      "changelog": ""
+    }
+  ]
+}

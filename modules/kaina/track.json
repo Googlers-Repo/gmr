@@ -1,18 +1,17 @@
 {
-    "id": "kaina",
-    "enable": true,
-    "update_to": "https://github.com/AmanoTeam/Kaina.git",
-    "source": "https://github.com/AmanoTeam/Kaina",
-    "support": "https://github.com/AmanoTeam/Kaina/issues",
-    "donate": "",
-    "cover": "",
-    "icon": "",
-    "categories": [
-        "System"
-    ],
-    "require": [],
-    "screenshots": [],
-    "antifeatures": [],
-    "readme": "https://raw.githubusercontent.com/AmanoTeam/Kaina/master/README.md",
-    "license": "LGPL-3.0"
+  "id": "kaina",
+  "enable": true,
+  "update_to": "https://github.com/AmanoTeam/Kaina.git",
+  "license": "LGPL-3.0",
+  "source": "https://github.com/AmanoTeam/Kaina",
+  "support": "https://github.com/AmanoTeam/Kaina/issues",
+  "screenshots": [],
+  "require": [],
+  "categories": [
+    "System"
+  ],
+  "readme": "https://raw.githubusercontent.com/AmanoTeam/Kaina/master/README.md",
+  "antifeatures": [],
+  "last_update": 1710968944.0,
+  "versions": 1
 }

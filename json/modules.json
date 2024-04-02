@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1712065569.278731
+    "timestamp": 1712082073.42315
   },
   "modules": [
     {
@@ -384,6 +384,47 @@
       ]
     },
     {
+      "id": "compatible-magisk-mirroring",
+      "name": "Compatible Magisk-mirroring",
+      "version": "v1.1.1",
+      "versionCode": 1101,
+      "author": "zyhk",
+      "description": "A Magisk module providing the compatible Magisk-mirroring for installing pure Magisk modules on incompatible Magisk variants and KernelSU.",
+      "added": null,
+      "timestamp": 1711374321.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Advanced Audio Mods",
+          "Tools",
+          "System"
+        ],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1711374321.0,
+          "version": "v1.1.1",
+          "versionCode": 1101,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.1_1101.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "djs",
       "name": "Daily Job Scheduler (DJS)",
       "version": "v2021.11.3",
@@ -419,6 +460,86 @@
           "version": "v2021.11.3",
           "versionCode": 202111030,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.11.3_202111030.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "faina",
+      "name": "\"pm Install\" from anywhere",
+      "version": "0.1",
+      "versionCode": 1,
+      "author": "Kartatz",
+      "description": "Allow the 'pm' CLI utility to install APKs from anywhere.",
+      "added": null,
+      "timestamp": 1711371168.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/AmanoTeam/Faina",
+        "support": "https://github.com/AmanoTeam/Faina/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Miscellaneous",
+          "System",
+          "Tools"
+        ],
+        "readme": "https://raw.githubusercontent.com/AmanoTeam/Faina/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1711371168.0,
+          "version": "0.1",
+          "versionCode": 1,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/faina/0.1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "kaina",
+      "name": "Writable MicroSD",
+      "version": "0.1",
+      "versionCode": 1,
+      "author": "Kartatz",
+      "description": "Allow Android apps holding the WRITE_EXTERNAL_STORAGE permission to read and write on the MicroSD card.",
+      "added": null,
+      "timestamp": 1710968944.0,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/AmanoTeam/Kaina",
+        "support": "https://github.com/AmanoTeam/Kaina/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "System"
+        ],
+        "readme": "https://raw.githubusercontent.com/AmanoTeam/Kaina/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1710968944.0,
+          "version": "0.1",
+          "versionCode": 1,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/kaina/0.1_1.zip",
           "changelog": ""
         }
       ]
