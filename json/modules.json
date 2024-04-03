@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1712147419.698577
+    "timestamp": 1712168429.496789
   },
   "modules": [
     {
@@ -902,11 +902,11 @@
       "id": "nano-ndk",
       "name": "Nano for Android NDK",
       "version": "7.2",
-      "versionCode": 7204,
+      "versionCode": 7205,
       "author": "osm0sis @ xda-developers",
       "description": "Static arm/arm64 nano binary for Android built with the NDK",
       "added": null,
-      "timestamp": 1699585603.0,
+      "timestamp": 1712163046.0,
       "track": {
         "type": "GIT",
         "added": null,
@@ -933,6 +933,13 @@
           "version": "7.2",
           "versionCode": 7204,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/7.2_7204.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1712163046.0,
+          "version": "7.2",
+          "versionCode": 7205,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/7.2_7205.zip",
           "changelog": ""
         }
       ]
@@ -1173,11 +1180,11 @@
       "id": "zipsigner",
       "name": "Zip & ZipSigner for Android NDK",
       "version": "3.0-13",
-      "versionCode": 301303,
+      "versionCode": 301304,
       "author": "osm0sis & topjohnwu @ xda-developers",
       "description": "Wrapped dexed zipsigner.jar, and static arm/arm64 zip and zipalign binaries for Android built with the NDK",
       "added": null,
-      "timestamp": 1709523749.0,
+      "timestamp": 1712163102.0,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1204,6 +1211,13 @@
           "version": "3.0-13",
           "versionCode": 301303,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zipsigner/3.0-13_301303.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1712163102.0,
+          "version": "3.0-13",
+          "versionCode": 301304,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zipsigner/3.0-13_301304.zip",
           "changelog": ""
         }
       ]
