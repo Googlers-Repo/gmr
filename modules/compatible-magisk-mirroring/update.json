@@ -8,6 +8,13 @@
       "versionCode": 1101,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.1_1101.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1712144471.0,
+      "version": "v1.1.2",
+      "versionCode": 1102,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.2_1102.zip",
+      "changelog": ""
     }
   ]
 }

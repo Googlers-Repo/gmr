@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1712125256.141486
+    "timestamp": 1712147419.698577
   },
   "modules": [
     {
@@ -386,12 +386,12 @@
     {
       "id": "compatible-magisk-mirroring",
       "name": "Compatible Magisk-mirroring",
-      "version": "v1.1.1",
-      "versionCode": 1101,
+      "version": "v1.1.2",
+      "versionCode": 1102,
       "author": "zyhk",
-      "description": "A Magisk module providing the compatible Magisk-mirroring for installing pure Magisk modules on incompatible Magisk variants and KernelSU.",
+      "description": "A Magisk module providing the compatible Magisk-mirroring for installing pure Magisk modules on incompatible Magisk variants and KernelSU (incl. APatch).",
       "added": null,
-      "timestamp": 1711374321.0,
+      "timestamp": 1712144471.0,
       "track": {
         "type": "GIT",
         "added": null,
@@ -420,6 +420,13 @@
           "version": "v1.1.1",
           "versionCode": 1101,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.1_1101.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1712144471.0,
+          "version": "v1.1.2",
+          "versionCode": 1102,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.2_1102.zip",
           "changelog": ""
         }
       ]
