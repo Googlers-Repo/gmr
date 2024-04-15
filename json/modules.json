@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1713162081.681767
+    "timestamp": 1713184202.834873
   },
   "modules": [
     {
@@ -386,12 +386,12 @@
     {
       "id": "compatible-magisk-mirroring",
       "name": "Compatible Magisk-mirroring",
-      "version": "v1.1.2",
-      "versionCode": 1102,
+      "version": "v1.1.3",
+      "versionCode": 1103,
       "author": "zyhk",
       "description": "A Magisk module providing the compatible Magisk-mirroring for installing pure Magisk modules on incompatible Magisk variants and KernelSU (incl. APatch).",
       "added": null,
-      "timestamp": 1712144471.0,
+      "timestamp": 1713163766.0,
       "track": {
         "type": "GIT",
         "added": null,
@@ -427,6 +427,13 @@
           "version": "v1.1.2",
           "versionCode": 1102,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.2_1102.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1713163766.0,
+          "version": "v1.1.3",
+          "versionCode": 1103,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.3_1103.zip",
           "changelog": ""
         }
       ]
@@ -599,12 +606,12 @@
     {
       "id": "livebootmagisk",
       "name": "LiveBoot",
-      "version": "v2.0.1",
-      "versionCode": 20001,
+      "version": "v2.0.2",
+      "versionCode": 20002,
       "author": "Ali Beyaz (avalibeyaz.com/github)",
       "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
       "added": null,
-      "timestamp": 1710766831.0,
+      "timestamp": 1713181363.0,
       "track": {
         "type": "GIT",
         "added": null,
@@ -631,13 +638,6 @@
       },
       "versions": [
         {
-          "timestamp": 1702580314.0,
-          "version": "v1.1.2",
-          "versionCode": 112,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v1.1.2_112.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1710505431.0,
           "version": "v2.0.0",
           "versionCode": 200,
@@ -649,6 +649,13 @@
           "version": "v2.0.1",
           "versionCode": 20001,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v2.0.1_20001.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1713181363.0,
+          "version": "v2.0.2",
+          "versionCode": 20002,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v2.0.2_20002.zip",
           "changelog": ""
         }
       ]
