@@ -8,6 +8,13 @@
       "versionCode": 113,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.3_113.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1713278013.0,
+      "version": "v1.1.4",
+      "versionCode": 10104,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.4_10104.zip",
+      "changelog": ""
     }
   ]
 }
