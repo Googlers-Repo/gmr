@@ -15,6 +15,13 @@
       "versionCode": 7205,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/7.2_7205.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1714745354.0,
+      "version": "8.0",
+      "versionCode": 8000,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.0_8000.zip",
+      "changelog": ""
     }
   ]
 }
