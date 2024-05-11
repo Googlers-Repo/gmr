@@ -3,13 +3,6 @@
   "timestamp": 1705390629.0,
   "versions": [
     {
-      "timestamp": 1708668459.0,
-      "version": "6.3.8",
-      "versionCode": 638,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/6.3.8_638.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1709236117.0,
       "version": "6.4.8",
       "versionCode": 648,
@@ -21,6 +14,13 @@
       "version": "6.4.9",
       "versionCode": 649,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/6.4.9_649.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1715436613.0,
+      "version": "7.4.9",
+      "versionCode": 749,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/7.4.9_749.zip",
       "changelog": ""
     }
   ]
