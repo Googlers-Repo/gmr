@@ -1,11 +1,15 @@
 {
   "id": "livebootmagisk",
   "enable": true,
+  "verified": true,
   "update_to": "https://github.com/symbuzzer/livebootmodule.git",
   "source": "https://github.com/symbuzzer/livebootmodule",
   "support": "https://github.com/symbuzzer/livebootmodule/issues",
+  "icon": "https://raw.githubusercontent.com/Chainfire/liveboot/master/liveBootAni2/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png",
   "screenshots": [],
   "require": [],
+  "donate": "https://patreon.com/user?u=88377368",
+  "license": "GPL-3.0",
   "categories": [
     "Boot",
     "Boot Animation",
