@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1716013320.469694
+    "timestamp": 1716035462.026973
   },
   "modules": [
     {
@@ -755,12 +755,12 @@
     {
       "id": "mmrl_install_tools",
       "name": "MMRL Install Tools",
-      "version": "7.5.11",
-      "versionCode": 7511,
+      "version": "7.5.12",
+      "versionCode": 7512,
       "author": "Der_Googler",
       "description": "Required module if you want to install modules from Explore",
       "added": 1705238797.0266,
-      "timestamp": 1715532825.0,
+      "timestamp": 1716031655.0,
       "track": {
         "type": "GIT",
         "added": 1705238797.0266,
@@ -789,13 +789,6 @@
       },
       "versions": [
         {
-          "timestamp": 1715436613.0,
-          "version": "7.4.9",
-          "versionCode": 749,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/7.4.9_749.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1715454062.0,
           "version": "7.4.10",
           "versionCode": 7410,
@@ -807,6 +800,13 @@
           "version": "7.5.11",
           "versionCode": 7511,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/7.5.11_7511.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1716031655.0,
+          "version": "7.5.12",
+          "versionCode": 7512,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/7.5.12_7512.zip",
           "changelog": ""
         }
       ]
@@ -1172,11 +1172,11 @@
       "versionCode": 301304,
       "author": "osm0sis & topjohnwu @ xda-developers",
       "description": "Wrapped dexed zipsigner.jar, and static arm/arm64 zip and zipalign binaries for Android built with the NDK",
-      "added": null,
+      "added": 1445340430.7142262,
       "timestamp": 1712163102.0,
       "track": {
         "type": "GIT",
-        "added": null,
+        "added": 1445340430.7142262,
         "license": "",
         "homepage": "",
         "source": "https://github.com/Magisk-Modules-Repo/zipsigner",
