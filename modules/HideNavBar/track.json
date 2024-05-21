@@ -4,14 +4,16 @@
   "verified": true,
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
   "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues",
   "cover": "https://i.imgur.com/vcXAreJ.png",
   "categories": [
     "SystemUI Mods",
     "Navigation Bar and Gesture Customization",
     "App Additions and Features"
   ],
-  "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
-  "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues",
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
-  "added": 1716289412.237606
+  "added": 1716289412.237606,
+  "last_update": 1715695715.0,
+  "versions": 1
 }

@@ -4,12 +4,14 @@
   "verified": false,
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
   "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/issues",
   "screenshots": [
     "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/imgs/2023-04-29/IN2e5tNiA837DPPD.png",
     "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/imgs/2023-04-29/MuXABZgPPtnO83GP.png"
   ],
-  "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
-  "support": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/issues",
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/README.md",
-  "added": 1716290121.756142
+  "added": 1716290121.756142,
+  "last_update": 1683467033.0,
+  "versions": 1
 }

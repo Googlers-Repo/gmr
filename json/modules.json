@@ -6,9 +6,90 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1716272705.96481
+    "timestamp": 1716294801.366863
   },
   "modules": [
+    {
+      "id": "HideNavBar",
+      "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
+      "version": "v27.1",
+      "versionCode": 65,
+      "author": "DanGLES3",
+      "description": "Customize Android 10-14's navigation gestures",
+      "added": 1716289412.237606,
+      "timestamp": 1715695715.0,
+      "track": {
+        "type": "GIT",
+        "added": 1716289412.237606,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues",
+        "donate": "",
+        "verified": true,
+        "cover": "https://i.imgur.com/vcXAreJ.png",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "SystemUI Mods",
+          "Navigation Bar and Gesture Customization",
+          "App Additions and Features"
+        ],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1715695715.0,
+          "version": "v27.1",
+          "versionCode": 65,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.1_65.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "UbuntuFontVinaooo",
+      "name": "Ubuntu Font",
+      "version": "v1.0.1",
+      "versionCode": 1,
+      "author": "Vinicius Rubens Pedrinho",
+      "description": "Apply Ubuntu font systemless",
+      "added": 1716290121.756142,
+      "timestamp": 1683467033.0,
+      "track": {
+        "type": "GIT",
+        "added": 1716290121.756142,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": [
+          "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/imgs/2023-04-29/IN2e5tNiA837DPPD.png",
+          "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/imgs/2023-04-29/MuXABZgPPtnO83GP.png"
+        ],
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1683467033.0,
+          "version": "v1.0.1",
+          "versionCode": 1,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/UbuntuFontVinaooo/v1.0.1_1.zip",
+          "changelog": ""
+        }
+      ]
+    },
     {
       "id": "abootloop",
       "name": "Anti bootloop",
@@ -63,7 +144,7 @@
         "source": "https://github.com/Magisk-Modules-Repo/acp.git",
         "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
         "donate": "",
-        "verified": false,
+        "verified": true,
         "cover": "",
         "icon": "",
         "screenshots": "",
@@ -814,12 +895,12 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "2.2.1",
-      "versionCode": 221,
+      "version": "2.2.2",
+      "versionCode": 222,
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords inside MMRL",
       "added": 1445340430.7142262,
-      "timestamp": 1712064578.0,
+      "timestamp": 1716278989.0,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -844,13 +925,6 @@
       },
       "versions": [
         {
-          "timestamp": 1709202865.0,
-          "version": "1.1.0",
-          "versionCode": 110,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/1.1.0_110.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1709457655.0,
           "version": "2.1.1",
           "versionCode": 211,
@@ -862,6 +936,13 @@
           "version": "2.2.1",
           "versionCode": 221,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.2.1_221.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1716278989.0,
+          "version": "2.2.2",
+          "versionCode": 222,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.2.2_222.zip",
           "changelog": ""
         }
       ]

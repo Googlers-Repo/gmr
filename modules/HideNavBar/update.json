@@ -1,0 +1,13 @@
+{
+  "id": "HideNavBar",
+  "timestamp": 1715695715.0,
+  "versions": [
+    {
+      "timestamp": 1715695715.0,
+      "version": "v27.1",
+      "versionCode": 65,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.1_65.zip",
+      "changelog": ""
+    }
+  ]
+}
