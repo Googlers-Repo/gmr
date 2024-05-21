@@ -1,7 +1,7 @@
 {
   "id": "acp",
   "enable": true,
-  "verified": false,
+  "verified": true,
   "update_to": "https://github.com/Magisk-Modules-Repo/acp.git",
   "source": "https://github.com/Magisk-Modules-Repo/acp.git",
   "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
