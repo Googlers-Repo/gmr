@@ -1,0 +1,13 @@
+{
+  "id": "systemless-adblock",
+  "timestamp": 1716574982.219125,
+  "versions": [
+    {
+      "timestamp": 1716574982.219125,
+      "version": "v2.02",
+      "versionCode": 2002,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.02_2002.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.02_2002.md"
+    }
+  ]
+}

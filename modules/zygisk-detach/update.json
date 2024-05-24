@@ -1,0 +1,13 @@
+{
+  "id": "zygisk-detach",
+  "timestamp": 1716371540.0,
+  "versions": [
+    {
+      "timestamp": 1716371540.0,
+      "version": "v1.16.1",
+      "versionCode": 20,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.md"
+    }
+  ]
+}
