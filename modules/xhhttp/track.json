@@ -1,7 +1,7 @@
 {
   "id": "xhhttp",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
   "license": "MIT",
   "homepage": "https://github.com/ducaale/xh",

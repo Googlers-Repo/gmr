@@ -1,7 +1,7 @@
 {
   "id": "magisk_proc_monitor",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues",

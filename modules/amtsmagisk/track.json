@@ -1,7 +1,7 @@
 {
   "id": "amtsmagisk",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
   "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
   "support": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues",

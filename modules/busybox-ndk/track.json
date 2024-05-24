@@ -1,7 +1,7 @@
 {
   "id": "busybox-ndk",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
   "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
   "support": "https://github.com/Magisk-Modules-Repo/busybox-ndk/issues",

@@ -1,7 +1,7 @@
 {
   "id": "playintegrityfix",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json",
   "license": "GPL-3.0",
   "source": "https://github.com/chiteroman/PlayIntegrityFix",

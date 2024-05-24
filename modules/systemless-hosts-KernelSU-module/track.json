@@ -1,7 +1,7 @@
 {
   "id": "systemless-hosts-KernelSU-module",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module.git",
   "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module",
   "support": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues",

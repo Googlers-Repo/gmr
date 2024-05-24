@@ -1,0 +1,16 @@
+{
+  "id": "zygisk-detach",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/update.json",
+  "source": "https://github.com/j-hc/zygisk-detach",
+  "support": "https://github.com/j-hc/zygisk-detach/issues",
+  "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
+  "categories": [
+    "Magisk",
+    "KernelSU",
+    "Tools"
+  ],
+  "license": "Apache-2.0",
+  "added": 1716564516.209616
+}

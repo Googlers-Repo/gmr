@@ -1,7 +1,7 @@
 {
   "id": "nano-ndk",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/Magisk-Modules-Repo/nano-ndk.git",
   "source": "https://github.com/Magisk-Modules-Repo/nano-ndk",
   "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",

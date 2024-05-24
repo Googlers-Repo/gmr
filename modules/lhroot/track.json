@@ -1,7 +1,7 @@
 {
   "id": "lhroot",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/FerryAr/lhroot.git",
   "source": "https://github.com/FerryAr/lhroot.git",
   "support": "https://github.com/FerryAr/lhroot/issues",

@@ -1,7 +1,7 @@
 {
   "id": "HideNavBar",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
   "license": "GPL-3.0",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",

@@ -1,7 +1,7 @@
 {
   "id": "livebootmagisk",
   "enable": true,
-  "verified": true,
+  "verified": false,
   "update_to": "https://github.com/symbuzzer/livebootmodule.git",
   "source": "https://github.com/symbuzzer/livebootmodule",
   "support": "https://github.com/symbuzzer/livebootmodule/issues",
