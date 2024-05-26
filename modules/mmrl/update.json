@@ -1,0 +1,13 @@
+{
+  "id": "mmrl",
+  "timestamp": 1716661582.0,
+  "versions": [
+    {
+      "timestamp": 1716661582.0,
+      "version": "0.3.3",
+      "versionCode": 33,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.3_33.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.3_33.md"
+    }
+  ]
+}

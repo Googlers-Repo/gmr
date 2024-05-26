@@ -6,18 +6,18 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1716553999.378719
+    "timestamp": 1716747691.060685
   },
   "modules": [
     {
       "id": "HideNavBar",
       "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
-      "version": "v27.1",
-      "versionCode": 65,
+      "version": "v27.2",
+      "versionCode": 66,
       "author": "DanGLES3",
       "description": "Customize Android 10-14's navigation gestures",
       "added": 1716289412.237606,
-      "timestamp": 1715695715.0,
+      "timestamp": 1716743324.0,
       "track": {
         "type": "GIT",
         "added": 1716289412.237606,
@@ -46,6 +46,13 @@
           "version": "v27.1",
           "versionCode": 65,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.1_65.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1716743324.0,
+          "version": "v27.2",
+          "versionCode": 66,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.2_66.zip",
           "changelog": ""
         }
       ]
@@ -834,6 +841,53 @@
       ]
     },
     {
+      "id": "mmrl",
+      "name": "MMRL CLI",
+      "version": "0.3.3",
+      "versionCode": 33,
+      "author": "Der_Googler",
+      "description": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules. Build on 2024-05-25 with Rust 1.78.0.",
+      "added": 1705238797.0266,
+      "timestamp": 1716661582.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1705238797.0266,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/DerGoogler/MMRL-CLI",
+        "support": "https://github.com/DerGoogler/MMRL-CLI/issues",
+        "donate": "https://github.com/sponsors/DerGoogler",
+        "verified": true,
+        "cover": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png",
+        "icon": "",
+        "screenshots": [
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/1.png",
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/2.png",
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/3.png",
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/4.png",
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/5.png"
+        ],
+        "category": "",
+        "categories": [
+          "Tools",
+          "System",
+          "Configurable"
+        ],
+        "readme": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1716661582.0,
+          "version": "0.3.3",
+          "versionCode": 33,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.3_33.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.3_33.md"
+        }
+      ]
+    },
+    {
       "id": "mmrl_install_tools",
       "name": "MMRL Install Tools",
       "version": "8.5.12",
@@ -850,7 +904,7 @@
         "source": "https://github.com/DerGoogler/mmrl_install_tools",
         "support": "https://github.com/DerGoogler/mmrl_install_tools/issues",
         "donate": "https://github.com/sponsors/DerGoogler",
-        "verified": false,
+        "verified": true,
         "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
         "icon": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
         "screenshots": [
@@ -909,7 +963,7 @@
         "source": "https://github.com/Googlers-Repo/wpd.git",
         "support": "https://github.com/Googlers-Repo/wpd/issues",
         "donate": "",
-        "verified": false,
+        "verified": true,
         "cover": "",
         "icon": "",
         "screenshots": "",
@@ -1158,6 +1212,45 @@
       ]
     },
     {
+      "id": "systemless-adblock",
+      "name": "Systemless-AdBlock",
+      "version": "v2.02",
+      "versionCode": 2002,
+      "author": "Vaz15k",
+      "description": "A simple AdBlocker based on the hosts file.",
+      "added": 1716564066.993573,
+      "timestamp": 1716574982.219125,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1716564066.993573,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Vaz15k/Systemless-AdBlocker",
+        "support": "https://github.com/Vaz15k/Systemless-AdBlocker/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Adblocking and Hosts Files"
+        ],
+        "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-AdBlocker/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1716574982.219125,
+          "version": "v2.02",
+          "versionCode": 2002,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.02_2002.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.02_2002.md"
+        }
+      ]
+    },
+    {
       "id": "systemless-hosts-KernelSU-module",
       "name": "systemless hosts KernelSU module",
       "version": "v1.1.4",
@@ -1289,6 +1382,47 @@
           "versionCode": 301304,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zipsigner/3.0-13_301304.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "zygisk-detach",
+      "name": "zygisk-detach",
+      "version": "v1.16.1",
+      "versionCode": 20,
+      "author": "j-hc",
+      "description": "Detaches installed apps from Play Store",
+      "added": 1716564516.209616,
+      "timestamp": 1716371540.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1716564516.209616,
+        "license": "Apache-2.0",
+        "homepage": "",
+        "source": "https://github.com/j-hc/zygisk-detach",
+        "support": "https://github.com/j-hc/zygisk-detach/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [
+          "Magisk",
+          "KernelSU",
+          "Tools"
+        ],
+        "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1716371540.0,
+          "version": "v1.16.1",
+          "versionCode": 20,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.md"
         }
       ]
     }
