@@ -1,6 +1,7 @@
 name: Module Submission
 description: Preferred Magisk Module submission template
 title: '[Module]: '
+labels: ["module"]
 body:
   - type: markdown
     attributes:
@@ -13,6 +14,13 @@ body:
       label: Update to
       description: Vaild URL to an `update.json` or an Git URL
       placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: module-link
+    attributes:
+      label: Module repository link
+      placeholder: https://www.github.com/username/repo
     validations:
       required: true
   - type: textarea
