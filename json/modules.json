@@ -6,18 +6,18 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1716726665.638733
+    "timestamp": 1716747691.060685
   },
   "modules": [
     {
       "id": "HideNavBar",
       "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
-      "version": "v27.1",
-      "versionCode": 65,
+      "version": "v27.2",
+      "versionCode": 66,
       "author": "DanGLES3",
       "description": "Customize Android 10-14's navigation gestures",
       "added": 1716289412.237606,
-      "timestamp": 1715695715.0,
+      "timestamp": 1716743324.0,
       "track": {
         "type": "GIT",
         "added": 1716289412.237606,
@@ -46,6 +46,13 @@
           "version": "v27.1",
           "versionCode": 65,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.1_65.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1716743324.0,
+          "version": "v27.2",
+          "versionCode": 66,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.2_66.zip",
           "changelog": ""
         }
       ]
