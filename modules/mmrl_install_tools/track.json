@@ -1,24 +1,25 @@
 {
-  "id": "mmrl",
+  "id": "mmrl_install_tools",
   "enable": true,
   "verified": true,
-  "update_to": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/module/update.json",
-  "source": "https://github.com/DerGoogler/MMRL-CLI",
-  "support": "https://github.com/DerGoogler/MMRL-CLI/issues",
+  "update_to": "https://github.com/DerGoogler/mmrl_install_tools.git",
+  "source": "https://github.com/DerGoogler/mmrl_install_tools",
+  "support": "https://github.com/DerGoogler/mmrl_install_tools/issues",
   "donate": "https://github.com/sponsors/DerGoogler",
-  "cover": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png",
+  "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
+  "icon": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
   "screenshots": [
-    "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/1.png",
-    "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/2.png",
-    "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/3.png",
-    "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/4.png",
-    "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/5.png"
-  ], 
+    "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/1.png?raw=true",
+    "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/2.png?raw=true",
+    "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/3.png?raw=true"
+  ],
   "categories": [
     "Tools",
     "System",
     "Configurable"
   ],
-  "readme": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/README.md",
-  "added": 1705238797.0266
+  "readme": "https://raw.githubusercontent.com/DerGoogler/mmrl_install_tools/master/README.md",
+  "added": 1705238797.0266,
+  "last_update": 1716300153.0,
+  "versions": 3
 }
