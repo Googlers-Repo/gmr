@@ -6,18 +6,18 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1716747691.060685
+    "timestamp": 1716772642.364219
   },
   "modules": [
     {
       "id": "HideNavBar",
       "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
-      "version": "v27.2",
-      "versionCode": 66,
+      "version": "v27.3",
+      "versionCode": 67,
       "author": "DanGLES3",
       "description": "Customize Android 10-14's navigation gestures",
       "added": 1716289412.237606,
-      "timestamp": 1716743324.0,
+      "timestamp": 1716752152.0,
       "track": {
         "type": "GIT",
         "added": 1716289412.237606,
@@ -53,6 +53,13 @@
           "version": "v27.2",
           "versionCode": 66,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.2_66.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1716752152.0,
+          "version": "v27.3",
+          "versionCode": 67,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.3_67.zip",
           "changelog": ""
         }
       ]
@@ -486,6 +493,43 @@
           "versionCode": 1103,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/compatible-magisk-mirroring/v1.1.3_1103.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "disable-low-ram",
+      "name": "Disable Low Ram Flag",
+      "version": "v1",
+      "versionCode": 1,
+      "author": "sekedus",
+      "description": "This module disable ro.config.low_ram flag on Android Go edition",
+      "added": 1716747686.379601,
+      "timestamp": 1716766415.0,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1716747686.379601,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1716766415.0,
+          "version": "v1",
+          "versionCode": 1,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/disable-low-ram/v1_1.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/disable-low-ram/v1_1.md"
         }
       ]
     },

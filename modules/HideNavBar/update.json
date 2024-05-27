@@ -15,6 +15,13 @@
       "versionCode": 66,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.2_66.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1716752152.0,
+      "version": "v27.3",
+      "versionCode": 67,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.3_67.zip",
+      "changelog": ""
     }
   ]
 }
