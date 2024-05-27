@@ -8,6 +8,13 @@
       "versionCode": 2002,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.02_2002.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.02_2002.md"
+    },
+    {
+      "timestamp": 1716813212.226547,
+      "version": "v2.03",
+      "versionCode": 2003,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.03_2003.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.03_2003.md"
     }
   ]
 }
