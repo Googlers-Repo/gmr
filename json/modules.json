@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1717245109.081088
+    "timestamp": 1717259025.246334
   },
   "modules": [
     {
@@ -905,11 +905,10 @@
         "cover": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png",
         "icon": "",
         "screenshots": [
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/1.png",
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/2.png",
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/3.png",
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/4.png",
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/5.png"
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/1.png",
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/2.png",
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/3.png",
+          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/4.png"
         ],
         "category": "",
         "categories": [
@@ -1352,12 +1351,12 @@
     {
       "id": "xhhttp",
       "name": "xh for Android",
-      "version": "v0.20.1",
-      "versionCode": 201,
+      "version": "v0.22.0",
+      "versionCode": 221,
       "author": "ducaale & Der_Googler",
       "description": "Friendly and fast tool for sending HTTP requests",
       "added": 1705247343.892676,
-      "timestamp": 1701025578.0,
+      "timestamp": 1717254835.0,
       "track": {
         "type": "GIT",
         "added": 1705247343.892676,
@@ -1386,6 +1385,13 @@
           "version": "v0.20.1",
           "versionCode": 201,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.20.1_201.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1717254835.0,
+          "version": "v0.22.0",
+          "versionCode": 221,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.22.0_221.zip",
           "changelog": ""
         }
       ]

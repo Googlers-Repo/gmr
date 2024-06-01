@@ -8,6 +8,13 @@
       "versionCode": 201,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.20.1_201.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1717254835.0,
+      "version": "v0.22.0",
+      "versionCode": 221,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.22.0_221.zip",
+      "changelog": ""
     }
   ]
 }
