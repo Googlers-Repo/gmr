@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1717259025.246334
+    "timestamp": 1717266145.659754
   },
   "modules": [
     {
@@ -60,6 +60,43 @@
           "version": "v27.3",
           "versionCode": 67,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/HideNavBar/v27.3_67.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "NoStorageRestrict",
+      "name": "NoStorageRestrict",
+      "version": "v5",
+      "versionCode": 6,
+      "author": "DanGLES3",
+      "description": "Disables the restriction of not being able to select certain folders (like downloads/sdcard) when prompted by apps",
+      "added": 1717263062.40799,
+      "timestamp": 1703269294.0,
+      "track": {
+        "type": "GIT",
+        "added": 1717263062.40799,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1703269294.0,
+          "version": "v5",
+          "versionCode": 6,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/NoStorageRestrict/v5_6.zip",
           "changelog": ""
         }
       ]
