@@ -11,7 +11,7 @@ with open('json/modules.json') as json_data:
 modules = data.get("modules", [])
 
 # Create the root element for the sitemap
-urlset = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
+urlset = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9", **{"xmlns:image": "http://www.google.com/schemas/sitemap-image/1.1"})
 
 # Base URL for the modules
 base_url = "http://mmrl.dergoogler.com/?module="
@@ -30,6 +30,14 @@ for module in modules:
     url_element = ET.SubElement(urlset, "url")
     loc_element = ET.SubElement(url_element, "loc")
     lastmod_element = ET.SubElement(url_element, "lastmod")
+    
+    cover = module.get("track").get("cover")
+    if cover:
+        url_image_image = ET.SubElement(url_element, "image:image")
+        url_image_image_loc = ET.SubElement(url_image_image, "image:loc")
+        url_image_image_loc.text = cover
+    
+    
     lastmod_element.text = formatted_date
     loc_element.text = url
 
