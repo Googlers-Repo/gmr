@@ -61,6 +61,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r util/requirements.txt
 
+      # New added modules
       - name: Add module
         if: ${{ (github.event.inputs.repo_user != '') && (github.event.inputs.repo_name != '') }}
         run: |
@@ -69,11 +70,10 @@ jobs:
       - name: Commit module
         if: ${{ (github.event.inputs.repo_user != '') && (github.event.inputs.repo_name != '') }}
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
           git add modules
           git commit -sm "[MODULE] ${{ github.event.inputs.repo_name }}" || true
           git push || true
+      ####
 
       - name: Sync
         if: ${{ env.IS_SYNC == 'true' }}
@@ -102,6 +102,20 @@ jobs:
         run: |
           python util/cli.py index --push
           
+      # Sitemap generator
+      - name: Generate sitemap
+        if: ${{ env.IS_SYNC == 'true' }}
+        run: |
+          python generate_sitemap.py
+
+      - name: Commit sitemap
+        if: ${{ env.IS_SYNC == 'true' }}
+        run: |
+          git add json/sitemap.xml
+          git commit -sm "[SITEMAP] Update sitemap.xml" || true
+          git push || true
+      ####
+
       - name: Upload logs
         uses: actions/upload-artifact@v3
         with:
