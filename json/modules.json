@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1717333565.451122
+    "timestamp": 1717352606.18502
   },
   "modules": [
     {
@@ -1235,6 +1235,43 @@
           "versionCode": 15990,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.9_15990.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.9_15990.md"
+        }
+      ]
+    },
+    {
+      "id": "simple_bootloopsaver",
+      "name": "Simple Bootloop Saver",
+      "version": "v2",
+      "versionCode": 3,
+      "author": "ez-me",
+      "description": "Protect your system from bootloop caused by Magisk modules by turning off all your modules and restart your system if bootloop is detected.",
+      "added": 1717341017.539469,
+      "timestamp": 1690305811.0,
+      "track": {
+        "type": "GIT",
+        "added": 1717341017.539469,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690305811.0,
+          "version": "v2",
+          "versionCode": 3,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/Simple_BootloopSaver/v2_3.zip",
+          "changelog": ""
         }
       ]
     },
