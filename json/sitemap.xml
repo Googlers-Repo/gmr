@@ -1,8 +1,11 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
    <url>
       <loc>http://mmrl.dergoogler.com/?module=HideNavBar</loc>
       <lastmod>2024-05-26</lastmod>
+      <image:image>
+         <image:loc>https://i.imgur.com/vcXAreJ.png</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=NoStorageRestrict</loc>
@@ -31,6 +34,9 @@
    <url>
       <loc>http://mmrl.dergoogler.com/?module=amtsmagisk</loc>
       <lastmod>2023-12-22</lastmod>
+      <image:image>
+         <image:loc>https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=busybox-ndk</loc>
@@ -67,6 +73,9 @@
    <url>
       <loc>http://mmrl.dergoogler.com/?module=lhroot</loc>
       <lastmod>2023-12-25</lastmod>
+      <image:image>
+         <image:loc>https://preview.redd.it/help-lhroot-error-v0-9r30zwofnf8c1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cf7c1000be0103c7320f58b22c0779d5aa7b9cde</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=livebootmagisk</loc>
@@ -83,14 +92,23 @@
    <url>
       <loc>http://mmrl.dergoogler.com/?module=mkshrc</loc>
       <lastmod>2024-02-04</lastmod>
+      <image:image>
+         <image:loc>https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=mmrl</loc>
       <lastmod>2024-05-25</lastmod>
+      <image:image>
+         <image:loc>https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=mmrl_install_tools</loc>
       <lastmod>2024-05-21</lastmod>
+      <image:image>
+         <image:loc>https://mmrl.dergoogler.com/assets/MMRL-Cover.png</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=mmrl_wpd</loc>
@@ -103,6 +121,9 @@
    <url>
       <loc>http://mmrl.dergoogler.com/?module=node_on_android</loc>
       <lastmod>2024-01-25</lastmod>
+      <image:image>
+         <image:loc>https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=playintegrityfix</loc>
@@ -127,6 +148,9 @@
    <url>
       <loc>http://mmrl.dergoogler.com/?module=xhhttp</loc>
       <lastmod>2024-06-01</lastmod>
+      <image:image>
+         <image:loc>https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=zipsigner</loc>
