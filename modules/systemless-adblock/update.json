@@ -15,6 +15,13 @@
       "versionCode": 2003,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.03_2003.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.03_2003.md"
+    },
+    {
+      "timestamp": 1717418117.84398,
+      "version": "v2.04",
+      "versionCode": 2004,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.04_2004.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.04_2004.md"
     }
   ]
 }
