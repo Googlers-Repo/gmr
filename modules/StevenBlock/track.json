@@ -1,0 +1,10 @@
+{
+  "id": "StevenBlock",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/mikropsoft/StevenBlock/main/update.json",
+  "source": "https://github.com/mikropsoft/StevenBlock.git",
+  "support": "https://github.com/mikropsoft/StevenBlock/issues",
+  "readme": "https://raw.githubusercontent.com/mikropsoft/StevenBlock/main/README.md",
+  "added": 1717484623.417646
+}
