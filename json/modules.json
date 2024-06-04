@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1717482298.832071
+    "timestamp": 1717504447.258051
   },
   "modules": [
     {
@@ -98,6 +98,43 @@
           "versionCode": 6,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/NoStorageRestrict/v5_6.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "StevenBlock",
+      "name": "StevenBlock | Anti-Malware & Ad Blocker",
+      "version": "v1.1.3",
+      "versionCode": 14,
+      "author": "\ud835\uddea\ud835\udddc\ud835\udde1\ud835\udded\ud835\udde2\ud835\udde5\ud835\udde7",
+      "description": "StevenBlock protects your device from malware and unwanted ads. This Magisk module keeps your browsers and apps safe from malicious content, so you can enjoy a clean and smooth internet experience.",
+      "added": 1717484623.417646,
+      "timestamp": 1717504430.460072,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1717484623.417646,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/mikropsoft/StevenBlock.git",
+        "support": "https://github.com/mikropsoft/StevenBlock/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/mikropsoft/StevenBlock/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1717504430.460072,
+          "version": "v1.1.3",
+          "versionCode": 14,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.3_14.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.3_14.md"
         }
       ]
     },

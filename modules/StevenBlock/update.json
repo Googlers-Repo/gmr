@@ -1,0 +1,13 @@
+{
+  "id": "StevenBlock",
+  "timestamp": 1717504430.460072,
+  "versions": [
+    {
+      "timestamp": 1717504430.460072,
+      "version": "v1.1.3",
+      "versionCode": 14,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.3_14.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.3_14.md"
+    }
+  ]
+}
