@@ -1,13 +1,14 @@
 {
-    "id": "drc-remover",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
-    "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/changelog.md",
-    "license": "AGPL-3.0",
-    "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
-    "support": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/issues",
-    "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
-    "added": 1717861375.501469
-  }
-  
+  "id": "drc-remover",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/changelog.md",
+  "license": "AGPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/issues",
+  "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
+  "added": 1717861375.501469,
+  "last_update": 1713443884.0,
+  "versions": 1
+}

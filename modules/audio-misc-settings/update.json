@@ -1,0 +1,13 @@
+{
+  "id": "audio-misc-settings",
+  "timestamp": 1716359677.0,
+  "versions": [
+    {
+      "timestamp": 1716359677.0,
+      "version": "v1.3.7",
+      "versionCode": 1307,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/audio-misc-settings/v1.3.7_1307.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/audio-misc-settings/v1.3.7_1307.md"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1717849879.603468
+    "timestamp": 1717861956.139955
   },
   "modules": [
     {
@@ -384,6 +384,43 @@
       ]
     },
     {
+      "id": "audio-misc-settings",
+      "name": "Audio misc. settings",
+      "version": "v1.3.7",
+      "versionCode": 1307,
+      "author": "zyhk",
+      "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
+      "added": 1717861375.501469,
+      "timestamp": 1716359677.0,
+      "track": {
+        "type": "GIT",
+        "added": 1717861375.501469,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1716359677.0,
+          "version": "v1.3.7",
+          "versionCode": 1307,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/audio-misc-settings/v1.3.7_1307.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/audio-misc-settings/v1.3.7_1307.md"
+        }
+      ]
+    },
+    {
       "id": "busybox-ndk",
       "name": "Busybox for Android NDK",
       "version": "1.36.1",
@@ -644,6 +681,43 @@
           "versionCode": 202111030,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.11.3_202111030.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "drc-remover",
+      "name": "DRC remover",
+      "version": "v1.2.3",
+      "versionCode": 1203,
+      "author": "zyhk",
+      "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
+      "added": 1717861375.501469,
+      "timestamp": 1713443884.0,
+      "track": {
+        "type": "GIT",
+        "added": 1717861375.501469,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1713443884.0,
+          "version": "v1.2.3",
+          "versionCode": 1203,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/drc-remover/v1.2.3_1203.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/drc-remover/v1.2.3_1203.md"
         }
       ]
     },
@@ -1276,6 +1350,43 @@
       ]
     },
     {
+      "id": "resampling-for-cheapies",
+      "name": "Resampling for cheapies",
+      "version": "v1.0.0",
+      "versionCode": 1000,
+      "author": "zyhk",
+      "description": "Setting re-sampling parameters of AudioFlinger (the system-wide mixer) to improve audio quality of DAC's under $30 and LDAC BT devices especially.",
+      "added": 1717861375.501469,
+      "timestamp": 1717843628.0,
+      "track": {
+        "type": "GIT",
+        "added": 1717861375.501469,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1717843628.0,
+          "version": "v1.0.0",
+          "versionCode": 1000,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/resampling-for-cheapies/v1.0.0_1000.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/resampling-for-cheapies/v1.0.0_1000.md"
+        }
+      ]
+    },
+    {
       "id": "simple_bootloopsaver",
       "name": "Simple Bootloop Saver",
       "version": "v2",
@@ -1463,6 +1574,43 @@
           "versionCode": 10104,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.4_10104.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "usb-samplerate-unlocker",
+      "name": "USB Samplerate Unlocker",
+      "version": "v1.5.6",
+      "versionCode": 1506,
+      "author": "zyhk",
+      "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
+      "added": 1717861375.501469,
+      "timestamp": 1713443976.0,
+      "track": {
+        "type": "GIT",
+        "added": 1717861375.501469,
+        "license": "AGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues",
+        "donate": "",
+        "verified": false,
+        "cover": "",
+        "icon": "",
+        "screenshots": "",
+        "category": "",
+        "categories": [],
+        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
+        "require": [],
+        "antifeatures": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1713443976.0,
+          "version": "v1.5.6",
+          "versionCode": 1506,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.6_1506.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.6_1506.md"
         }
       ]
     },

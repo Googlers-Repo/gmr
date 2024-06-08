@@ -1,0 +1,13 @@
+{
+  "id": "drc-remover",
+  "timestamp": 1713443884.0,
+  "versions": [
+    {
+      "timestamp": 1713443884.0,
+      "version": "v1.2.3",
+      "versionCode": 1203,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/drc-remover/v1.2.3_1203.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/drc-remover/v1.2.3_1203.md"
+    }
+  ]
+}

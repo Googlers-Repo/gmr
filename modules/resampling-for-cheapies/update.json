@@ -1,0 +1,13 @@
+{
+  "id": "resampling-for-cheapies",
+  "timestamp": 1717843628.0,
+  "versions": [
+    {
+      "timestamp": 1717843628.0,
+      "version": "v1.0.0",
+      "versionCode": 1000,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/resampling-for-cheapies/v1.0.0_1000.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/resampling-for-cheapies/v1.0.0_1000.md"
+    }
+  ]
+}
