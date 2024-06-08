@@ -8,6 +8,13 @@
       "versionCode": 14,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.3_14.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.3_14.md"
+    },
+    {
+      "timestamp": 1717870940.720241,
+      "version": "v1.1.4",
+      "versionCode": 15,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.4_15.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.4_15.md"
     }
   ]
 }
