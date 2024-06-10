@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1718000800.508669
+    "timestamp": 1718022931.154975
   },
   "modules": [
     {
@@ -1486,12 +1486,12 @@
     {
       "id": "systemless-adblock",
       "name": "Systemless-AdBlock",
-      "version": "v2.04",
-      "versionCode": 2004,
+      "version": "v2.05",
+      "versionCode": 2005,
       "author": "Vaz15k",
       "description": "A simple AdBlocker based on the hosts file.",
       "added": 1716564066.993573,
-      "timestamp": 1717418117.84398,
+      "timestamp": 1718022921.122553,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564066.993573,
@@ -1514,13 +1514,6 @@
       },
       "versions": [
         {
-          "timestamp": 1716574982.219125,
-          "version": "v2.02",
-          "versionCode": 2002,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.02_2002.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.02_2002.md"
-        },
-        {
           "timestamp": 1716813212.226547,
           "version": "v2.03",
           "versionCode": 2003,
@@ -1533,6 +1526,13 @@
           "versionCode": 2004,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.04_2004.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.04_2004.md"
+        },
+        {
+          "timestamp": 1718022921.122553,
+          "version": "v2.05",
+          "versionCode": 2005,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.05_2005.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.05_2005.md"
         }
       ]
     },
