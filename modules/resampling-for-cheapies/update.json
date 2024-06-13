@@ -8,6 +8,13 @@
       "versionCode": 1000,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/resampling-for-cheapies/v1.0.0_1000.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/resampling-for-cheapies/v1.0.0_1000.md"
+    },
+    {
+      "timestamp": 1718274315.0,
+      "version": "v1.0.1",
+      "versionCode": 1001,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/resampling-for-cheapies/v1.0.1_1001.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/resampling-for-cheapies/v1.0.1_1001.md"
     }
   ]
 }
