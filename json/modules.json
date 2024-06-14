@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1718303121.663699
+    "timestamp": 1718327918.389729
   },
   "modules": [
     {
@@ -1095,12 +1095,12 @@
     {
       "id": "mmrl_install_tools",
       "name": "MMRL Install Tools",
-      "version": "8.5.12",
-      "versionCode": 8512,
+      "version": "8.5.13",
+      "versionCode": 8513,
       "author": "Der_Googler",
-      "description": "Required module if you want to install modules from Explore",
+      "description": "Please be advised that support and update delivery for MMRL Install Tools will be discontinued as of June 20, 2024. We recommend migrating to MMRL-CLI to ensure uninterrupted service and continued improvements.\\nRequired module if you want to install modules from Explore",
       "added": 1705238797.0266,
-      "timestamp": 1716300153.0,
+      "timestamp": 1718306255.0,
       "track": {
         "type": "GIT",
         "added": 1705238797.0266,
@@ -1129,13 +1129,6 @@
       },
       "versions": [
         {
-          "timestamp": 1715532825.0,
-          "version": "7.5.11",
-          "versionCode": 7511,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/7.5.11_7511.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1716031655.0,
           "version": "7.5.12",
           "versionCode": 7512,
@@ -1147,6 +1140,13 @@
           "version": "8.5.12",
           "versionCode": 8512,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/8.5.12_8512.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1718306255.0,
+          "version": "8.5.13",
+          "versionCode": 8513,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/8.5.13_8513.zip",
           "changelog": ""
         }
       ]
