@@ -15,6 +15,13 @@
       "versionCode": 15,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.4_15.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.4_15.md"
+    },
+    {
+      "timestamp": 1718454759.696963,
+      "version": "v1.1.5",
+      "versionCode": 16,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.5_16.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.5_16.md"
     }
   ]
 }
