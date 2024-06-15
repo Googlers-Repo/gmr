@@ -3,13 +3,6 @@
   "timestamp": 1707060999.0,
   "versions": [
     {
-      "timestamp": 1707060999.0,
-      "version": "v3.45.1",
-      "versionCode": 20240204,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.1_20240204.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1710449902.0,
       "version": "v3.45.2",
       "versionCode": 20240314,
@@ -21,6 +14,13 @@
       "version": "v3.45.3",
       "versionCode": 20240418,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.3_20240418.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1718475131.0,
+      "version": "v3.46.0",
+      "versionCode": 20240615,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.46.0_20240615.zip",
       "changelog": ""
     }
   ]

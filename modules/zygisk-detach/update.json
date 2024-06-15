@@ -8,6 +8,13 @@
       "versionCode": 20,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.md"
+    },
+    {
+      "timestamp": 1718458010.0,
+      "version": "v1.17.0",
+      "versionCode": 21,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.md"
     }
   ]
 }

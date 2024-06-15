@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1718454775.6975
+    "timestamp": 1718475834.935212
   },
   "modules": [
     {
@@ -1454,12 +1454,12 @@
     {
       "id": "sqlite3",
       "name": "SQLite for arm, arm64, x86 and x64 devices",
-      "version": "v3.45.3",
-      "versionCode": 20240418,
+      "version": "v3.46.0",
+      "versionCode": 20240615,
       "author": "Rojen Zaman",
       "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
       "added": 1445340430.7142262,
-      "timestamp": 1713390961.0,
+      "timestamp": 1718475131.0,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1482,13 +1482,6 @@
       },
       "versions": [
         {
-          "timestamp": 1707060999.0,
-          "version": "v3.45.1",
-          "versionCode": 20240204,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.1_20240204.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1710449902.0,
           "version": "v3.45.2",
           "versionCode": 20240314,
@@ -1500,6 +1493,13 @@
           "version": "v3.45.3",
           "versionCode": 20240418,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.45.3_20240418.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1718475131.0,
+          "version": "v3.46.0",
+          "versionCode": 20240615,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/sqlite3/v3.46.0_20240615.zip",
           "changelog": ""
         }
       ]
@@ -1739,12 +1739,12 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.16.1",
-      "versionCode": 20,
+      "version": "v1.17.0",
+      "versionCode": 21,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
-      "timestamp": 1716371540.0,
+      "timestamp": 1718458010.0,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -1774,6 +1774,13 @@
           "versionCode": 20,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.md"
+        },
+        {
+          "timestamp": 1718458010.0,
+          "version": "v1.17.0",
+          "versionCode": 21,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.md"
         }
       ]
     }
