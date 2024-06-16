@@ -1,0 +1,11 @@
+{
+  "id": "powershell",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/DerGoogler/powershell.git",
+  "source": "https://github.com/DerGoogler/powershell.git",
+  "support": "https://github.com/DerGoogler/powershell/issues",
+  "donate": "https://github.com/sponsors/DerGoogler",
+  "readme": "https://raw.githubusercontent.com/DerGoogler/powershell/main/README.md",
+  "added": 1718573490.991985
+}
