@@ -124,7 +124,7 @@
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=mmrl_wpd</loc>
-      <lastmod>2024-05-21</lastmod>
+      <lastmod>2024-06-16</lastmod>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=nano-ndk</loc>
@@ -140,6 +140,13 @@
    <url>
       <loc>http://mmrl.dergoogler.com/?module=playintegrityfix</loc>
       <lastmod>2024-05-23</lastmod>
+   </url>
+   <url>
+      <loc>http://mmrl.dergoogler.com/?module=powershell</loc>
+      <lastmod>2024-06-16</lastmod>
+      <image:image>
+         <image:loc>https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png</image:loc>
+      </image:image>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=resampling-for-cheapies</loc>
