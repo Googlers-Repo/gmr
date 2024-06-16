@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1718519074.729653
+    "timestamp": 1718541182.95972
   },
   "modules": [
     {
@@ -29,7 +29,7 @@
         "verified": false,
         "cover": "https://i.imgur.com/vcXAreJ.png",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "SystemUI Mods",
@@ -38,7 +38,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -84,12 +84,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -121,12 +121,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/mikropsoft/StevenBlock/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -180,7 +180,7 @@
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -212,12 +212,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -256,7 +256,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Audio Enhancements",
@@ -267,7 +267,7 @@
         "require": [
           "aml"
         ],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -299,14 +299,14 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "System"
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -338,7 +338,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Audio Enhancements",
@@ -349,7 +349,7 @@
         "require": [
           "acp"
         ],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -381,7 +381,7 @@
         "verified": false,
         "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
         "icon": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Privacy Enhancements",
@@ -424,12 +424,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -461,7 +461,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "System",
@@ -469,7 +469,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -501,14 +501,14 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Miscellaneous"
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -561,7 +561,7 @@
         "require": [
           "busybox-ndk"
         ],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -593,7 +593,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Advanced Audio Mods",
@@ -602,7 +602,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -648,12 +648,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -685,7 +685,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Customization",
@@ -693,7 +693,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -725,12 +725,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -762,7 +762,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Miscellaneous",
@@ -771,7 +771,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/AmanoTeam/Faina/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -803,14 +803,14 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "System"
         ],
         "readme": "https://raw.githubusercontent.com/AmanoTeam/Kaina/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -855,7 +855,7 @@
         "require": [
           "ccbins"
         ],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -887,7 +887,7 @@
         "verified": false,
         "cover": "",
         "icon": "https://raw.githubusercontent.com/Chainfire/liveboot/master/liveBootAni2/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Boot",
@@ -896,7 +896,7 @@
         ],
         "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -942,7 +942,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "System",
@@ -950,7 +950,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -982,14 +982,14 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "App Additions and Features"
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1034,7 +1034,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1087,7 +1087,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1132,7 +1132,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/DerGoogler/mmrl_install_tools/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1178,7 +1178,7 @@
         "verified": true,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Configurable",
@@ -1187,7 +1187,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1233,14 +1233,14 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "System"
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1286,7 +1286,7 @@
         "verified": false,
         "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
         "icon": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Coding",
@@ -1297,7 +1297,7 @@
         "require": [
           "mkshrc"
         ],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1336,7 +1336,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Zygisk",
@@ -1344,7 +1344,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1390,12 +1390,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1434,12 +1434,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1471,14 +1471,14 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Tools"
         ],
         "readme": "https://raw.githubusercontent.com/rojenzaman/sqlite3-magisk-module/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1524,14 +1524,14 @@
         "verified": true,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Adblocking and Hosts Files"
         ],
         "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-AdBlocker/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1577,7 +1577,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Adblocking and Hosts Files",
@@ -1586,7 +1586,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1625,12 +1625,12 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1671,7 +1671,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1710,14 +1710,14 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "System"
         ],
         "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
@@ -1756,7 +1756,7 @@
         "verified": false,
         "cover": "",
         "icon": "",
-        "screenshots": "",
+        "screenshots": [],
         "category": "",
         "categories": [
           "Magisk",
@@ -1765,7 +1765,7 @@
         ],
         "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
         "require": [],
-        "antifeatures": ""
+        "antifeatures": []
       },
       "versions": [
         {
