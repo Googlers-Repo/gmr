@@ -1,11 +1,11 @@
 name: Module Submission
 description: Preferred Magisk Module submission template
-title: '[Module]: '
+title: '[Module]: module_id'
 labels: ["module"]
 body:
   - type: markdown
     attributes:
-      value: >-
+      value: |
         ## Read our [guidelines](https://dergoogler.com/gmr/guidelines) before
         you submit your module!
   - type: input
@@ -27,7 +27,7 @@ body:
     id: external_sources
     attributes:
       label: External sources
-      description: >-
+      description: |
         Please provide links for external used sources e.g. for included
         binaries
       placeholder: |
@@ -96,6 +96,24 @@ body:
         - Custom Kernels
         - Boot Animation
         - Privacy Enhancements
+  - type: dropdown
+    id: antifeatures
+    attributes:
+      label: Anti-Features
+      multiple: true
+      options:
+        - Ads
+        - KnownVuln
+        - NSFW
+        - NoSourceSince
+        - NonFreeAdd
+        - NonFreeAssets
+        - NonFreeDep
+        - NonFreeNet
+        - Tracking
+        - UpstreamNonFree
+        - Obfuscation
+        - UnaskedRemoval
   - type: input
     id: raw_readme
     attributes:
@@ -140,8 +158,3 @@ body:
     attributes:
       label: Support
       placeholder: https://...
-  - type: markdown
-    attributes:
-      value: >-
-        This template was generated with [Issue Forms
-        Creator](https://issue-forms-creator.netlify.app)
