@@ -1,0 +1,13 @@
+{
+  "id": "powershell",
+  "timestamp": 1718573284.0,
+  "versions": [
+    {
+      "timestamp": 1718573284.0,
+      "version": "7.4.2",
+      "versionCode": 742,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/7.4.2_742.zip",
+      "changelog": ""
+    }
+  ]
+}

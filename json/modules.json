@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1718562236.967264
+    "timestamp": 1718573707.037248
   },
   "modules": [
     {
@@ -1161,12 +1161,12 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "2.2.2",
-      "versionCode": 222,
+      "version": "2.3.2",
+      "versionCode": 232,
       "author": "Der_Googler, veez21 @ xda-developers",
-      "description": "View all your WiFi passwords inside MMRL",
+      "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
-      "timestamp": 1716278989.0,
+      "timestamp": 1718566177.0,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1191,13 +1191,6 @@
       },
       "versions": [
         {
-          "timestamp": 1709457655.0,
-          "version": "2.1.1",
-          "versionCode": 211,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.1.1_211.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1712064578.0,
           "version": "2.2.1",
           "versionCode": 221,
@@ -1209,6 +1202,13 @@
           "version": "2.2.2",
           "versionCode": 222,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.2.2_222.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1718566177.0,
+          "version": "2.3.2",
+          "versionCode": 232,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.3.2_232.zip",
           "changelog": ""
         }
       ]
@@ -1367,6 +1367,45 @@
           "versionCode": 15990,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.9_15990.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v15.9.9_15990.md"
+        }
+      ]
+    },
+    {
+      "id": "powershell",
+      "name": "Windows PowerShell",
+      "version": "7.4.2",
+      "versionCode": 742,
+      "author": "Der_Googler",
+      "description": "The Windows PowerShell Module is a tool that integrates PowerShell functionality into Android devices via the Magisk framework, allowing users to run PowerShell scripts and commands directly on their rooted devices.",
+      "added": 1718573490.991985,
+      "timestamp": 1718573284.0,
+      "track": {
+        "type": "GIT",
+        "added": 1718573490.991985,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/DerGoogler/powershell.git",
+        "support": "https://github.com/DerGoogler/powershell/issues",
+        "donate": "https://github.com/sponsors/DerGoogler",
+        "verified": false,
+        "cover": "https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png",
+        "icon": "",
+        "screenshots": [],
+        "category": "",
+        "categories": [
+          "System"
+        ],
+        "readme": "https://raw.githubusercontent.com/DerGoogler/powershell/main/README.md",
+        "require": [],
+        "antifeatures": []
+      },
+      "versions": [
+        {
+          "timestamp": 1718573284.0,
+          "version": "7.4.2",
+          "versionCode": 742,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/7.4.2_742.zip",
+          "changelog": ""
         }
       ]
     },
