@@ -3,13 +3,6 @@
   "timestamp": 1716574982.219125,
   "versions": [
     {
-      "timestamp": 1716813212.226547,
-      "version": "v2.03",
-      "versionCode": 2003,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.03_2003.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.03_2003.md"
-    },
-    {
       "timestamp": 1717418117.84398,
       "version": "v2.04",
       "versionCode": 2004,
@@ -22,6 +15,13 @@
       "versionCode": 2005,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.05_2005.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.05_2005.md"
+    },
+    {
+      "timestamp": 1718627690.98247,
+      "version": "v2.06",
+      "versionCode": 2006,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.06_2006.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.06_2006.md"
     }
   ]
 }
