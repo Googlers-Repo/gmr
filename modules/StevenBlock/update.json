@@ -3,13 +3,6 @@
   "timestamp": 1717504430.460072,
   "versions": [
     {
-      "timestamp": 1717870940.720241,
-      "version": "v1.1.4",
-      "versionCode": 15,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.4_15.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.4_15.md"
-    },
-    {
       "timestamp": 1718454759.696963,
       "version": "v1.1.5",
       "versionCode": 16,
@@ -22,6 +15,13 @@
       "versionCode": 17,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.6_17.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.6_17.md"
+    },
+    {
+      "timestamp": 1718886844.089838,
+      "version": "v1.1.7",
+      "versionCode": 18,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.7_18.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/StevenBlock/v1.1.7_18.md"
     }
   ]
 }
