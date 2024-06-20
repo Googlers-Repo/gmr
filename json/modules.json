@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1718886861.217434
+    "timestamp": 1718907933.727072
   },
   "modules": [
     {
@@ -1778,12 +1778,12 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.17.0",
-      "versionCode": 21,
+      "version": "v1.18.0",
+      "versionCode": 22,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
-      "timestamp": 1718458010.0,
+      "timestamp": 1718898770.0,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -1820,6 +1820,13 @@
           "versionCode": 21,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.md"
+        },
+        {
+          "timestamp": 1718898770.0,
+          "version": "v1.18.0",
+          "versionCode": 22,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.18.0_22.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.18.0_22.md"
         }
       ]
     }
