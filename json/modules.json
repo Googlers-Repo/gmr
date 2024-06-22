@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719052066.538435
+    "timestamp": 1719053021.903358
   },
   "modules": [
     {
@@ -1368,23 +1368,32 @@
     {
       "id": "mmrl",
       "name": "MMRL CLI",
-      "version": "0.3.3",
-      "versionCode": 33,
+      "version": "0.3.4",
+      "versionCode": 34,
       "author": "Der_Googler",
-      "description": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules. Build on 2024-05-25 with Rust 1.78.0.",
+      "description": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules. Build on 2024-06-22 with Rust 1.78.0.",
       "added": 1705238797.0266,
-      "timestamp": 1716661582.0,
+      "timestamp": 1719052172.0,
       "category": null,
-      "categories": null,
+      "categories": [
+        "Tools",
+        "System",
+        "Configurable"
+      ],
       "icon": null,
       "antifeatures": null,
       "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "support": "https://github.com/DerGoogler/MMRL-CLI/issues",
+      "cover": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/1.png",
+        "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/2.png",
+        "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/3.png",
+        "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/4.png"
+      ],
       "license": null,
-      "readme": null,
+      "readme": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/README.md",
       "require": null,
       "verified": true,
       "track": {
@@ -1421,6 +1430,13 @@
           "versionCode": 33,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.3_33.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.3_33.md"
+        },
+        {
+          "timestamp": 1719052172.0,
+          "version": "0.3.4",
+          "versionCode": 34,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.4_34.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.4_34.md"
         }
       ]
     },

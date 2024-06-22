@@ -8,6 +8,13 @@
       "versionCode": 33,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.3_33.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.3_33.md"
+    },
+    {
+      "timestamp": 1719052172.0,
+      "version": "0.3.4",
+      "versionCode": 34,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.4_34.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.4_34.md"
     }
   ]
 }
