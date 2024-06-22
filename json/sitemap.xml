@@ -13,7 +13,7 @@
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=StevenBlock</loc>
-      <lastmod>2024-06-20</lastmod>
+      <lastmod>2024-06-22</lastmod>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=UbuntuFontVinaooo</loc>
@@ -110,7 +110,7 @@
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=mmrl</loc>
-      <lastmod>2024-05-25</lastmod>
+      <lastmod>2024-06-22</lastmod>
       <image:image>
          <image:loc>https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png</image:loc>
       </image:image>
@@ -140,6 +140,10 @@
    <url>
       <loc>http://mmrl.dergoogler.com/?module=playintegrityfix</loc>
       <lastmod>2024-06-20</lastmod>
+   </url>
+   <url>
+      <loc>http://mmrl.dergoogler.com/?module=pmmp</loc>
+      <lastmod>2024-06-22</lastmod>
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=powershell</loc>
