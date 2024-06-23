@@ -15,6 +15,13 @@
       "versionCode": 1514,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/mkshrc/1.5.14_1514.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1719138340.0,
+      "version": "1.5.15",
+      "versionCode": 1515,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mkshrc/1.5.15_1515.zip",
+      "changelog": ""
     }
   ]
 }

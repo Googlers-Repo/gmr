@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719123867.084405
+    "timestamp": 1719145964.499208
   },
   "modules": [
     {
@@ -1303,23 +1303,31 @@
     {
       "id": "mkshrc",
       "name": "Systemless Mkshrc",
-      "version": "1.5.14",
-      "versionCode": 1514,
+      "version": "1.5.15",
+      "versionCode": 1515,
       "author": "Der_Googler",
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "added": 1705247355.84234,
-      "timestamp": 1707054518.0,
+      "timestamp": 1719138340.0,
       "category": null,
-      "categories": null,
+      "categories": [
+        "Coding",
+        "Configurable",
+        "Tools"
+      ],
       "icon": null,
       "antifeatures": null,
       "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues",
+      "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
+      "screenshots": [
+        "https://cdn.dergoogler.com/images/mkshrc-screen1.png",
+        "https://cdn.dergoogler.com/images/mkshrc-screen2.png",
+        "https://cdn.dergoogler.com/images/mkshrc-screen3.png"
+      ],
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
       "require": null,
       "verified": false,
       "track": {
@@ -1361,6 +1369,13 @@
           "version": "1.5.14",
           "versionCode": 1514,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mkshrc/1.5.14_1514.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1719138340.0,
+          "version": "1.5.15",
+          "versionCode": 1515,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mkshrc/1.5.15_1515.zip",
           "changelog": ""
         }
       ]
@@ -1649,24 +1664,30 @@
     {
       "id": "node_on_android",
       "name": "Systemless Node.js",
-      "version": "1.5.5",
-      "versionCode": 155,
+      "version": "1.5.6",
+      "versionCode": 156,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "added": 1705247305.749979,
-      "timestamp": 1706173983.0,
+      "timestamp": 1719138353.0,
       "category": null,
-      "categories": null,
-      "icon": null,
+      "categories": [
+        "Coding",
+        "Configurable",
+        "Tools"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
       "antifeatures": null,
       "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues",
+      "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
       "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
+      "license": "MIT",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
+      "require": [
+        "mkshrc"
+      ],
       "verified": false,
       "track": {
         "type": "GIT",
@@ -1705,6 +1726,13 @@
           "version": "1.5.5",
           "versionCode": 155,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/node_on_android/1.5.5_155.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1719138353.0,
+          "version": "1.5.6",
+          "versionCode": 156,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/node_on_android/1.5.6_156.zip",
           "changelog": ""
         }
       ]
@@ -2237,23 +2265,27 @@
     {
       "id": "xhhttp",
       "name": "xh for Android",
-      "version": "v0.22.0",
-      "versionCode": 221,
+      "version": "v0.22.2",
+      "versionCode": 222,
       "author": "ducaale & Der_Googler",
       "description": "Friendly and fast tool for sending HTTP requests",
       "added": 1705247343.892676,
-      "timestamp": 1717254835.0,
+      "timestamp": 1719138327.0,
       "category": null,
-      "categories": null,
+      "categories": [
+        "System"
+      ],
       "icon": null,
       "antifeatures": null,
-      "homepage": null,
+      "homepage": "https://github.com/ducaale/xh",
       "donate": null,
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp",
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
+      "cover": "https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif",
+      "screenshots": [
+        "https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif"
+      ],
+      "license": "MIT",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
       "require": null,
       "verified": false,
       "track": {
@@ -2291,6 +2323,13 @@
           "version": "v0.22.0",
           "versionCode": 221,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.22.0_221.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1719138327.0,
+          "version": "v0.22.2",
+          "versionCode": 222,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.22.2_222.zip",
           "changelog": ""
         }
       ]

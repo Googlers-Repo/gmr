@@ -15,6 +15,13 @@
       "versionCode": 155,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/node_on_android/1.5.5_155.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1719138353.0,
+      "version": "1.5.6",
+      "versionCode": 156,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/node_on_android/1.5.6_156.zip",
+      "changelog": ""
     }
   ]
 }

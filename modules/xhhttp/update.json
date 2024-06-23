@@ -15,6 +15,13 @@
       "versionCode": 221,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.22.0_221.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1719138327.0,
+      "version": "v0.22.2",
+      "versionCode": 222,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/xhhttp/v0.22.2_222.zip",
+      "changelog": ""
     }
   ]
 }
