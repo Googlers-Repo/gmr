@@ -1,91 +1,91 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=acp</loc>
+      <loc>https://mmrl.dergoogler.com/?module=acp</loc>
       <lastmod>2022-01-31</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=adb-ndk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=adb-ndk</loc>
       <lastmod>2023-10-30</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=aml</loc>
+      <loc>https://mmrl.dergoogler.com/?module=aml</loc>
       <lastmod>2023-07-24</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=amtsmagisk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=amtsmagisk</loc>
       <lastmod>2023-12-22</lastmod>
       <image:image>
          <image:loc>https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg</image:loc>
       </image:image>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=busybox-ndk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=busybox-ndk</loc>
       <lastmod>2023-11-11</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=ccbins</loc>
+      <loc>https://mmrl.dergoogler.com/?module=ccbins</loc>
       <lastmod>2024-03-30</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=djs</loc>
+      <loc>https://mmrl.dergoogler.com/?module=djs</loc>
       <lastmod>2021-12-14</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=livebootmagisk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=livebootmagisk</loc>
       <lastmod>2024-04-15</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=mmrl</loc>
+      <loc>https://mmrl.dergoogler.com/?module=mmrl</loc>
       <lastmod>2024-06-22</lastmod>
       <image:image>
          <image:loc>https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png</image:loc>
       </image:image>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=mmrl_install_tools</loc>
+      <loc>https://mmrl.dergoogler.com/?module=mmrl_install_tools</loc>
       <lastmod>2024-06-13</lastmod>
       <image:image>
          <image:loc>https://mmrl.dergoogler.com/assets/MMRL-Cover.png</image:loc>
       </image:image>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=mmrl_wpd</loc>
+      <loc>https://mmrl.dergoogler.com/?module=mmrl_wpd</loc>
       <lastmod>2024-06-16</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=nano-ndk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=nano-ndk</loc>
       <lastmod>2024-05-03</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=playintegrityfix</loc>
+      <loc>https://mmrl.dergoogler.com/?module=playintegrityfix</loc>
       <lastmod>2024-06-20</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=powershell</loc>
+      <loc>https://mmrl.dergoogler.com/?module=powershell</loc>
       <lastmod>2024-06-16</lastmod>
       <image:image>
          <image:loc>https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png</image:loc>
       </image:image>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=systemless-adblock</loc>
+      <loc>https://mmrl.dergoogler.com/?module=systemless-adblock</loc>
       <lastmod>2024-06-24</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=systemless-hosts-KernelSU-module</loc>
+      <loc>https://mmrl.dergoogler.com/?module=systemless-hosts-KernelSU-module</loc>
       <lastmod>2024-04-16</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=usb-samplerate-unlocker</loc>
+      <loc>https://mmrl.dergoogler.com/?module=usb-samplerate-unlocker</loc>
       <lastmod>2024-04-18</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=zipsigner</loc>
+      <loc>https://mmrl.dergoogler.com/?module=zipsigner</loc>
       <lastmod>2024-04-03</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=zygisk-detach</loc>
+      <loc>https://mmrl.dergoogler.com/?module=zygisk-detach</loc>
       <lastmod>2024-06-20</lastmod>
    </url>
 </urlset>
