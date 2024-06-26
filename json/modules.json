@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719405364.290569
+    "timestamp": 1719426241.265191
   },
   "modules": [
     {
@@ -457,12 +457,12 @@
     {
       "id": "mmrl",
       "name": "MMRL CLI",
-      "version": "0.3.4",
-      "versionCode": 34,
+      "version": "0.3.6",
+      "versionCode": 36,
       "author": "Der_Googler",
-      "description": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules. Build on 2024-06-22 with Rust 1.78.0.",
+      "description": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules. Build on 2024-06-26 with Rust 1.78.0.",
       "added": 1705238797.0266,
-      "timestamp": 1719052172.0,
+      "timestamp": 1719421610.0,
       "category": null,
       "categories": [
         "Tools",
@@ -525,6 +525,13 @@
           "versionCode": 34,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.4_34.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.4_34.md"
+        },
+        {
+          "timestamp": 1719421610.0,
+          "version": "0.3.6",
+          "versionCode": 36,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.6_36.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.6_36.md"
         }
       ]
     },
