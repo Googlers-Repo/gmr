@@ -1,96 +1,38 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=HideNavBar</loc>
-      <lastmod>2024-05-26</lastmod>
-      <image:image>
-         <image:loc>https://i.imgur.com/vcXAreJ.png</image:loc>
-      </image:image>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=NoStorageRestrict</loc>
-      <lastmod>2023-12-22</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=StevenBlock</loc>
-      <lastmod>2024-06-20</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=UbuntuFontVinaooo</loc>
-      <lastmod>2023-05-07</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=abootloop</loc>
-      <lastmod>2024-06-10</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=acp</loc>
+      <loc>https://mmrl.dergoogler.com/?module=acp</loc>
       <lastmod>2022-01-31</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=adb-ndk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=adb-ndk</loc>
       <lastmod>2023-10-30</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=aml</loc>
+      <loc>https://mmrl.dergoogler.com/?module=aml</loc>
       <lastmod>2023-07-24</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=amtsmagisk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=amtsmagisk</loc>
       <lastmod>2023-12-22</lastmod>
       <image:image>
          <image:loc>https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg</image:loc>
       </image:image>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=audio-misc-settings</loc>
-      <lastmod>2024-05-22</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=busybox-ndk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=busybox-ndk</loc>
       <lastmod>2023-11-11</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=ccbins</loc>
+      <loc>https://mmrl.dergoogler.com/?module=ccbins</loc>
       <lastmod>2024-03-30</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=chroot-distro</loc>
-      <lastmod>2024-03-09</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=compatible-magisk-mirroring</loc>
-      <lastmod>2024-04-15</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=disable-low-ram</loc>
-      <lastmod>2024-05-26</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=djs</loc>
+      <loc>https://mmrl.dergoogler.com/?module=djs</loc>
       <lastmod>2021-12-14</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=drc-remover</loc>
-      <lastmod>2024-04-18</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=faina</loc>
-      <lastmod>2024-03-25</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=kaina</loc>
-      <lastmod>2024-03-20</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=lhroot</loc>
-      <lastmod>2023-12-25</lastmod>
-      <image:image>
-         <image:loc>https://preview.redd.it/help-lhroot-error-v0-9r30zwofnf8c1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cf7c1000be0103c7320f58b22c0779d5aa7b9cde</image:loc>
-      </image:image>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=livebootmagisk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=livebootmagisk</loc>
       <lastmod>2024-04-15</lastmod>
    </url>
    <url>
@@ -116,75 +58,49 @@
       </image:image>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=mmrl_install_tools</loc>
+      <loc>https://mmrl.dergoogler.com/?module=mmrl_install_tools</loc>
       <lastmod>2024-06-13</lastmod>
       <image:image>
          <image:loc>&lt;CONFCWD&gt;/assets/logcat-min.png</image:loc>
       </image:image>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=mmrl_wpd</loc>
+      <loc>https://mmrl.dergoogler.com/?module=mmrl_wpd</loc>
       <lastmod>2024-06-16</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=nano-ndk</loc>
+      <loc>https://mmrl.dergoogler.com/?module=nano-ndk</loc>
       <lastmod>2024-05-03</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=node_on_android</loc>
-      <lastmod>2024-01-25</lastmod>
-      <image:image>
-         <image:loc>https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true</image:loc>
-      </image:image>
+      <loc>https://mmrl.dergoogler.com/?module=playintegrityfix</loc>
+      <lastmod>2024-06-27</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=playintegrityfix</loc>
-      <lastmod>2024-06-20</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=powershell</loc>
+      <loc>https://mmrl.dergoogler.com/?module=powershell</loc>
       <lastmod>2024-06-16</lastmod>
       <image:image>
          <image:loc>https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png</image:loc>
       </image:image>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=resampling-for-cheapies</loc>
-      <lastmod>2024-06-13</lastmod>
+      <loc>https://mmrl.dergoogler.com/?module=systemless-adblock</loc>
+      <lastmod>2024-06-24</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=simple_bootloopsaver</loc>
-      <lastmod>2023-07-25</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=sqlite3</loc>
-      <lastmod>2024-06-15</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=systemless-adblock</loc>
-      <lastmod>2024-06-17</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=systemless-hosts-KernelSU-module</loc>
+      <loc>https://mmrl.dergoogler.com/?module=systemless-hosts-KernelSU-module</loc>
       <lastmod>2024-04-16</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=usb-samplerate-unlocker</loc>
+      <loc>https://mmrl.dergoogler.com/?module=usb-samplerate-unlocker</loc>
       <lastmod>2024-04-18</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=xhhttp</loc>
-      <lastmod>2024-06-01</lastmod>
-      <image:image>
-         <image:loc>https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif</image:loc>
-      </image:image>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=zipsigner</loc>
+      <loc>https://mmrl.dergoogler.com/?module=zipsigner</loc>
       <lastmod>2024-04-03</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=zygisk-detach</loc>
+      <loc>https://mmrl.dergoogler.com/?module=zygisk-detach</loc>
       <lastmod>2024-06-20</lastmod>
    </url>
 </urlset>
