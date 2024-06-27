@@ -97,24 +97,11 @@ jobs:
           echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
           rm latest_versions.md
 
-      - name: Index and Push
+      - name: Index, Sitemap and Push
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
+          python util/cli.py sitemap --base-url "https://mmrl.dergoogler.com/?module="
           python util/cli.py index --push
-          
-      # Sitemap generator
-      - name: Generate sitemap
-        if: ${{ env.IS_SYNC == 'true' }}
-        run: |
-          python generate_sitemap.py
-
-      - name: Commit sitemap
-        if: ${{ env.IS_SYNC == 'true' }}
-        run: |
-          git add json/sitemap.xml
-          git commit -sm "[SITEMAP] Update sitemap.xml" || true
-          git push || true
-      ####
 
       - name: Upload logs
         uses: actions/upload-artifact@v3

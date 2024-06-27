@@ -110,7 +110,7 @@
    </url>
    <url>
       <loc>http://mmrl.dergoogler.com/?module=mmrl</loc>
-      <lastmod>2024-05-25</lastmod>
+      <lastmod>2024-06-22</lastmod>
       <image:image>
          <image:loc>https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png</image:loc>
       </image:image>
@@ -119,7 +119,7 @@
       <loc>http://mmrl.dergoogler.com/?module=mmrl_install_tools</loc>
       <lastmod>2024-06-13</lastmod>
       <image:image>
-         <image:loc>https://mmrl.dergoogler.com/assets/MMRL-Cover.png</image:loc>
+         <image:loc>&lt;CONFCWD&gt;/assets/logcat-min.png</image:loc>
       </image:image>
    </url>
    <url>
