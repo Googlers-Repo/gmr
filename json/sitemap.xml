@@ -36,23 +36,8 @@
       <lastmod>2024-04-15</lastmod>
    </url>
    <url>
-      <loc>http://mmrl.dergoogler.com/?module=magisk_overlayfs</loc>
-      <lastmod>2023-06-15</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=magisk_proc_monitor</loc>
-      <lastmod>2023-09-10</lastmod>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=mkshrc</loc>
-      <lastmod>2024-02-04</lastmod>
-      <image:image>
-         <image:loc>https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png</image:loc>
-      </image:image>
-   </url>
-   <url>
-      <loc>http://mmrl.dergoogler.com/?module=mmrl</loc>
-      <lastmod>2024-06-22</lastmod>
+      <loc>https://mmrl.dergoogler.com/?module=mmrl</loc>
+      <lastmod>2024-06-27</lastmod>
       <image:image>
          <image:loc>https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png</image:loc>
       </image:image>
