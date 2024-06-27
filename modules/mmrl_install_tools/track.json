@@ -1,6 +1,6 @@
 {
   "id": "mmrl_install_tools",
-  "enable": true,
+  "enable": false,
   "verified": true,
   "update_to": "https://github.com/DerGoogler/mmrl_install_tools.git",
   "source": "https://github.com/DerGoogler/mmrl_install_tools",
