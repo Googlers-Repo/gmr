@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1719664394.509398
+    "timestamp": 1719679235.254469
   },
   "modules": [
     {
@@ -532,77 +532,6 @@
           "versionCode": 38,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.8_38.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.8_38.md"
-        }
-      ]
-    },
-    {
-      "id": "mmrl_install_tools",
-      "name": "MMRL Install Tools",
-      "version": "8.5.13",
-      "versionCode": 8513,
-      "author": "Der_Googler",
-      "description": "Please be advised that support and update delivery for MMRL Install Tools will be discontinued as of June 20, 2024. We recommend migrating to MMRL-CLI to ensure uninterrupted service and continued improvements.\\nRequired module if you want to install modules from Explore",
-      "added": 1705238797.0266,
-      "timestamp": 1718306255.0,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": "<CONFCWD>/assets/logcat-min.png",
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": true,
-      "track": {
-        "type": "GIT",
-        "added": 1705238797.0266,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/DerGoogler/mmrl_install_tools",
-        "support": "https://github.com/DerGoogler/mmrl_install_tools/issues",
-        "donate": "https://github.com/sponsors/DerGoogler",
-        "verified": true,
-        "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
-        "icon": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
-        "screenshots": [
-          "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/1.png?raw=true",
-          "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/2.png?raw=true",
-          "https://github.com/DerGoogler/mmrl_install_tools/blob/master/assets/3.png?raw=true"
-        ],
-        "category": "",
-        "categories": [
-          "Tools",
-          "System",
-          "Configurable"
-        ],
-        "readme": "https://raw.githubusercontent.com/DerGoogler/mmrl_install_tools/master/README.md",
-        "require": [],
-        "antifeatures": []
-      },
-      "versions": [
-        {
-          "timestamp": 1716031655.0,
-          "version": "7.5.12",
-          "versionCode": 7512,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/7.5.12_7512.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1716300153.0,
-          "version": "8.5.12",
-          "versionCode": 8512,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/8.5.12_8512.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1718306255.0,
-          "version": "8.5.13",
-          "versionCode": 8513,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_install_tools/8.5.13_8513.zip",
-          "changelog": ""
         }
       ]
     },
