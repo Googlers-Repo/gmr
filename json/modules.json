@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1721092956.680908
+    "timestamp": 1721111176.41787
   },
   "modules": [
     {
@@ -642,13 +642,13 @@
     {
       "id": "nano-ndk",
       "name": "Nano for Android NDK",
-      "version": "8.0",
-      "versionCode": 8000,
+      "version": "8.1",
+      "versionCode": 8100,
       "author": "osm0sis @ xda-developers",
       "description": "Static arm/arm64 nano binary for Android built with the NDK",
       "added": 1445340430.7142262,
-      "timestamp": 1714745354.0,
-      "size": 861918,
+      "timestamp": 1721095822.0,
+      "size": 863317,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -685,13 +685,6 @@
       },
       "versions": [
         {
-          "timestamp": 1699585603.0,
-          "version": "7.2",
-          "versionCode": 7204,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/7.2_7204.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1712163046.0,
           "version": "7.2",
           "versionCode": 7205,
@@ -704,6 +697,14 @@
           "versionCode": 8000,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.0_8000.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1721095822.0,
+          "version": "8.1",
+          "versionCode": 8100,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.1_8100.zip",
+          "changelog": "",
+          "size": 863317
         }
       ]
     },
