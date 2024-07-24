@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1721824503.361458
+    "timestamp": 1721845591.066853
   },
   "modules": [
     {
@@ -711,13 +711,13 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v16.7",
-      "versionCode": 16700,
+      "version": "v16.8",
+      "versionCode": 16800,
       "author": "chiteroman",
       "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
       "added": 1445340430.7142262,
-      "timestamp": 1721581962.0,
-      "size": 126571,
+      "timestamp": 1721840614.0,
+      "size": 129087,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -755,13 +755,6 @@
       },
       "versions": [
         {
-          "timestamp": 1719612104.0,
-          "version": "v16.5",
-          "versionCode": 16500,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v16.5_16500.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v16.5_16500.md"
-        },
-        {
           "timestamp": 1721516789.0,
           "version": "v16.6",
           "versionCode": 16600,
@@ -776,6 +769,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v16.7_16700.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v16.7_16700.md",
           "size": 126571
+        },
+        {
+          "timestamp": 1721840614.0,
+          "version": "v16.8",
+          "versionCode": 16800,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v16.8_16800.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v16.8_16800.md",
+          "size": 129087
         }
       ]
     },
