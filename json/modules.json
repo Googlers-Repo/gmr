@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1722147856.118485
+    "timestamp": 1722169975.45503
   },
   "modules": [
     {
@@ -971,13 +971,13 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.6",
-      "versionCode": 1506,
+      "version": "v1.5.7",
+      "versionCode": 1507,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "added": 1717861375.501469,
-      "timestamp": 1713443976.0,
-      "size": 19613,
+      "timestamp": 1722148008.0,
+      "size": 19661,
       "maxApi": null,
       "minApi": null,
       "category": null,
@@ -1017,6 +1017,14 @@
           "versionCode": 1506,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.6_1506.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.6_1506.md"
+        },
+        {
+          "timestamp": 1722148008.0,
+          "version": "v1.5.7",
+          "versionCode": 1507,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.7_1507.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.7_1507.md",
+          "size": 19661
         }
       ]
     },
