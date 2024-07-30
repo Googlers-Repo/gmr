@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1722342945.455764
+    "timestamp": 1722344130.592675
   },
   "modules": [
     {
@@ -33,6 +33,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -91,6 +92,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -145,6 +147,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -203,6 +206,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -261,6 +265,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -316,6 +321,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1706465625.561501,
@@ -377,6 +383,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -432,6 +439,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -511,6 +519,11 @@
       "readme": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/README.md",
       "require": null,
       "verified": true,
+      "note": {
+        "color": "yellow",
+        "title": "Attention",
+        "message": "The initial install of MMRL-CLI should be through your root manager."
+      },
       "track": {
         "type": "ONLINE_JSON",
         "added": 1705238797.0266,
@@ -594,6 +607,7 @@
       "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
       "require": null,
       "verified": true,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -664,6 +678,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -733,6 +748,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1445340430.7142262,
@@ -805,6 +821,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1718573490.991985,
@@ -859,6 +876,7 @@
       "readme": null,
       "require": null,
       "verified": true,
+      "note": null,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564066.993573,
@@ -930,6 +948,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -993,6 +1012,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1717861375.501469,
@@ -1053,6 +1073,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1114,6 +1135,7 @@
       "readme": null,
       "require": null,
       "verified": false,
+      "note": null,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
