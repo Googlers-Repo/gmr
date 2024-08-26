@@ -61,5 +61,14 @@
         "antifeatures": [
             "NoSourceSince"
         ]
+    },
+    {
+        "id": "tricky_store",
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "hidden": false,
+        "notes": "Includes a APK called \"service.apk\". Includes a binary called \"mazoku\"",
+        "antifeatures": [
+            "NoSourceSince"
+        ]
     }
 ]
