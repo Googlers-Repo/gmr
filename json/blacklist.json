@@ -52,5 +52,14 @@
             "Tracking",
             "Obfuscation"
         ]
+    },
+    {
+        "id": "zygisk_shamiko",
+        "source": "https://github.com/LSPosed/LSPosed.github.io/releases",
+        "hidden": false,
+        "notes": "",
+        "antifeatures": [
+            "NoSourceSince"
+        ]
     }
 ]
