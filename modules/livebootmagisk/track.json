@@ -3,20 +3,20 @@
   "enable": true,
   "verified": false,
   "update_to": "https://github.com/symbuzzer/livebootmodule.git",
+  "license": "GPL-3.0",
   "source": "https://github.com/symbuzzer/livebootmodule",
   "support": "https://github.com/symbuzzer/livebootmodule/issues",
+  "donate": "https://patreon.com/user?u=88377368",
   "icon": "https://raw.githubusercontent.com/Chainfire/liveboot/master/liveBootAni2/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png",
   "screenshots": [],
   "require": [],
-  "donate": "https://patreon.com/user?u=88377368",
-  "license": "GPL-3.0",
   "categories": [
     "Boot",
     "Boot Animation",
     "System"
   ],
   "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
-  "last_update": 1713181363.0,
-  "added": 1445340430.714226137,
+  "added": 1445340430.7142262,
+  "last_update": 1725043105.0,
   "versions": 3
 }
