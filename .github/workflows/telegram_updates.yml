@@ -31,7 +31,7 @@ jobs:
       - name: Run update check
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: "-1001820447155"
+          TELEGRAM_CHAT_ID: "@GooglersRepo"
         run: python scripts/telegram_updates.py
 
       - name: Commit Last Versions
