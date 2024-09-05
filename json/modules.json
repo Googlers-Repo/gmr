@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725539918.472397
+    "timestamp": 1725560746.573384
   },
   "modules": [
     {
@@ -17,46 +17,24 @@
       "author": "zackptg5, ahrion, John Fawkes",
       "description": "Fixes music and streaming apps (Spotify, Pandora, etc) that aren't processing audio effects for various equalizer applications through the modification of audio policy",
       "added": 1445340430.7142262,
+      "categories": [
+        "Audio Enhancements",
+        "Advanced Audio Mods",
+        "App Additions and Features"
+      ],
+      "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
+      "require": [
+        "aml"
+      ],
+      "verified": false,
       "timestamp": 1643646579.0,
       "size": 3796149,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": "https://forum.xda-developers.com/apps/magisk/module-universal-deepbuffer-remover-t3577067",
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Repo/acp.git",
-        "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
-        "donate": "",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Audio Enhancements",
-          "Advanced Audio Mods",
-          "App Additions and Features"
-        ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
-        "require": [
-          "aml"
-        ],
-        "antifeatures": []
+        "source": "https://github.com/Magisk-Modules-Repo/acp.git"
       },
       "versions": [
         {
@@ -76,42 +54,22 @@
       "author": "osm0sis & Surge1223 @ xda-developers",
       "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
       "added": 1445340430.7142262,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/adb-ndk/issues",
+      "screenshots": [],
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
+      "require": [],
+      "verified": false,
       "timestamp": 1698679366.0,
       "size": 5300707,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": "https://www.paypal.me/osm0sis",
-      "support": "https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Repo/adb-ndk",
-        "support": "https://github.com/Magisk-Modules-Repo/adb-ndk/issues",
-        "donate": "https://github.com/sponsors/osm0sis",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "System"
-        ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/Magisk-Modules-Repo/adb-ndk"
       },
       "versions": [
         {
@@ -131,46 +89,27 @@
       "author": "zackptg5, ahrion",
       "description": "AudModLib is a framework that allows the seamless integration of multiple audio mods in Magisk.",
       "added": 1445340430.7142262,
+      "categories": [
+        "Audio Enhancements",
+        "Advanced Audio Mods",
+        "App Additions and Features"
+      ],
+      "support": "https://github.com/Zackptg5/Audio-Modification-Library/issues",
+      "readme": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/README.md",
+      "require": [
+        "acp"
+      ],
+      "verified": false,
       "timestamp": 1690235714.0,
       "size": 23941,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": "https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612",
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {
+        "service": true,
+        "post_fs_data": true
+      },
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Zackptg5/Audio-Modification-Library.git",
-        "support": "https://github.com/Zackptg5/Audio-Modification-Library/issues",
-        "donate": "",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Audio Enhancements",
-          "Advanced Audio Mods",
-          "App Additions and Features"
-        ],
-        "readme": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/README.md",
-        "require": [
-          "acp"
-        ],
-        "antifeatures": []
+        "source": "https://github.com/Zackptg5/Audio-Modification-Library.git"
       },
       "versions": [
         {
@@ -190,46 +129,26 @@
       "author": "Der_Googler & Sierra Community",
       "description": "AntiAMTS ist ein kostenloser AdBlocker, der von SierraDevoplers bereitgestellt wird.",
       "added": 1445340430.7142262,
+      "categories": [
+        "Privacy Enhancements",
+        "Adblocking and Hosts Files"
+      ],
+      "icon": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
+      "support": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues",
+      "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
+      "verified": false,
       "timestamp": 1703239411.0,
       "size": 5180,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": "https://github.com/DerGoogler/AntiAMTS-Magisk",
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true
+      },
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
-        "support": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues",
-        "donate": "",
-        "verified": false,
-        "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
-        "icon": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Privacy Enhancements",
-          "Adblocking and Hosts Files"
-        ],
-        "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
-        "require": [],
-        "antifeatures": [
-          "Tracking",
-          "NoSourceSince"
-        ]
+        "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git"
       },
       "versions": [
         {
@@ -249,43 +168,23 @@
       "author": "osm0sis @ xda-developers",
       "description": "Static busybox binary for all Android architectures built with the NDK",
       "added": 1445340430.7142262,
+      "categories": [
+        "System",
+        "Tools"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/busybox-ndk/issues",
+      "screenshots": [],
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
+      "require": [],
+      "verified": false,
       "timestamp": 1699710957.0,
       "size": 9933908,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": "https://www.paypal.me/osm0sis",
-      "support": "https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
-        "support": "https://github.com/Magisk-Modules-Repo/busybox-ndk/issues",
-        "donate": "https://github.com/sponsors/osm0sis",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "System",
-          "Tools"
-        ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk"
       },
       "versions": [
         {
@@ -305,42 +204,19 @@
       "author": "Zackptg5",
       "description": "A growing collection of cross compiled binaries for android",
       "added": 1706465625.561501,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "support": "https://github.com/Magisk-Modules-Repo/ccbins/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
+      "verified": false,
       "timestamp": 1711830438.0,
       "size": 17029965,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {},
       "track": {
         "type": "GIT",
         "added": 1706465625.561501,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
-        "support": "https://github.com/Magisk-Modules-Repo/ccbins/issues",
-        "donate": "",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Miscellaneous"
-        ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/Magisk-Modules-Repo/ccbins.git"
       },
       "versions": [
         {
@@ -367,43 +243,20 @@
       "author": "VR25",
       "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
       "added": 1445340430.7142262,
+      "categories": [
+        "Customization",
+        "Management"
+      ],
+      "support": "https://github.com/VR-25/djs/issues",
+      "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
+      "verified": false,
       "timestamp": 1639484648.0,
       "size": 42097,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/VR-25/djs.git",
-        "support": "https://github.com/VR-25/djs/issues",
-        "donate": "",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Customization",
-          "Management"
-        ],
-        "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/VR-25/djs.git"
       },
       "versions": [
         {
@@ -423,44 +276,29 @@
       "author": "Ali Beyaz (avalibeyaz.com/github)",
       "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
       "added": 1445340430.7142262,
+      "categories": [
+        "Boot",
+        "Boot Animation",
+        "System"
+      ],
+      "icon": "https://raw.githubusercontent.com/Chainfire/liveboot/master/liveBootAni2/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png",
+      "donate": "https://patreon.com/user?u=88377368",
+      "support": "https://github.com/symbuzzer/livebootmodule/issues",
+      "screenshots": [],
+      "license": "GPL-3.0",
+      "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
+      "require": [],
+      "verified": false,
       "timestamp": 1725516965.0,
       "size": 503799,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {
+        "webroot": true,
+        "modconf": true
+      },
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "https://github.com/symbuzzer/livebootmodule",
-        "support": "https://github.com/symbuzzer/livebootmodule/issues",
-        "donate": "https://patreon.com/user?u=88377368",
-        "verified": false,
-        "cover": "",
-        "icon": "https://raw.githubusercontent.com/Chainfire/liveboot/master/liveBootAni2/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Boot",
-          "Boot Animation",
-          "System"
-        ],
-        "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/symbuzzer/livebootmodule"
       },
       "versions": [
         {
@@ -497,18 +335,11 @@
       "author": "Der_Googler",
       "description": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules. Build on 2024-08-18 with Rust 1.78.0.",
       "added": 1705238797.0266,
-      "timestamp": 1723992385.0,
-      "size": 5405160,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
       "categories": [
         "Tools",
         "System",
         "Configurable"
       ],
-      "icon": null,
-      "homepage": null,
       "donate": "https://github.com/sponsors/DerGoogler",
       "support": "https://github.com/DerGoogler/MMRL-CLI/issues",
       "cover": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png",
@@ -520,39 +351,21 @@
       ],
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/README.md",
-      "require": null,
       "verified": true,
       "note": {
         "color": "yellow",
         "title": "Attention",
         "message": "The initial install of MMRL-CLI should be through your root manager. This module is not required above MMRL V3"
       },
+      "timestamp": 1723992385.0,
+      "size": 5405160,
+      "features": {
+        "modconf": true
+      },
       "track": {
         "type": "ONLINE_JSON",
         "added": 1705238797.0266,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/DerGoogler/MMRL-CLI",
-        "support": "https://github.com/DerGoogler/MMRL-CLI/issues",
-        "donate": "https://github.com/sponsors/DerGoogler",
-        "verified": true,
-        "cover": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png",
-        "icon": "",
-        "screenshots": [
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/1.png",
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/2.png",
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/3.png",
-          "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/4.png"
-        ],
-        "category": "",
-        "categories": [
-          "Tools",
-          "System",
-          "Configurable"
-        ],
-        "readme": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/DerGoogler/MMRL-CLI"
       },
       "versions": [
         {
@@ -588,51 +401,27 @@
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
-      "timestamp": 1719746499.0,
-      "size": 183216,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
       "categories": [
         "Configurable",
         "Tweaks and Hacks",
         "Miscellaneous"
       ],
-      "icon": null,
-      "homepage": null,
-      "donate": null,
       "support": "https://github.com/Googlers-Repo/wpd/issues",
-      "cover": null,
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
+      "verified": true,
       "screenshots": [
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.png",
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.png"
       ],
-      "license": null,
-      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
-      "require": null,
-      "verified": true,
-      "note": null,
+      "timestamp": 1719746499.0,
+      "size": 183216,
+      "features": {
+        "modconf": true
+      },
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Googlers-Repo/wpd.git",
-        "support": "https://github.com/Googlers-Repo/wpd/issues",
-        "donate": "",
-        "verified": true,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Configurable",
-          "Tweaks and Hacks",
-          "Miscellaneous"
-        ],
-        "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/Googlers-Repo/wpd.git"
       },
       "versions": [
         {
@@ -666,42 +455,22 @@
       "author": "osm0sis @ xda-developers",
       "description": "Static arm/arm64 nano binary for Android built with the NDK",
       "added": 1445340430.7142262,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",
+      "screenshots": [],
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
+      "require": [],
+      "verified": false,
       "timestamp": 1721095822.0,
       "size": 863317,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": "https://www.paypal.me/osm0sis",
-      "support": "https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Repo/nano-ndk",
-        "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",
-        "donate": "https://github.com/sponsors/osm0sis",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "System"
-        ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/Magisk-Modules-Repo/nano-ndk"
       },
       "versions": [
         {
@@ -736,43 +505,26 @@
       "author": "chiteroman",
       "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
       "added": 1445340430.7142262,
+      "categories": [
+        "Zygisk",
+        "Security"
+      ],
+      "donate": "https://www.paypal.com/paypalme/chiteroman",
+      "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
+      "verified": false,
       "timestamp": 1724550675.0,
       "size": 128970,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "zygisk": true
+      },
       "track": {
         "type": "ONLINE_JSON",
         "added": 1445340430.7142262,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "https://github.com/chiteroman/PlayIntegrityFix",
-        "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
-        "donate": "https://www.paypal.com/paypalme/chiteroman",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Zygisk",
-          "Security"
-        ],
-        "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/chiteroman/PlayIntegrityFix"
       },
       "versions": [
         {
@@ -809,42 +561,21 @@
       "author": "Der_Googler",
       "description": "The Windows PowerShell Module is a tool that integrates PowerShell functionality into Android devices via the Magisk framework, allowing users to run PowerShell scripts and commands directly on their rooted devices.",
       "added": 1718573490.991985,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "support": "https://github.com/DerGoogler/powershell/issues",
+      "cover": "https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png",
+      "readme": "https://raw.githubusercontent.com/DerGoogler/powershell/main/README.md",
+      "verified": false,
       "timestamp": 1718573284.0,
       "size": 520723,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {},
       "track": {
         "type": "GIT",
         "added": 1718573490.991985,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/DerGoogler/powershell.git",
-        "support": "https://github.com/DerGoogler/powershell/issues",
-        "donate": "https://github.com/sponsors/DerGoogler",
-        "verified": false,
-        "cover": "https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "System"
-        ],
-        "readme": "https://raw.githubusercontent.com/DerGoogler/powershell/main/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/DerGoogler/powershell.git"
       },
       "versions": [
         {
@@ -864,42 +595,19 @@
       "author": "Vaz15k",
       "description": "A simple AdBlocker based on the hosts file.",
       "added": 1716564066.993573,
+      "categories": [
+        "Adblocking and Hosts Files"
+      ],
+      "support": "https://github.com/Vaz15k/Systemless-AdBlocker/issues",
+      "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-AdBlocker/master/README.md",
+      "verified": true,
       "timestamp": 1725280749.427128,
       "size": 8214743,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": true,
-      "note": null,
+      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564066.993573,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Vaz15k/Systemless-AdBlocker",
-        "support": "https://github.com/Vaz15k/Systemless-AdBlocker/issues",
-        "donate": "",
-        "verified": true,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Adblocking and Hosts Files"
-        ],
-        "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-AdBlocker/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/Vaz15k/Systemless-AdBlocker"
       },
       "versions": [
         {
@@ -936,44 +644,24 @@
       "author": "symbuzzer (avalibeyaz.com/github)",
       "description": "Required module to use applications such as AdAway on KernelSU and APatch",
       "added": 1445340430.7142262,
+      "categories": [
+        "Adblocking and Hosts Files",
+        "KernelSU",
+        "APatch"
+      ],
+      "support": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues",
+      "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
+      "verified": false,
       "timestamp": 1713278013.0,
       "size": 24154,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {
+        "service": true,
+        "webroot": true
+      },
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module",
-        "support": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues",
-        "donate": "",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Adblocking and Hosts Files",
-          "KernelSU",
-          "APatch"
-        ],
-        "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module"
       },
       "versions": [
         {
@@ -1000,40 +688,20 @@
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "added": 1717861375.501469,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues",
+      "license": "AGPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
+      "verified": false,
       "timestamp": 1722148008.0,
       "size": 19661,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {
+        "post_fs_data": true,
+        "resetprop": true
+      },
       "track": {
         "type": "GIT",
         "added": 1717861375.501469,
-        "license": "AGPL-3.0",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues",
-        "donate": "",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git"
       },
       "versions": [
         {
@@ -1061,42 +729,22 @@
       "author": "osm0sis & topjohnwu @ xda-developers",
       "description": "Wrapped dexed zipsigner.jar, and static arm/arm64 zip and zipalign binaries for Android built with the NDK",
       "added": 1445340430.7142262,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/zipsigner/issues",
+      "screenshots": [],
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
+      "require": [],
+      "verified": false,
       "timestamp": 1712163102.0,
       "size": 5920487,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": "https://www.paypal.me/osm0sis",
-      "support": "https://xdaforums.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "license": "",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Repo/zipsigner",
-        "support": "https://github.com/Magisk-Modules-Repo/zipsigner/issues",
-        "donate": "https://github.com/sponsors/osm0sis",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "System"
-        ],
-        "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/Magisk-Modules-Repo/zipsigner"
       },
       "versions": [
         {
@@ -1123,44 +771,27 @@
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
+      "categories": [
+        "Magisk",
+        "KernelSU",
+        "Tools"
+      ],
+      "support": "https://github.com/j-hc/zygisk-detach/issues",
+      "license": "Apache-2.0",
+      "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
+      "verified": false,
       "timestamp": 1718898770.0,
       "size": 171147,
-      "maxApi": null,
-      "minApi": null,
-      "category": null,
-      "categories": null,
-      "icon": null,
-      "homepage": null,
-      "donate": null,
-      "support": null,
-      "cover": null,
-      "screenshots": null,
-      "license": null,
-      "readme": null,
-      "require": null,
-      "verified": false,
-      "note": null,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "zygisk": true,
+        "webroot": true
+      },
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
-        "license": "Apache-2.0",
-        "homepage": "",
-        "source": "https://github.com/j-hc/zygisk-detach",
-        "support": "https://github.com/j-hc/zygisk-detach/issues",
-        "donate": "",
-        "verified": false,
-        "cover": "",
-        "icon": "",
-        "screenshots": [],
-        "category": "",
-        "categories": [
-          "Magisk",
-          "KernelSU",
-          "Tools"
-        ],
-        "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
-        "require": [],
-        "antifeatures": []
+        "source": "https://github.com/j-hc/zygisk-detach"
       },
       "versions": [
         {
