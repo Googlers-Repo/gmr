@@ -3,13 +3,6 @@
   "timestamp": 1699585603.0,
   "versions": [
     {
-      "timestamp": 1712163046.0,
-      "version": "7.2",
-      "versionCode": 7205,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/7.2_7205.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1714745354.0,
       "version": "8.0",
       "versionCode": 8000,
@@ -23,6 +16,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.1_8100.zip",
       "changelog": "",
       "size": 863317
+    },
+    {
+      "timestamp": 1725582337.0,
+      "version": "8.2",
+      "versionCode": 8200,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.2_8200.zip",
+      "changelog": "",
+      "size": 863157
     }
   ]
 }
