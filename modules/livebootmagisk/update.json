@@ -3,14 +3,6 @@
   "timestamp": 1702580314.0,
   "versions": [
     {
-      "timestamp": 1725082123.0,
-      "version": "v2.0.4",
-      "versionCode": 20004,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v2.0.4_20004.zip",
-      "changelog": "",
-      "size": 499904
-    },
-    {
       "timestamp": 1725516965.0,
       "version": "v3.0.0",
       "versionCode": 30000,
@@ -25,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.1_30001.zip",
       "changelog": "",
       "size": 504762
+    },
+    {
+      "timestamp": 1725639835.0,
+      "version": "v3.0.2",
+      "versionCode": 30002,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.2_30002.zip",
+      "changelog": "",
+      "size": 504785
     }
   ]
 }
