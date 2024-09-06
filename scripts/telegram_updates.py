@@ -99,7 +99,7 @@ def check_for_module_updates():
 <blockquote>{module.get("note").get("message")}</blockquote>""" if module.get("note") and module.get("note").get("message") else f"📃 {desc}"}
 
 <b>By:</b> {author}
-<b>Follow:</b> @MagiskModulesAltRepo
+<b>Follow:</b> @GooglersRepo
 """
 
                 section_1 = []
