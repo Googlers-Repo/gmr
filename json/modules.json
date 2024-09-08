@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725733483.200854
+    "timestamp": 1725754065.936081
   },
   "modules": [
     {
@@ -590,11 +590,11 @@
     },
     {
       "id": "systemless-adblock",
-      "name": "Systemless-AdBlock",
-      "version": "v2.17",
-      "versionCode": 2017,
+      "name": "Cubic-AdBlock",
+      "version": "v2.18",
+      "versionCode": 2018,
       "author": "Vaz15k",
-      "description": "A simple AdBlocker based on the hosts file.",
+      "description": "A simple AdBlock based on the hosts file.",
       "added": 1716564066.993573,
       "categories": [
         "Adblocking and Hosts Files"
@@ -602,8 +602,8 @@
       "support": "https://github.com/Vaz15k/Systemless-AdBlocker/issues",
       "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-AdBlocker/master/README.md",
       "verified": true,
-      "timestamp": 1725280749.427128,
-      "size": 8214743,
+      "timestamp": 1725754061.182403,
+      "size": 8255142,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -611,14 +611,6 @@
         "source": "https://github.com/Vaz15k/Systemless-AdBlocker"
       },
       "versions": [
-        {
-          "timestamp": 1724116942.880373,
-          "version": "v2.15",
-          "versionCode": 2015,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.15_2015.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.15_2015.md",
-          "size": 8145991
-        },
         {
           "timestamp": 1724696739.372099,
           "version": "v2.16",
@@ -634,6 +626,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.17_2017.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.17_2017.md",
           "size": 8214743
+        },
+        {
+          "timestamp": 1725754061.182403,
+          "version": "v2.18",
+          "versionCode": 2018,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.18_2018.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/systemless-adblock/v2.18_2018.md",
+          "size": 8255142
         }
       ]
     },
