@@ -1,6 +1,6 @@
 {
   "id": "systemless-adblock",
-  "enable": true,
+  "enable": false,
   "verified": false,
   "update_to": "https://raw.githubusercontent.com/Vaz15k/Systemless-AdBlocker/master/module/update.json",
   "source": "https://github.com/Vaz15k/Systemless-AdBlocker",
