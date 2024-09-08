@@ -1,8 +1,10 @@
 {
-    "id": "cubic-adblock",
-    "enable": true,
-    "verified": true,
-    "update_to": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/module/update.json",
-    "source": "https://github.com/Vaz15k/Cubic-AdBlock",
-    "antifeatures": []
+  "id": "cubic-adblock",
+  "enable": true,
+  "verified": true,
+  "update_to": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/module/update.json",
+  "source": "https://github.com/Vaz15k/Cubic-AdBlock",
+  "antifeatures": [],
+  "last_update": 1725754490.385085,
+  "versions": 1
 }

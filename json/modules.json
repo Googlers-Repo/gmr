@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725754065.936081
+    "timestamp": 1725754496.065886
   },
   "modules": [
     {
@@ -232,6 +232,34 @@
           "versionCode": 17,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v12_17.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "cubic-adblock",
+      "name": "Cubic-AdBlock",
+      "version": "v2.18",
+      "versionCode": 2018,
+      "author": "Vaz15k",
+      "description": "A simple AdBlock based on the hosts file.",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1725754490.385085,
+      "size": 8255142,
+      "features": {},
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Vaz15k/Cubic-AdBlock"
+      },
+      "versions": [
+        {
+          "timestamp": 1725754490.385085,
+          "version": "v2.18",
+          "versionCode": 2018,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.18_2018.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.18_2018.md",
+          "size": 8255142
         }
       ]
     },

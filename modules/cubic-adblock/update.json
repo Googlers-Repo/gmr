@@ -1,0 +1,14 @@
+{
+  "id": "cubic-adblock",
+  "timestamp": 1725754490.385085,
+  "versions": [
+    {
+      "timestamp": 1725754490.385085,
+      "version": "v2.18",
+      "versionCode": 2018,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.18_2018.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.18_2018.md",
+      "size": 8255142
+    }
+  ]
+}
