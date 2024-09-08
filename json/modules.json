@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725798926.691053
+    "timestamp": 1725819942.215774
   },
   "modules": [
     {
@@ -629,7 +629,7 @@
       ],
       "support": "https://github.com/Vaz15k/Systemless-AdBlocker/issues",
       "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-AdBlocker/master/README.md",
-      "verified": true,
+      "verified": false,
       "timestamp": 1725754061.182403,
       "size": 8255142,
       "features": {},
