@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725900487.951425
+    "timestamp": 1725902101.023655
   },
   "modules": [
     {
@@ -301,6 +301,34 @@
           "versionCode": 202111030,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.11.3_202111030.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "gcc_on_android",
+      "name": "GCC Toolchain",
+      "version": "1.0.0",
+      "versionCode": 100,
+      "author": "Der_Googler",
+      "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1705161334.0,
+      "size": 39464035,
+      "features": {},
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Googlers-Repo/gcc"
+      },
+      "versions": [
+        {
+          "timestamp": 1705161334.0,
+          "version": "1.0.0",
+          "versionCode": 100,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.0_100.zip",
+          "changelog": "",
+          "size": 39464035
         }
       ]
     },

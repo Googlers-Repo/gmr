@@ -1,8 +1,10 @@
 {
-    "id": "gcc_on_android",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/Googlers-Repo/gcc.git",
-    "source": "https://github.com/Googlers-Repo/gcc",
-    "antifeatures": []
+  "id": "gcc_on_android",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/Googlers-Repo/gcc.git",
+  "source": "https://github.com/Googlers-Repo/gcc",
+  "antifeatures": [],
+  "last_update": 1705161334.0,
+  "versions": 1
 }

@@ -1,0 +1,14 @@
+{
+  "id": "gcc_on_android",
+  "timestamp": 1705161334.0,
+  "versions": [
+    {
+      "timestamp": 1705161334.0,
+      "version": "1.0.0",
+      "versionCode": 100,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.0_100.zip",
+      "changelog": "",
+      "size": 39464035
+    }
+  ]
+}
