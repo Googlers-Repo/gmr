@@ -9,6 +9,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.0_100.zip",
       "changelog": "",
       "size": 39464035
+    },
+    {
+      "timestamp": 1725903543.0,
+      "version": "1.0.1",
+      "versionCode": 101,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.1_101.zip",
+      "changelog": "",
+      "size": 39558384
     }
   ]
 }

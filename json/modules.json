@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1725902101.023655
+    "timestamp": 1725903608.364532
   },
   "modules": [
     {
@@ -307,14 +307,30 @@
     {
       "id": "gcc_on_android",
       "name": "GCC Toolchain",
-      "version": "1.0.0",
-      "versionCode": 100,
+      "version": "1.0.1",
+      "versionCode": 101,
       "author": "Der_Googler",
       "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
+      "categories": [
+        "System",
+        "Coding"
+      ],
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/assets/icon.png",
+      "support": "https://github.com/Googlers-Repo/gcc/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/README.md",
+      "require": [
+        "mkshrc"
+      ],
+      "note": {
+        "color": "blue",
+        "title": "Beta",
+        "message": "This module is sill in it's beta, so please don't complain about bugs etc. Please be aware that this module depends on Systemless Mkshrc."
+      },
       "verified": false,
       "added": 0,
-      "timestamp": 1705161334.0,
-      "size": 39464035,
+      "timestamp": 1725903543.0,
+      "size": 39558384,
       "features": {},
       "track": {
         "type": "GIT",
@@ -329,6 +345,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.0_100.zip",
           "changelog": "",
           "size": 39464035
+        },
+        {
+          "timestamp": 1725903543.0,
+          "version": "1.0.1",
+          "versionCode": 101,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.1_101.zip",
+          "changelog": "",
+          "size": 39558384
         }
       ]
     },
