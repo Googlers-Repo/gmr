@@ -1,8 +1,0 @@
-{
-    "id": "code_server",
-    "enable": true,
-    "verified": false,
-    "update_to": "https://github.com/Googlers-Repo/code-server.git",
-    "source": "https://github.com/Googlers-Repo/code-server",
-    "antifeatures": []
-}
