@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1726144698.325182
+    "timestamp": 1726165683.084488
   },
   "modules": [
     {
@@ -484,8 +484,8 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "2.4.3",
-      "versionCode": 243,
+      "version": "2.5.4",
+      "versionCode": 254,
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
@@ -497,12 +497,16 @@
       "support": "https://github.com/Googlers-Repo/wpd/issues",
       "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
       "verified": true,
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/WPD-LOGO.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.png",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.png"
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/5.webp"
       ],
-      "timestamp": 1719746499.0,
-      "size": 183216,
+      "timestamp": 1726161214.0,
+      "size": 447270,
       "features": {
         "modconf": true
       },
@@ -512,13 +516,6 @@
         "source": "https://github.com/Googlers-Repo/wpd.git"
       },
       "versions": [
-        {
-          "timestamp": 1716278989.0,
-          "version": "2.2.2",
-          "versionCode": 222,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.2.2_222.zip",
-          "changelog": ""
-        },
         {
           "timestamp": 1718566177.0,
           "version": "2.3.2",
@@ -532,6 +529,14 @@
           "versionCode": 243,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.4.3_243.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1726161214.0,
+          "version": "2.5.4",
+          "versionCode": 254,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.5.4_254.zip",
+          "changelog": "",
+          "size": 447270
         }
       ]
     },

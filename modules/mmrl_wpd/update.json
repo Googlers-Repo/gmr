@@ -3,13 +3,6 @@
   "timestamp": 1708686252.0,
   "versions": [
     {
-      "timestamp": 1716278989.0,
-      "version": "2.2.2",
-      "versionCode": 222,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.2.2_222.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1718566177.0,
       "version": "2.3.2",
       "versionCode": 232,
@@ -22,6 +15,14 @@
       "versionCode": 243,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.4.3_243.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1726161214.0,
+      "version": "2.5.4",
+      "versionCode": 254,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.5.4_254.zip",
+      "changelog": "",
+      "size": 447270
     }
   ]
 }
