@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.19_2019.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.19_2019.md",
       "size": 8256398
+    },
+    {
+      "timestamp": 1726535628.932029,
+      "version": "v2.20",
+      "versionCode": 2020,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.20_2020.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.20_2020.md",
+      "size": 8235597
     }
   ]
 }
