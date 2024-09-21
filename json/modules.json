@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1726900000.058228
+    "timestamp": 1726922160.465982
   },
   "modules": [
     {
@@ -394,8 +394,8 @@
     {
       "id": "livebootmagisk",
       "name": "LiveBoot",
-      "version": "v3.0.2",
-      "versionCode": 30002,
+      "version": "v3.0.3",
+      "versionCode": 30003,
       "author": "Ali Beyaz (avalibeyaz.com/github)",
       "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
       "added": 1445340430.7142262,
@@ -412,8 +412,8 @@
       "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
       "require": [],
       "verified": false,
-      "timestamp": 1725639835.0,
-      "size": 504785,
+      "timestamp": 1726921979.0,
+      "size": 509442,
       "features": {
         "webroot": true,
         "modconf": true
@@ -447,6 +447,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.2_30002.zip",
           "changelog": "",
           "size": 504785
+        },
+        {
+          "timestamp": 1726921979.0,
+          "version": "v3.0.3",
+          "versionCode": 30003,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.3_30003.zip",
+          "changelog": "",
+          "size": 509442
         }
       ]
     },
