@@ -1,0 +1,11 @@
+[
+{
+  "name": "Googlers Magisk Repo",
+  "base_url": "https://gr.dergoogler.com/gmr/"
+},
+
+{
+    "name": "Magisk Modules Alt Repo",
+    "base_url": "https://magisk-modules-alt-repo.github.io/json-v2/"
+  }
+]
