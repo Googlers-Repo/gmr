@@ -9,6 +9,10 @@
     "Miscellaneous"
   ],
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
+  "note": {
+    "title": "Deprecated",
+    "message": "The module owner has achieved his module. Support is limited."
+  },
   "added": 1706465625.561501,
   "last_update": 1711830438.0,
   "versions": 2
