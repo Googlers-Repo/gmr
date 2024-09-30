@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1727677840.402722
+    "timestamp": 1727700130.395502
   },
   "modules": [
     {
@@ -250,8 +250,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.21",
-      "versionCode": 2021,
+      "version": "v2.22",
+      "versionCode": 2022,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -267,8 +267,8 @@
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "require": [],
       "added": 0,
-      "timestamp": 1727095212.265152,
-      "size": 7991739,
+      "timestamp": 1727700121.369005,
+      "size": 8032278,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -307,6 +307,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.21_2021.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.21_2021.md",
           "size": 7991739
+        },
+        {
+          "timestamp": 1727700121.369005,
+          "version": "v2.22",
+          "versionCode": 2022,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.22_2022.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.22_2022.md",
+          "size": 8032278
         }
       ]
     },
