@@ -11,9 +11,12 @@
     "Privacy Enhancements",
     "Adblocking and Hosts Files"
   ],
-  "antifeatures": ["Tracking", "NoSourceSince"],
   "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
+  "antifeatures": [
+    "Tracking",
+    "NoSourceSince"
+  ],
+  "added": 1445340430.7142262,
   "last_update": 1703239411.0,
-  "added": 1445340430.714226137,
-  "versions": 1
+  "versions": 2
 }

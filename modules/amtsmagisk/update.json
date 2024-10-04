@@ -8,6 +8,14 @@
       "versionCode": 125,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/1.2.5_125.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1703239411.0,
+      "version": "v2021.11.3",
+      "versionCode": 202111030,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/v2021.11.3_202111030.zip",
+      "changelog": "",
+      "size": 5180
     }
   ]
 }
