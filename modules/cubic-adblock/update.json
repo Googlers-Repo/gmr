@@ -41,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.22_2022.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.22_2022.md",
       "size": 8032278
+    },
+    {
+      "timestamp": 1728304888.013654,
+      "version": "v2.23",
+      "versionCode": 2023,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.23_2023.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.23_2023.md",
+      "size": 8251283
     }
   ]
 }
