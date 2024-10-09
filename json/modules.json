@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1728437925.746532
+    "timestamp": 1728455405.665127
   },
   "modules": [
     {
@@ -762,8 +762,8 @@
       "cover": "https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png",
       "readme": "https://raw.githubusercontent.com/DerGoogler/powershell/main/README.md",
       "verified": false,
-      "timestamp": 1718573284.0,
-      "size": 520723,
+      "timestamp": 1718574711.0,
+      "size": 535557,
       "features": {},
       "track": {
         "type": "GIT",
@@ -777,6 +777,14 @@
           "versionCode": 742,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/7.4.2_742.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1718574711.0,
+          "version": "v1.1.4",
+          "versionCode": 10104,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/v1.1.4_10104.zip",
+          "changelog": "",
+          "size": 535557
         }
       ]
     },
