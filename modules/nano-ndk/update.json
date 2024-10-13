@@ -24,6 +24,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.2_8200.zip",
       "changelog": "",
       "size": 863157
+    },
+    {
+      "timestamp": 1725582337.0,
+      "version": "v1.1.4",
+      "versionCode": 10104,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/v1.1.4_10104.zip",
+      "changelog": "",
+      "size": 863157
     }
   ]
 }
