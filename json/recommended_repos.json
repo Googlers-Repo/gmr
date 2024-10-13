@@ -14,5 +14,9 @@
     {
         "name": "Rikj000 Personal Repository",
         "url": "https://rikj000.github.io/Magisk-Modules-Rikj000-Repo/"
+    },
+    {
+        "name": "THIS REPO WILL CAUSE A CRASH",
+        "url": "https://example.com/"
     }
 ]
