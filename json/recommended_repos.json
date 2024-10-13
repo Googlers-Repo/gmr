@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Magisk Modules Alternative Repository",
+        "url": "https://magisk-modules-alt-repo.github.io/json-v2/"
+    },
+    {
+        "name": "Googlers Magisk Repository",
+        "url": "https://gr.dergoogler.com/gmr/"
+    },
+    {
+        "name": "IzzyOnDroid Magisk Repository",
+        "url": "https://apt.izzysoft.de/magisk/"
+    },
+    {
+        "name": "Rikj000 Personal Repository",
+        "url": "https://rikj000.github.io/Magisk-Modules-Rikj000-Repo/"
+    }
+]
