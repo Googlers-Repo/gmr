@@ -16,6 +16,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/7.4.2_742.zip",
       "changelog": "",
       "size": 23941
+    },
+    {
+      "timestamp": 1690235714.0,
+      "version": "v1.5.7",
+      "versionCode": 1507,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v1.5.7_1507.zip",
+      "changelog": "",
+      "size": 23941
     }
   ]
 }

@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1729146562.460934
+    "timestamp": 1729168862.224582
   },
   "modules": [
     {
@@ -124,6 +124,14 @@
           "version": "7.4.2",
           "versionCode": 742,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/7.4.2_742.zip",
+          "changelog": "",
+          "size": 23941
+        },
+        {
+          "timestamp": 1690235714.0,
+          "version": "v1.5.7",
+          "versionCode": 1507,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v1.5.7_1507.zip",
           "changelog": "",
           "size": 23941
         }
