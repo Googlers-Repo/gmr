@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1729492247.934084
+    "timestamp": 1729514468.741815
   },
   "modules": [
     {
@@ -266,8 +266,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.24",
-      "versionCode": 2024,
+      "version": "v2.25",
+      "versionCode": 2025,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -283,8 +283,8 @@
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "require": [],
       "added": 0,
-      "timestamp": 1728909663.184321,
-      "size": 8269429,
+      "timestamp": 1729514459.269752,
+      "size": 8224700,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -292,14 +292,6 @@
         "source": "https://github.com/Vaz15k/Cubic-AdBlock"
       },
       "versions": [
-        {
-          "timestamp": 1725885595.666509,
-          "version": "v2.19",
-          "versionCode": 2019,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.19_2019.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.19_2019.md",
-          "size": 8256398
-        },
         {
           "timestamp": 1726535628.932029,
           "version": "v2.20",
@@ -339,6 +331,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.24_2024.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.24_2024.md",
           "size": 8269429
+        },
+        {
+          "timestamp": 1729514459.269752,
+          "version": "v2.25",
+          "versionCode": 2025,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.25_2025.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.25_2025.md",
+          "size": 8224700
         }
       ]
     },
