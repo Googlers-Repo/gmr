@@ -41,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.7_17700.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.7_17700.md",
       "size": 160089
+    },
+    {
+      "timestamp": 1729686545.0,
+      "version": "v17.8",
+      "versionCode": 17800,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.md",
+      "size": 252335
     }
   ]
 }
