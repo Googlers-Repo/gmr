@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1729837766.479992
+    "timestamp": 1729860035.319581
   },
   "modules": [
     {
@@ -701,8 +701,8 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v17.8",
-      "versionCode": 17800,
+      "version": "v17.9",
+      "versionCode": 17900,
       "author": "chiteroman",
       "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
       "added": 1445340430.7142262,
@@ -715,8 +715,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
       "verified": false,
-      "timestamp": 1729686545.0,
-      "size": 252335,
+      "timestamp": 1729850344.0,
+      "size": 252119,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -729,14 +729,6 @@
         "source": "https://github.com/chiteroman/PlayIntegrityFix"
       },
       "versions": [
-        {
-          "timestamp": 1724550675.0,
-          "version": "v17.3",
-          "versionCode": 17300,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.3_17300.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.3_17300.md",
-          "size": 128970
-        },
         {
           "timestamp": 1725563502.0,
           "version": "v17.4",
@@ -776,6 +768,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.md",
           "size": 252335
+        },
+        {
+          "timestamp": 1729850344.0,
+          "version": "v17.9",
+          "versionCode": 17900,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.9_17900.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.9_17900.md",
+          "size": 252119
         }
       ]
     },
