@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1730097039.389443
+    "timestamp": 1730119325.971173
   },
   "modules": [
     {
@@ -274,8 +274,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.25",
-      "versionCode": 2025,
+      "version": "v2.26",
+      "versionCode": 2026,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -291,8 +291,8 @@
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "require": [],
       "added": 0,
-      "timestamp": 1729514459.269752,
-      "size": 8224700,
+      "timestamp": 1730119316.646198,
+      "size": 8236943,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -300,14 +300,6 @@
         "source": "https://github.com/Vaz15k/Cubic-AdBlock"
       },
       "versions": [
-        {
-          "timestamp": 1726535628.932029,
-          "version": "v2.20",
-          "versionCode": 2020,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.20_2020.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.20_2020.md",
-          "size": 8235597
-        },
         {
           "timestamp": 1727095212.265152,
           "version": "v2.21",
@@ -347,6 +339,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.25_2025.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.25_2025.md",
           "size": 8224700
+        },
+        {
+          "timestamp": 1730119316.646198,
+          "version": "v2.26",
+          "versionCode": 2026,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.26_2026.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.26_2026.md",
+          "size": 8236943
         }
       ]
     },
