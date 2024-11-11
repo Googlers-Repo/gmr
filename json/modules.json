@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1731306555.197689
+    "timestamp": 1731328817.615368
   },
   "modules": [
     {
@@ -274,8 +274,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.27",
-      "versionCode": 2027,
+      "version": "v2.28",
+      "versionCode": 2028,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -291,8 +291,8 @@
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "require": [],
       "added": 0,
-      "timestamp": 1730724097.871354,
-      "size": 8204408,
+      "timestamp": 1731328808.412493,
+      "size": 8098911,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -300,14 +300,6 @@
         "source": "https://github.com/Vaz15k/Cubic-AdBlock"
       },
       "versions": [
-        {
-          "timestamp": 1727700121.369005,
-          "version": "v2.22",
-          "versionCode": 2022,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.22_2022.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.22_2022.md",
-          "size": 8032278
-        },
         {
           "timestamp": 1728304888.013654,
           "version": "v2.23",
@@ -347,6 +339,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.27_2027.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.27_2027.md",
           "size": 8204408
+        },
+        {
+          "timestamp": 1731328808.412493,
+          "version": "v2.28",
+          "versionCode": 2028,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.28_2028.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.28_2028.md",
+          "size": 8098911
         }
       ]
     },
