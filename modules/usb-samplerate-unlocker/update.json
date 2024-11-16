@@ -16,6 +16,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.7_1507.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.7_1507.md",
       "size": 19661
+    },
+    {
+      "timestamp": 1729236859.0,
+      "version": "8.2",
+      "versionCode": 8200,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.2_8200.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.2_8200.md",
+      "size": 19770
     }
   ]
 }

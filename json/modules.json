@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1731760727.865863
+    "timestamp": 1731781596.282039
   },
   "modules": [
     {
@@ -877,8 +877,8 @@
       "license": "AGPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
       "verified": false,
-      "timestamp": 1722148008.0,
-      "size": 19661,
+      "timestamp": 1729236859.0,
+      "size": 19770,
       "features": {
         "post_fs_data": true,
         "resetprop": true
@@ -903,6 +903,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.7_1507.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.7_1507.md",
           "size": 19661
+        },
+        {
+          "timestamp": 1729236859.0,
+          "version": "8.2",
+          "versionCode": 8200,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.2_8200.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.2_8200.md",
+          "size": 19770
         }
       ]
     },
