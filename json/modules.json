@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1731911503.503296
+    "timestamp": 1731933850.524179
   },
   "modules": [
     {
@@ -274,8 +274,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.28",
-      "versionCode": 2028,
+      "version": "v2.29",
+      "versionCode": 2029,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -291,8 +291,8 @@
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "require": [],
       "added": 0,
-      "timestamp": 1731328808.412493,
-      "size": 8098911,
+      "timestamp": 1731933840.836973,
+      "size": 8265259,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -300,14 +300,6 @@
         "source": "https://github.com/Vaz15k/Cubic-AdBlock"
       },
       "versions": [
-        {
-          "timestamp": 1728304888.013654,
-          "version": "v2.23",
-          "versionCode": 2023,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.23_2023.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.23_2023.md",
-          "size": 8251283
-        },
         {
           "timestamp": 1728909663.184321,
           "version": "v2.24",
@@ -347,6 +339,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.28_2028.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.28_2028.md",
           "size": 8098911
+        },
+        {
+          "timestamp": 1731933840.836973,
+          "version": "v2.29",
+          "versionCode": 2029,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.29_2029.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.29_2029.md",
+          "size": 8265259
         }
       ]
     },
