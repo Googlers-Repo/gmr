@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732451926.630555
+    "timestamp": 1732472854.515711
   },
   "modules": [
     {
@@ -34,7 +34,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/Magisk-Modules-Repo/acp.git"
+        "source": "https://github.com/Magisk-Modules-Repo/acp.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -69,7 +70,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/Magisk-Modules-Repo/adb-ndk"
+        "source": "https://github.com/Magisk-Modules-Repo/adb-ndk",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -109,7 +111,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/Zackptg5/Audio-Modification-Library.git"
+        "source": "https://github.com/Zackptg5/Audio-Modification-Library.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -172,7 +175,11 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git"
+        "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
+        "antifeatures": [
+          "Tracking",
+          "NoSourceSince"
+        ]
       },
       "versions": [
         {
@@ -216,7 +223,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk"
+        "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -252,7 +260,8 @@
       "track": {
         "type": "GIT",
         "added": 1706465625.561501,
-        "source": "https://github.com/Magisk-Modules-Repo/ccbins.git"
+        "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -297,7 +306,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
-        "source": "https://github.com/Vaz15k/Cubic-AdBlock"
+        "source": "https://github.com/Vaz15k/Cubic-AdBlock",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -371,7 +381,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/VR-25/djs.git"
+        "source": "https://github.com/VR-25/djs.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -414,7 +425,8 @@
       "track": {
         "type": "GIT",
         "added": null,
-        "source": "https://github.com/Googlers-Repo/gcc"
+        "source": "https://github.com/Googlers-Repo/gcc",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -473,7 +485,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/symbuzzer/livebootmodule"
+        "source": "https://github.com/symbuzzer/livebootmodule",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -548,7 +561,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1705238797.0266,
-        "source": "https://github.com/DerGoogler/MMRL-CLI"
+        "source": "https://github.com/DerGoogler/MMRL-CLI",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -612,7 +626,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/Googlers-Repo/wpd.git"
+        "source": "https://github.com/Googlers-Repo/wpd.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -662,7 +677,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/Magisk-Modules-Repo/nano-ndk"
+        "source": "https://github.com/Magisk-Modules-Repo/nano-ndk",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -726,7 +742,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1445340430.7142262,
-        "source": "https://github.com/chiteroman/PlayIntegrityFix"
+        "source": "https://github.com/chiteroman/PlayIntegrityFix",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -801,7 +818,8 @@
       "track": {
         "type": "GIT",
         "added": 1718573490.991985,
-        "source": "https://github.com/DerGoogler/powershell.git"
+        "source": "https://github.com/DerGoogler/powershell.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -846,7 +864,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module"
+        "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -886,7 +905,8 @@
       "track": {
         "type": "GIT",
         "added": 1717861375.501469,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git"
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -937,7 +957,8 @@
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
-        "source": "https://github.com/Magisk-Modules-Repo/zipsigner"
+        "source": "https://github.com/Magisk-Modules-Repo/zipsigner",
+        "antifeatures": null
       },
       "versions": [
         {
@@ -984,7 +1005,8 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
-        "source": "https://github.com/j-hc/zygisk-detach"
+        "source": "https://github.com/j-hc/zygisk-detach",
+        "antifeatures": null
       },
       "versions": [
         {
