@@ -287,7 +287,7 @@
       "versionCode": 2030,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
-      "require": [],
+      "require": ["systemless-hosts-KernelSU-module@113"],
       "verified": true,
       "categories": [
         "Adblocking and Hosts Files"
