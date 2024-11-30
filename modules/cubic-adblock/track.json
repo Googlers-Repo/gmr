@@ -4,7 +4,7 @@
   "verified": true,
   "update_to": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/module/update.json",
   "source": "https://github.com/Vaz15k/Cubic-AdBlock",
-  "antifeatures": [],
+  "require": ["systemless-hosts-KernelSU-module@113"],
   "last_update": 1732538612.194283,
   "versions": 6
 }
