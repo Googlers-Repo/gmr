@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732970378.670013
+    "timestamp": 1732980726.653194
   },
   "modules": [
     {
@@ -287,6 +287,7 @@
       "versionCode": 2030,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
+      "require": [],
       "verified": true,
       "categories": [
         "Adblocking and Hosts Files"
@@ -298,7 +299,6 @@
       "screenshots": [],
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
-      "require": [],
       "added": 0,
       "timestamp": 1732538612.194283,
       "size": 7657448,
