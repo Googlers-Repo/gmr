@@ -27,6 +27,9 @@
       "require": [
         "aml"
       ],
+      "root": {
+        "kernelsu": ">= 1.0.1"
+      }
       "verified": false,
       "timestamp": 1643646579.0,
       "size": 3796149,
