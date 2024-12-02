@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733121150.600863
+    "timestamp": 1733143571.822436
   },
   "modules": [
     {
@@ -283,8 +283,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.30",
-      "versionCode": 2030,
+      "version": "v2.31",
+      "versionCode": 2031,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "require": [],
@@ -300,8 +300,8 @@
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1732538612.194283,
-      "size": 7657448,
+      "timestamp": 1733143562.489192,
+      "size": 7671702,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -310,14 +310,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1729514459.269752,
-          "version": "v2.25",
-          "versionCode": 2025,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.25_2025.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.25_2025.md",
-          "size": 8224700
-        },
         {
           "timestamp": 1730119316.646198,
           "version": "v2.26",
@@ -357,6 +349,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.30_2030.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.30_2030.md",
           "size": 7657448
+        },
+        {
+          "timestamp": 1733143562.489192,
+          "version": "v2.31",
+          "versionCode": 2031,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.31_2031.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.31_2031.md",
+          "size": 7671702
         }
       ]
     },
