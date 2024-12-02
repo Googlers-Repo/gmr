@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733056845.103652
+    "timestamp": 1733104215.642063
   },
   "modules": [
     {
@@ -27,9 +27,6 @@
       "require": [
         "aml"
       ],
-      "root": {
-        "kernelsu": ">= 1.0.1"
-      },
       "verified": false,
       "timestamp": 1643646579.0,
       "size": 3796149,
