@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733341084.773408
+    "timestamp": 1733352818.765057
   },
   "modules": [
     {
@@ -196,6 +196,39 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/v2021.11.3_202111030.zip",
           "changelog": "",
           "size": 5180
+        }
+      ]
+    },
+    {
+      "id": "bindhosts",
+      "name": "bindhosts",
+      "version": "v1.7.6",
+      "versionCode": 176,
+      "author": "xx, KOWX712",
+      "description": "Systemless hosts for Apatch, KernelSU and Magisk",
+      "added": 0,
+      "verified": true,
+      "timestamp": 1733301165.0,
+      "size": 17610,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 0,
+        "source": "https://github.com/backslashxx/bindhosts",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1733301165.0,
+          "version": "v1.7.6",
+          "versionCode": 176,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.6_176.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.6_176.md",
+          "size": 17610
         }
       ]
     },

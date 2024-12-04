@@ -1,0 +1,14 @@
+{
+  "id": "bindhosts",
+  "timestamp": 1733301165.0,
+  "versions": [
+    {
+      "timestamp": 1733301165.0,
+      "version": "v1.7.6",
+      "versionCode": 176,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.6_176.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.6_176.md",
+      "size": 17610
+    }
+  ]
+}
