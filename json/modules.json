@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733316308.434173
+    "timestamp": 1733337100.079321
   },
   "modules": [
     {
@@ -593,13 +593,13 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "2.5.4",
-      "versionCode": 254,
+      "version": "4.5.4",
+      "versionCode": 454,
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
       "categories": [
-        "Configurable",
+        "WebUI",
         "Tweaks and Hacks",
         "Miscellaneous"
       ],
@@ -610,18 +610,16 @@
         "title": "Not Compatible",
         "message": "This module is not supported above MMRL V4. ModConf has been removed."
       },
-      "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/WPD-LOGO.png",
       "screenshots": [
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.webp",
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.webp",
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.webp",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.webp",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/5.webp"
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.webp"
       ],
-      "timestamp": 1726161214.0,
-      "size": 447270,
+      "timestamp": 1733334173.0,
+      "size": 87500,
       "features": {
-        "modconf": true
+        "webroot": true
       },
       "track": {
         "type": "GIT",
@@ -651,6 +649,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.5.4_254.zip",
           "changelog": "",
           "size": 447270
+        },
+        {
+          "timestamp": 1733334173.0,
+          "version": "4.5.4",
+          "versionCode": 454,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.4_454.zip",
+          "changelog": "",
+          "size": 87500
         }
       ]
     },
