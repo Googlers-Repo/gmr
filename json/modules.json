@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733337100.079321
+    "timestamp": 1733339436.617515
   },
   "modules": [
     {
@@ -593,8 +593,8 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "4.5.4",
-      "versionCode": 454,
+      "version": "4.5.5",
+      "versionCode": 455,
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
@@ -616,8 +616,8 @@
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.webp",
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.webp"
       ],
-      "timestamp": 1733334173.0,
-      "size": 87500,
+      "timestamp": 1733339350.0,
+      "size": 87501,
       "features": {
         "webroot": true
       },
@@ -657,6 +657,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.4_454.zip",
           "changelog": "",
           "size": 87500
+        },
+        {
+          "timestamp": 1733339350.0,
+          "version": "4.5.5",
+          "versionCode": 455,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.5_455.zip",
+          "changelog": "",
+          "size": 87501
         }
       ]
     },

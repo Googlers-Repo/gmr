@@ -31,6 +31,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.4_454.zip",
       "changelog": "",
       "size": 87500
+    },
+    {
+      "timestamp": 1733339350.0,
+      "version": "4.5.5",
+      "versionCode": 455,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.5_455.zip",
+      "changelog": "",
+      "size": 87501
     }
   ]
 }
