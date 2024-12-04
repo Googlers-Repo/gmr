@@ -1,0 +1,8 @@
+{
+  "id": "bindhosts",
+  "enable": true,
+  "verified": true,
+  "update_to": "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/update.json",
+  "source": "https://github.com/backslashxx/bindhosts",
+  "added": 0
+}
