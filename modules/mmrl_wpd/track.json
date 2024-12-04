@@ -11,10 +11,6 @@
     "Miscellaneous"
   ],
   "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
-  "note": {
-    "title": "Not Compatible",
-    "message": "This module is not supported above MMRL V4. ModConf has been removed."
-  },
   "added": 1445340430.7142262,
   "last_update": 1733339350.0,
   "versions": 5
