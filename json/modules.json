@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733352818.765057
+    "timestamp": 1733352965.849836
   },
   "modules": [
     {
@@ -206,7 +206,7 @@
       "versionCode": 176,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for Apatch, KernelSU and Magisk",
-      "added": 0,
+      "added": 1733301165.0,
       "verified": true,
       "timestamp": 1733301165.0,
       "size": 17610,
@@ -217,7 +217,7 @@
       },
       "track": {
         "type": "ONLINE_JSON",
-        "added": 0,
+        "added": 1733301165.0,
         "source": "https://github.com/backslashxx/bindhosts",
         "antifeatures": null
       },
