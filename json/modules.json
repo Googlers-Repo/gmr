@@ -6,9 +6,44 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733509835.607905
+    "timestamp": 1733515002.439904
   },
   "modules": [
+    {
+      "id": "TA_utl",
+      "name": "Tricky Addon - Update Target List",
+      "version": "v2.6",
+      "versionCode": 260,
+      "author": "KOWX712",
+      "description": "A WebUI to conifgure tricky store target.txt ",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1732972101.0,
+      "size": 1187388,
+      "features": {
+        "service": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+        "antifeatures": [
+          "NonFreeAdd",
+          "NonFreeDep"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1732972101.0,
+          "version": "v2.6",
+          "versionCode": 260,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.md",
+          "size": 1187388
+        }
+      ]
+    },
     {
       "id": "acp",
       "name": "Audio Compatibility Patch",
@@ -899,6 +934,41 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/v1.1.4_10104.zip",
           "changelog": "",
           "size": 535557
+        }
+      ]
+    },
+    {
+      "id": "susfs4ksu",
+      "name": "SUSFS-FOR-KERNELSU",
+      "version": "v1.4.2-R9",
+      "versionCode": 10400209,
+      "author": "sidex15 & simonpunk",
+      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1733382594.0,
+      "size": 890023,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "webroot": true,
+        "post_mount": true,
+        "boot_completed": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/sidex15/ksu_module_susfs",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1733382594.0,
+          "version": "v1.4.2-R9",
+          "versionCode": 10400209,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.md",
+          "size": 890023
         }
       ]
     },

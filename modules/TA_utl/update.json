@@ -1,0 +1,14 @@
+{
+  "id": "TA_utl",
+  "timestamp": 1732972101.0,
+  "versions": [
+    {
+      "timestamp": 1732972101.0,
+      "version": "v2.6",
+      "versionCode": 260,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.md",
+      "size": 1187388
+    }
+  ]
+}

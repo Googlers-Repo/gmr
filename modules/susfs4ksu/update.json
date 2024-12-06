@@ -1,0 +1,14 @@
+{
+  "id": "susfs4ksu",
+  "timestamp": 1733382594.0,
+  "versions": [
+    {
+      "timestamp": 1733382594.0,
+      "version": "v1.4.2-R9",
+      "versionCode": 10400209,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.md",
+      "size": 890023
+    }
+  ]
+}
