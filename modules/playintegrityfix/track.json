@@ -11,6 +11,7 @@
     "Zygisk",
     "Security"
   ],
+  "require": ["zygisk-assistant"],
   "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
   "added": 1445340430.7142262,
   "last_update": 1731804089.0,
