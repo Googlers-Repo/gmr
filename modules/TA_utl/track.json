@@ -1,0 +1,12 @@
+{
+    "id": "TA_utl",
+    "enable": true,
+    "verified": false,
+    "update_to": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/update.json",
+    "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+    "antifeatures": [
+        "NonFreeAdd",
+        "NonFreeDep"
+    ],
+    "added": 1723905223.0
+}

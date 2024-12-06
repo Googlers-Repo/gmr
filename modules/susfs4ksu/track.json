@@ -1,0 +1,8 @@
+{
+    "id": "susfs4ksu",
+    "enable": true,
+    "verified": false,
+    "update_to": "https://raw.githubusercontent.com/sidex15/ksu_module_susfs/refs/heads/main/update.json",
+    "source": "https://github.com/sidex15/ksu_module_susfs",
+    "added": 1723905223.0
+}
