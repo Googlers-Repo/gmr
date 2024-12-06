@@ -9,6 +9,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.6_176.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.6_176.md",
       "size": 17610
+    },
+    {
+      "timestamp": 1733500806.0,
+      "version": "v1.7.7",
+      "versionCode": 177,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.7_177.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.7_177.md",
+      "size": 18292
     }
   ]
 }

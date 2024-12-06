@@ -4,5 +4,7 @@
   "verified": false,
   "update_to": "https://raw.githubusercontent.com/snake-4/Zygisk-Assistant/refs/heads/main/update_metadata/update.json",
   "source": "https://github.com/snake-4/Zygisk-Assistant",
-  "added": 1733301165.0
+  "added": 1733301165.0,
+  "last_update": 1723905223.0,
+  "versions": 1
 }

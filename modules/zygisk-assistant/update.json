@@ -1,0 +1,14 @@
+{
+  "id": "zygisk-assistant",
+  "timestamp": 1723905223.0,
+  "versions": [
+    {
+      "timestamp": 1723905223.0,
+      "version": "v2.1.3 (7b35d36-release)",
+      "versionCode": 213,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.md",
+      "size": 396665
+    }
+  ]
+}
