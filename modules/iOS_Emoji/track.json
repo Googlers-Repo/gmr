@@ -1,0 +1,8 @@
+{
+	"id": "iOS_Emoji",
+	"enable": true,
+	"verified": false,
+	"update_to": "https://raw.githubusercontent.com/Keinta15/Magisk-iOS-Emoji/refs/heads/main/updater.json",
+	"source": "https://github.com/Keinta15/Magisk-iOS-Emoji",
+	"added": 1723905223.0
+}

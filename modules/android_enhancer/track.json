@@ -1,0 +1,8 @@
+{
+	"id": "android_enhancer",
+	"enable": true,
+	"verified": false,
+	"update_to": "https://raw.githubusercontent.com/iamlooper/Android-Enhancer-Module/refs/heads/main/update.json",
+	"source": "https://github.com/iamlooper/Android-Enhancer-Module",
+	"added": 1723905223.0
+}

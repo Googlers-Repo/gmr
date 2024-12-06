@@ -1,0 +1,8 @@
+{
+	"id": "flagsecurepatcher",
+	"enable": true,
+	"verified": false,
+	"update_to": "https://raw.githubusercontent.com/j-hc/FlagSecurePatcher/refs/heads/master/update.json",
+	"source": "https://github.com/j-hc/FlagSecurePatcher",
+	"added": 1723905223.0
+}
