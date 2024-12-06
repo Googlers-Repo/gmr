@@ -1,0 +1,14 @@
+{
+  "id": "iOS_Emoji",
+  "timestamp": 1726620490.0,
+  "versions": [
+    {
+      "timestamp": 1726620490.0,
+      "version": "v17.4.1",
+      "versionCode": 17401,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.1_17401.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.1_17401.md",
+      "size": 46425288
+    }
+  ]
+}

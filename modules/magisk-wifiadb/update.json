@@ -1,0 +1,14 @@
+{
+  "id": "magisk-wifiadb",
+  "timestamp": 1730019938.0,
+  "versions": [
+    {
+      "timestamp": 1730019938.0,
+      "version": "1.0.2",
+      "versionCode": 3,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/1.0.2_3.zip",
+      "changelog": "",
+      "size": 7860
+    }
+  ]
+}

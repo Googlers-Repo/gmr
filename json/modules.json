@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733515002.439904
+    "timestamp": 1733519086.745072
   },
   "modules": [
     {
@@ -231,6 +231,37 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/v2021.11.3_202111030.zip",
           "changelog": "",
           "size": 5180
+        }
+      ]
+    },
+    {
+      "id": "android_enhancer",
+      "name": "Android Enhancer",
+      "version": "v1.4.0",
+      "versionCode": 15,
+      "author": "iamlooper @ github",
+      "description": "A revolutionary android optimizer.",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1730894450.0,
+      "size": 2868891,
+      "features": {
+        "service": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/iamlooper/Android-Enhancer-Module",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1730894450.0,
+          "version": "v1.4.0",
+          "versionCode": 15,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/android_enhancer/v1.4.0_15.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/android_enhancer/v1.4.0_15.md",
+          "size": 2868891
         }
       ]
     },
@@ -471,6 +502,35 @@
       ]
     },
     {
+      "id": "flagsecurepatcher",
+      "name": "FlagSecurePatcher",
+      "version": "r14",
+      "versionCode": 14,
+      "author": "j-hc",
+      "description": "Prevent apps from blocking and listening to your screenshots",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1725032174.0,
+      "size": 4534847,
+      "features": {},
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/j-hc/FlagSecurePatcher",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1725032174.0,
+          "version": "r14",
+          "versionCode": 14,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r14_14.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r14_14.md",
+          "size": 4534847
+        }
+      ]
+    },
+    {
       "id": "gcc_on_android",
       "name": "GCC Toolchain",
       "version": "1.0.2",
@@ -528,6 +588,35 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.2_102.zip",
           "changelog": "",
           "size": 39547519
+        }
+      ]
+    },
+    {
+      "id": "iOS_Emoji",
+      "name": "iOS 17.4 Emoji font",
+      "version": "v17.4.1",
+      "versionCode": 17401,
+      "author": "Keinta15",
+      "description": "Systemlessly replaces emoji font with iOS 17.4 Emoji",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1726620490.0,
+      "size": 46425288,
+      "features": {},
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/Keinta15/Magisk-iOS-Emoji",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1726620490.0,
+          "version": "v17.4.1",
+          "versionCode": 17401,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.1_17401.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.1_17401.md",
+          "size": 46425288
         }
       ]
     },
@@ -596,6 +685,39 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.3_30003.zip",
           "changelog": "",
           "size": 509442
+        }
+      ]
+    },
+    {
+      "id": "magisk-wifiadb",
+      "name": "MagiskWiFiADB",
+      "version": "1.0.2",
+      "versionCode": 3,
+      "author": "mrh929",
+      "description": "A module that maintains ADB availability.",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1730019938.0,
+      "size": 7860,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1723905223.0,
+        "source": "https://github.com/mrh929/magisk-wifiadb",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1730019938.0,
+          "version": "1.0.2",
+          "versionCode": 3,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/1.0.2_3.zip",
+          "changelog": "",
+          "size": 7860
         }
       ]
     },

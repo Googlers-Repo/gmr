@@ -1,0 +1,14 @@
+{
+  "id": "flagsecurepatcher",
+  "timestamp": 1725032174.0,
+  "versions": [
+    {
+      "timestamp": 1725032174.0,
+      "version": "r14",
+      "versionCode": 14,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r14_14.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r14_14.md",
+      "size": 4534847
+    }
+  ]
+}

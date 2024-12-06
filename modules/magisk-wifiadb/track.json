@@ -1,8 +1,10 @@
 {
-	"id": "magisk-wifiadb",
-	"enable": true,
-	"verified": false,
-	"update_to": "https://github.com/mrh929/magisk-wifiadb.git",
-	"source": "https://github.com/mrh929/magisk-wifiadb",
-	"added": 1723905223.0
+  "id": "magisk-wifiadb",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://github.com/mrh929/magisk-wifiadb.git",
+  "source": "https://github.com/mrh929/magisk-wifiadb",
+  "added": 1723905223.0,
+  "last_update": 1730019938.0,
+  "versions": 1
 }

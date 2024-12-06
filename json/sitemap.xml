@@ -1,6 +1,10 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
    <url>
+      <loc>https://mmrl.dergoogler.com/module/TA_utl</loc>
+      <lastmod>2024-11-30</lastmod>
+   </url>
+   <url>
       <loc>https://mmrl.dergoogler.com/module/acp</loc>
       <lastmod>2022-01-31</lastmod>
    </url>
@@ -72,6 +76,10 @@
       <image:image>
          <image:loc>https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png</image:loc>
       </image:image>
+   </url>
+   <url>
+      <loc>https://mmrl.dergoogler.com/module/susfs4ksu</loc>
+      <lastmod>2024-12-05</lastmod>
    </url>
    <url>
       <loc>https://mmrl.dergoogler.com/module/systemless-hosts-KernelSU-module</loc>
