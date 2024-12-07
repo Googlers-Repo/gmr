@@ -6,22 +6,23 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733553025.14437
+    "timestamp": 1733575234.943459
   },
   "modules": [
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v2.6",
-      "versionCode": 260,
+      "version": "v2.7",
+      "versionCode": 270,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1732972101.0,
-      "size": 1187388,
+      "timestamp": 1733565627.0,
+      "size": 1185848,
       "features": {
         "service": true,
+        "post_fs_data": true,
         "webroot": true
       },
       "track": {
@@ -41,6 +42,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.md",
           "size": 1187388
+        },
+        {
+          "timestamp": 1733565627.0,
+          "version": "v2.7",
+          "versionCode": 270,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7_270.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7_270.md",
+          "size": 1185848
         }
       ]
     },
