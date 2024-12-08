@@ -1,0 +1,12 @@
+{
+	"id": "tricky_store",
+	"enable": true,
+	"verified": false,
+	"update_to": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/update.json",
+	"source": "https://github.com/5ec1cff/TrickyStore",
+	"antifeatures": ["NoSourceSince"],
+	"readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
+	"minApi": 29,
+	"categories": ["System"],
+	"added": 1723905223.0
+}
