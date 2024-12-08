@@ -9,6 +9,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.md",
       "size": 890023
+    },
+    {
+      "timestamp": 1733654606.0,
+      "version": "v1.4.2-R10",
+      "versionCode": 104002010,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.md",
+      "size": 878077
     }
   ]
 }
