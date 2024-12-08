@@ -1,0 +1,14 @@
+{
+  "id": "tricky_store",
+  "timestamp": 1730124120.0,
+  "versions": [
+    {
+      "timestamp": 1730124120.0,
+      "version": "v1.2.0 (155-331f6fe-release)",
+      "versionCode": 155,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.0_155-331f6fe-release.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.0_155-331f6fe-release.md",
+      "size": 2277483
+    }
+  ]
+}

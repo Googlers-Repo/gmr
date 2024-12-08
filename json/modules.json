@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733639380.049822
+    "timestamp": 1733652201.622154
   },
   "modules": [
     {
@@ -1153,6 +1153,46 @@
           "versionCode": 10104,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.4_10104.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "tricky_store",
+      "name": "Tricky Store",
+      "version": "v1.2.0 (155-331f6fe-release)",
+      "versionCode": 155,
+      "author": "5ec1cff",
+      "description": "A trick of keystore",
+      "added": 1723905223.0,
+      "categories": [
+        "System"
+      ],
+      "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
+      "verified": false,
+      "timestamp": 1730124120.0,
+      "size": 2277483,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "antifeatures": [
+          "NoSourceSince"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1730124120.0,
+          "version": "v1.2.0 (155-331f6fe-release)",
+          "versionCode": 155,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.0_155-331f6fe-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.0_155-331f6fe-release.md",
+          "size": 2277483
         }
       ]
     },
