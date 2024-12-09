@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733725976.891341
+    "timestamp": 1733748425.602393
   },
   "modules": [
     {
@@ -407,8 +407,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.31",
-      "versionCode": 2031,
+      "version": "v2.32",
+      "versionCode": 2032,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "require": [],
@@ -424,8 +424,8 @@
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1733143562.489192,
-      "size": 7671702,
+      "timestamp": 1733748416.063319,
+      "size": 7361481,
       "features": {},
       "track": {
         "type": "ONLINE_JSON",
@@ -434,14 +434,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1730119316.646198,
-          "version": "v2.26",
-          "versionCode": 2026,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.26_2026.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.26_2026.md",
-          "size": 8236943
-        },
         {
           "timestamp": 1730724097.871354,
           "version": "v2.27",
@@ -481,6 +473,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.31_2031.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.31_2031.md",
           "size": 7671702
+        },
+        {
+          "timestamp": 1733748416.063319,
+          "version": "v2.32",
+          "versionCode": 2032,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.32_2032.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.32_2032.md",
+          "size": 7361481
         }
       ]
     },
