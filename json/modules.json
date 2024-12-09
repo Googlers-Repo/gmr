@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1733748425.602393
+    "timestamp": 1733769102.504357
   },
   "modules": [
     {
@@ -285,14 +285,28 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v1.7.7",
-      "versionCode": 177,
+      "version": "v1.7.8",
+      "versionCode": 178,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for Apatch, KernelSU and Magisk",
       "added": 1733301165.0,
       "verified": true,
-      "timestamp": 1733500806.0,
-      "size": 18292,
+      "categories": [
+        "Adblocking and Hosts Files",
+        "APatch",
+        "KernelSU",
+        "Magisk"
+      ],
+      "support": "https://github.com/backslashxx/bindhosts/issues",
+      "screenshots": [
+        "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
+        "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
+        "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
+      ],
+      "license": "WTFPL",
+      "readme": "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/README.md",
+      "timestamp": 1733755025.0,
+      "size": 19889,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -320,6 +334,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.7_177.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.7_177.md",
           "size": 18292
+        },
+        {
+          "timestamp": 1733755025.0,
+          "version": "v1.7.8",
+          "versionCode": 178,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.8_178.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.8_178.md",
+          "size": 19889
         }
       ]
     },
