@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734071511.373819
+    "timestamp": 1734093826.177728
   },
   "modules": [
     {
@@ -1109,14 +1109,14 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.4.2-R10",
-      "versionCode": 104002010,
+      "version": "v1.4.2-R11",
+      "versionCode": 104002011,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1733654606.0,
-      "size": 878077,
+      "timestamp": 1734082080.0,
+      "size": 891333,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -1146,6 +1146,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.md",
           "size": 878077
+        },
+        {
+          "timestamp": 1734082080.0,
+          "version": "v1.4.2-R11",
+          "versionCode": 104002011,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R11_104002011.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R11_104002011.md",
+          "size": 891333
         }
       ]
     },
