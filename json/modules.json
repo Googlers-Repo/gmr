@@ -230,6 +230,12 @@
         "post_fs_data": true,
         "resetprop": true
       },
+      "manager": {
+        "kernelsu": {
+          "min": -1,
+          "require": ["node_on_android"]
+        }
+      },
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
