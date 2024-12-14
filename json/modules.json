@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734200891.157724
+    "timestamp": 1734215136.341158
   },
   "modules": [
     {
@@ -31,7 +31,8 @@
       "size": 1187881,
       "features": {
         "service": true,
-        "post_fs_data": true
+        "post_fs_data": true,
+        "action": true
       },
       "track": {
         "type": "ONLINE_JSON",
@@ -98,7 +99,6 @@
       "verified": false,
       "timestamp": 1643646579.0,
       "size": 3796149,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -128,13 +128,10 @@
       ],
       "donate": "https://github.com/sponsors/osm0sis",
       "support": "https://github.com/Magisk-Modules-Repo/adb-ndk/issues",
-      "screenshots": [],
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-      "require": [],
       "verified": false,
       "timestamp": 1698679366.0,
       "size": 5300707,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -326,6 +323,7 @@
       "features": {
         "service": true,
         "post_fs_data": true,
+        "action": true,
         "webroot": true
       },
       "track": {
@@ -383,13 +381,10 @@
       ],
       "donate": "https://github.com/sponsors/osm0sis",
       "support": "https://github.com/Magisk-Modules-Repo/busybox-ndk/issues",
-      "screenshots": [],
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-      "require": [],
       "verified": false,
       "timestamp": 1699710957.0,
       "size": 9933908,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -426,7 +421,6 @@
       "verified": false,
       "timestamp": 1711830438.0,
       "size": 17029965,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1706465625.561501,
@@ -457,7 +451,9 @@
       "versionCode": 2032,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
-      "require": [],
+      "require": [
+        "systemless-hosts-KernelSU-module@113"
+      ],
       "verified": true,
       "categories": [
         "Adblocking and Hosts Files"
@@ -466,13 +462,11 @@
       "donate": "",
       "support": "https://github.com/Vaz15k/Cubic-AdBlock/issues",
       "cover": "",
-      "screenshots": [],
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
       "timestamp": 1733748416.063319,
       "size": 7361481,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -547,7 +541,6 @@
       "verified": false,
       "timestamp": 1639484648.0,
       "size": 42097,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -575,7 +568,6 @@
       "verified": false,
       "timestamp": 1725032174.0,
       "size": 4534847,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -620,7 +612,6 @@
       "added": 0,
       "timestamp": 1726310851.0,
       "size": 39547519,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": null,
@@ -665,7 +656,6 @@
       "verified": false,
       "timestamp": 1726620490.0,
       "size": 46425288,
-      "features": {},
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -699,10 +689,8 @@
       "icon": "https://raw.githubusercontent.com/Chainfire/liveboot/master/liveBootAni2/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png",
       "donate": "https://patreon.com/user?u=88377368",
       "support": "https://github.com/symbuzzer/livebootmodule/issues",
-      "screenshots": [],
       "license": "GPL-3.0",
       "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
-      "require": [],
       "verified": false,
       "timestamp": 1726921979.0,
       "size": 509442,
@@ -947,13 +935,10 @@
       ],
       "donate": "https://github.com/sponsors/osm0sis",
       "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",
-      "screenshots": [],
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
-      "require": [],
       "verified": false,
       "timestamp": 1725582337.0,
       "size": 863157,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1097,7 +1082,6 @@
       "verified": false,
       "timestamp": 1718574711.0,
       "size": 535557,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1718573490.991985,
@@ -1130,6 +1114,19 @@
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "added": 1723905223.0,
+      "manager": {
+        "kernelsu": {
+          "require": [
+            "bindhosts"
+          ]
+        },
+        "magisk": {
+          "min": -1
+        },
+        "apatch": {
+          "min": -1
+        }
+      },
       "verified": false,
       "timestamp": 1734082080.0,
       "size": 891333,
@@ -1321,13 +1318,10 @@
       ],
       "donate": "https://github.com/sponsors/osm0sis",
       "support": "https://github.com/Magisk-Modules-Repo/zipsigner/issues",
-      "screenshots": [],
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
-      "require": [],
       "verified": false,
       "timestamp": 1712163102.0,
       "size": 5920487,
-      "features": {},
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
