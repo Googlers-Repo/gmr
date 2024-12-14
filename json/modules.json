@@ -151,8 +151,14 @@
       "support": "https://github.com/Zackptg5/Audio-Modification-Library/issues",
       "readme": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/README.md",
       "require": [
-        "acp"
+        "acp", "mkshrc"
       ],
+      "manager": {
+        "kernelsu": {
+          "min": -1,
+          "require": ["node_on_android"]
+        }
+      }
       "verified": false,
       "timestamp": 1690235714.0,
       "size": 23941,
