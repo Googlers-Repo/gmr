@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734227705.142352
+    "timestamp": 1734230548.057105
   },
   "modules": [
     {
@@ -17,6 +17,9 @@
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "added": 1723905223.0,
+      "require": [
+        "tricky_store"
+      ],
       "categories": [
         "WebUI"
       ],
@@ -455,12 +458,12 @@
       "manager": {
         "kernelsu": {
           "require": [
-            "systemless-hosts-KernelSU-module@113"
+            "systemless-hosts-KernelSU-module"
           ]
         },
         "apatch": {
           "require": [
-            "systemless-hosts-KernelSU-module@113"
+            "systemless-hosts-KernelSU-module"
           ]
         }
       },
@@ -1004,9 +1007,18 @@
       "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
-      "require": [
-        "zygisk-assistant"
-      ],
+      "manager": {
+        "kernelsu": {
+          "require": [
+            "zygisk-assistant"
+          ]
+        },
+        "apatch": {
+          "require": [
+            "zygisk-assistant"
+          ]
+        }
+      },
       "verified": false,
       "timestamp": 1734124640.0,
       "size": 232176,
