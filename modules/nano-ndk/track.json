@@ -6,13 +6,10 @@
   "source": "https://github.com/Magisk-Modules-Repo/nano-ndk",
   "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",
   "donate": "https://github.com/sponsors/osm0sis",
-  "screenshots": [],
-  "require": [],
   "categories": [
     "System"
   ],
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
-  "antifeatures": [],
   "added": 1445340430.7142262,
   "last_update": 1725582337.0,
   "versions": 4

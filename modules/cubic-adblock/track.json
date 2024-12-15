@@ -7,13 +7,13 @@
   "manager": {
     "kernelsu": {
       "require": [
-        "systemless-hosts-KernelSU-module@113"
-      ],      
+        "systemless-hosts-KernelSU-module"
+      ]      
     },
     "apatch": {
       "require": [
-        "systemless-hosts-KernelSU-module@113"
-      ],      
+        "systemless-hosts-KernelSU-module"
+      ]
     }
   },
   "last_update": 1733748416.063319,
