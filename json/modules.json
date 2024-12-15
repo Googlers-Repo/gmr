@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734215136.341158
+    "timestamp": 1734224963.419855
   },
   "modules": [
     {
@@ -451,10 +451,19 @@
       "versionCode": 2032,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
-      "require": [
-        "systemless-hosts-KernelSU-module@113"
-      ],
       "verified": true,
+      "manager": {
+        "kernelsu": {
+          "require": [
+            "systemless-hosts-KernelSU-module@113"
+          ]
+        },
+        "apatch": {
+          "require": [
+            "systemless-hosts-KernelSU-module@113"
+          ]
+        }
+      },
       "categories": [
         "Adblocking and Hosts Files"
       ],
