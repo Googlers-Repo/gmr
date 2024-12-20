@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734698399.62541
+    "timestamp": 1734711860.499832
   },
   "modules": [
     {
@@ -478,6 +478,11 @@
           ]
         },
         "apatch": {
+          "require": [
+            "systemless-hosts-KernelSU-module"
+          ]
+        },
+        "ksunext": {
           "require": [
             "systemless-hosts-KernelSU-module"
           ]
@@ -1150,7 +1155,7 @@
       "versionCode": 104002011,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
-      "added": 1723905223.0,
+      "added": 1723905223,
       "manager": {
         "kernelsu": {
           "require": [
@@ -1165,7 +1170,7 @@
         }
       },
       "verified": false,
-      "timestamp": 1734082080.0,
+      "timestamp": 1734082080,
       "size": 891333,
       "features": {
         "service": true,
@@ -1176,7 +1181,7 @@
       },
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1723905223.0,
+        "added": 1723905223,
         "source": "https://github.com/sidex15/ksu_module_susfs",
         "antifeatures": null
       },
