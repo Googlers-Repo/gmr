@@ -1,0 +1,15 @@
+id: susfs4ksu
+enable: true
+verified: false
+update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/refs/heads/main/update.json
+source: https://github.com/sidex15/ksu_module_susfs
+manager:
+  kernelsu:
+    require:
+    - bindhosts
+  magisk: &m
+    min: -1
+  apatch: *m
+added: 1723905223
+last_update: 1734082080
+versions: 3
