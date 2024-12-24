@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1735004383.946457
+    "timestamp": 1735021755.021842
   },
   "modules": [
     {
@@ -301,8 +301,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v1.8.2",
-      "versionCode": 182,
+      "version": "v1.8.3",
+      "versionCode": 183,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for Apatch, KernelSU and Magisk ",
       "added": 1733301165.0,
@@ -321,8 +321,8 @@
       ],
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1734485428.0,
-      "size": 22922,
+      "timestamp": 1735009951.0,
+      "size": 24717,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -336,14 +336,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1733500806.0,
-          "version": "v1.7.7",
-          "versionCode": 177,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.7_177.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.7.7_177.md",
-          "size": 18292
-        },
         {
           "timestamp": 1733755025.0,
           "version": "v1.7.8",
@@ -383,6 +375,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.2_182.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.2_182.md",
           "size": 22922
+        },
+        {
+          "timestamp": 1735009951.0,
+          "version": "v1.8.3",
+          "versionCode": 183,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.3_183.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.3_183.md",
+          "size": 24717
         }
       ]
     },
