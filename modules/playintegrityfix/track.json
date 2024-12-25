@@ -7,20 +7,24 @@
   "source": "https://github.com/chiteroman/PlayIntegrityFix",
   "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
   "donate": "https://www.paypal.com/paypalme/chiteroman",
-  "manager": {
-    "kernelsu": {
-      "require": ["zygisk-assistant"]
-    },
-    "apatch": {
-      "require": ["zygisk-assistant"]
-    }
-  },
   "categories": [
     "Zygisk",
     "Security"
   ],
   "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
+  "manager": {
+    "kernelsu": {
+      "require": [
+        "zygisk-assistant"
+      ]
+    },
+    "apatch": {
+      "require": [
+        "zygisk-assistant"
+      ]
+    }
+  },
   "added": 1445340430.7142262,
-  "last_update": 1734124640.0,
+  "last_update": 1735065893.0,
   "versions": 6
 }
