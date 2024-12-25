@@ -33,6 +33,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.8_280.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.8_280.md",
       "size": 1187881
+    },
+    {
+      "timestamp": 1735116131.0,
+      "version": "v2.9",
+      "versionCode": 290,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.9_290.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.9_290.md",
+      "size": 1198627
     }
   ]
 }

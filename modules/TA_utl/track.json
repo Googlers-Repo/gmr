@@ -4,12 +4,14 @@
   "verified": false,
   "update_to": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/update.json",
   "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+  "require": [
+    "tricky_store"
+  ],
   "antifeatures": [
     "NonFreeAdd",
     "NonFreeDep"
   ],
-  "require": ["tricky_store"],
   "added": 1723905223.0,
-  "last_update": 1734163760.0,
-  "versions": 4
+  "last_update": 1735116131.0,
+  "versions": 5
 }
