@@ -49,7 +49,7 @@ def save_sponsors_to_file(sponsors_data, filename="json/sponsors.json"):
             "login": node["sponsorEntity"]["login"],
             "avatarUrl": node["sponsorEntity"]["avatarUrl"],
             "url": node["sponsorEntity"]["url"],
-            "amount": node["tier"]["monthlyPriceInCents"] / 100  # Convert cents to dollars
+            "amount": node["tier"]["monthlyPriceInCents"] / 100 if node["tier"] else 0  # Handle None tier
         }
         for node in sponsors_data["data"]["user"]["sponsorshipsAsMaintainer"]["nodes"]
     ]
