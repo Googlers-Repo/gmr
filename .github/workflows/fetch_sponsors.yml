@@ -31,7 +31,7 @@ jobs:
         run: |
           npx @octokit/graphql <<EOF > json/sponsors.json
           {
-            "query": "query { user(login: \"USERNAME\") { sponsorshipsAsMaintainer(first: 100) { nodes { sponsorEntity { ... on User { login avatarUrl url } ... on Organization { login avatarUrl url } } tier { monthlyPriceInCents } } } } }"
+            "query": "query { user(login: \"DerGoogler\") { sponsorshipsAsMaintainer(first: 100) { nodes { sponsorEntity { ... on User { login avatarUrl url } ... on Organization { login avatarUrl url } } tier { monthlyPriceInCents } } } } }"
           }
           EOF
 
