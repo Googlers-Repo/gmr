@@ -2,10 +2,8 @@ import requests
 import json
 import os
 
-# GitHub GraphQL API URL
 GRAPHQL_URL = "https://api.github.com/graphql"
 
-# Define the GraphQL query to fetch sponsors
 GRAPHQL_QUERY = """
 query {
   user(login: "DerGoogler") {
@@ -39,7 +37,7 @@ def fetch_sponsors(github_token):
     }
 
     response = requests.post(GRAPHQL_URL, json={"query": GRAPHQL_QUERY}, headers=headers)
-    response.raise_for_status()  # Raise an exception for HTTP errors
+    response.raise_for_status()
 
     return response.json()
 
@@ -49,7 +47,6 @@ def save_sponsors_to_file(sponsors_data, filename="json/sponsors.json"):
             "login": node["sponsorEntity"]["login"],
             "avatarUrl": node["sponsorEntity"]["avatarUrl"],
             "url": node["sponsorEntity"]["url"],
-            "amount": node["tier"]["monthlyPriceInCents"] / 100 if node["tier"] else 0  # Handle None tier
         }
         for node in sponsors_data["data"]["user"]["sponsorshipsAsMaintainer"]["nodes"]
     ]
