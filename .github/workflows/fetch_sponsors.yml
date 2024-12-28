@@ -1,0 +1,49 @@
+name: Fetch GitHub Sponsors
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-sponsors:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Set up Node.js environment
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      # Install dependencies
+      - name: Install GraphQL CLI
+        run: npm install -g @octokit/graphql
+
+      # Fetch sponsors using GitHub GraphQL API
+      - name: Fetch GitHub Sponsors
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx @octokit/graphql <<EOF > json/sponsors.json
+          {
+            "query": "query { user(login: \"USERNAME\") { sponsorshipsAsMaintainer(first: 100) { nodes { sponsorEntity { ... on User { login avatarUrl url } ... on Organization { login avatarUrl url } } tier { monthlyPriceInCents } } } } }"
+          }
+          EOF
+
+      # Configure Git user for commit
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+
+      # Commit and push the sponsors.json file
+      - name: Commit and Push Sponsors JSON
+        run: |
+          git add json/sponsors.json
+          git commit -m "Update sponsors.json with amounts"
+          git push
