@@ -2,7 +2,7 @@ name: Fetch GitHub Sponsors
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -29,11 +29,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npx @octokit/graphql <<EOF > json/sponsors.json
-          {
-            "query": "query { user(login: \"DerGoogler\") { sponsorshipsAsMaintainer(first: 100) { nodes { sponsorEntity { ... on User { login avatarUrl url } ... on Organization { login avatarUrl url } } tier { monthlyPriceInCents } } } } }"
-          }
-          EOF
+          echo '{
+            "query": "query { user(login: \\"DerGoogler\\") { sponsorshipsAsMaintainer(first: 100) { nodes { sponsorEntity { ... on User { login avatarUrl url } ... on Organization { login avatarUrl url } } tier { monthlyPriceInCents } } } } }"
+          }' | npx @octokit/graphql > json/sponsors.json
 
       # Configure Git user for commit
       - name: Configure Git
