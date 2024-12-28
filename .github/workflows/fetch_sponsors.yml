@@ -2,7 +2,7 @@ name: Fetch GitHub Sponsors
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -18,8 +18,17 @@ jobs:
         with:
           node-version: 18
 
+      - name: Create package.json
+        run: |
+          echo '{
+            "type": "module",
+            "dependencies": {
+              "@octokit/graphql": "^5.0.0"
+            }
+          }' > package.json
+
       - name: Install Dependencies
-        run: npm install @octokit/graphql
+        run: npm install
 
       - name: Fetch GitHub Sponsors
         env:
