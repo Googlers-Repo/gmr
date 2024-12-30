@@ -49,7 +49,7 @@ def save_sponsors_to_file(sponsors_data, filename="json/sponsors.json"):
             "login": node["sponsorEntity"]["login"],
             "avatarUrl": node["sponsorEntity"]["avatarUrl"],
             "url": node["sponsorEntity"]["url"],
-            "amout": node["tier"]["monthlyPriceInCents"]
+            "amount": node["tier"]["monthlyPriceInCents"]
         }
         for node in sponsors_data["data"]["user"]["sponsorshipsAsMaintainer"]["nodes"]
     ]
