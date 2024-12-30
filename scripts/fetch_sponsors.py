@@ -7,7 +7,7 @@ GRAPHQL_URL = "https://api.github.com/graphql"
 GRAPHQL_QUERY = """
 query {
   user(login: "DerGoogler") {
-    sponsorshipsAsMaintainer(first: 100) {
+     sponsorshipsAsMaintainer(activeOnly: false, first: 100) {
       nodes {
         sponsorEntity {
           ... on User {
@@ -42,11 +42,14 @@ def fetch_sponsors(github_token):
     return response.json()
 
 def save_sponsors_to_file(sponsors_data, filename="json/sponsors.json"):
+    print(sponsors_data)
+    
     sponsors = [
         {
             "login": node["sponsorEntity"]["login"],
             "avatarUrl": node["sponsorEntity"]["avatarUrl"],
             "url": node["sponsorEntity"]["url"],
+            "amout": node["tier"]["monthlyPriceInCents"]
         }
         for node in sponsors_data["data"]["user"]["sponsorshipsAsMaintainer"]["nodes"]
     ]
