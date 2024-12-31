@@ -11,9 +11,11 @@
     "KernelSU",
     "Tools"
   ],
-  "require": ["zygisk-assistant"],
   "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
+  "require": [
+    "zygisk-assistant"
+  ],
   "added": 1716564516.209616,
-  "last_update": 1718898770.0,
-  "versions": 3
+  "last_update": 1735647220.0,
+  "versions": 4
 }
