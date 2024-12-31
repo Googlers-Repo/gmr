@@ -6,7 +6,7 @@
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1735648760.855321
+    "timestamp": 1735669628.253819
   },
   "modules": [
     {
@@ -1368,8 +1368,8 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.19.0",
-      "versionCode": 23,
+      "version": "v1.19.1",
+      "versionCode": 24,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
@@ -1385,8 +1385,8 @@
         "zygisk-assistant"
       ],
       "verified": false,
-      "timestamp": 1735647220.0,
-      "size": 174658,
+      "timestamp": 1735650872.0,
+      "size": 174665,
       "features": {
         "post_fs_data": true,
         "zygisk": true,
@@ -1427,6 +1427,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.0_23.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.0_23.md",
           "size": 174658
+        },
+        {
+          "timestamp": 1735650872.0,
+          "version": "v1.19.1",
+          "versionCode": 24,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.md",
+          "size": 174665
         }
       ]
     }
