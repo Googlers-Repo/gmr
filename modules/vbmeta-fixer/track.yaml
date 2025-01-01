@@ -1,0 +1,4 @@
+id: vbmeta-fixer
+enable: true
+verified: true
+update_to: https://raw.githubusercontent.com/reveny/Android-VBMeta-Fixer/refs/heads/main/update.json
