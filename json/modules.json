@@ -4,9 +4,11 @@
   "support": "https://github.com/Googlers-Repo/gmr/issues",
   "donate": "https://github.com/sponsors/DerGoogler",
   "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
+  "cover": "https://gr.dergoogler.com/gmr/assets/cover.webp",
+  "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1735713008.592566
+    "timestamp": 1735735085.701954
   },
   "modules": [
     {
@@ -1376,8 +1378,8 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.19.1",
-      "versionCode": 24,
+      "version": "v1.19.2",
+      "versionCode": 25,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
@@ -1393,8 +1395,8 @@
         "zygisk-assistant"
       ],
       "verified": false,
-      "timestamp": 1735650872.0,
-      "size": 174665,
+      "timestamp": 1735730251.0,
+      "size": 171824,
       "features": {
         "post_fs_data": true,
         "zygisk": true,
@@ -1443,6 +1445,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.md",
           "size": 174665
+        },
+        {
+          "timestamp": 1735730251.0,
+          "version": "v1.19.2",
+          "versionCode": 25,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.md",
+          "size": 171824
         }
       ]
     }
