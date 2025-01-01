@@ -1,0 +1,14 @@
+{
+  "id": "vbmeta-fixer",
+  "timestamp": 1730300984.0,
+  "versions": [
+    {
+      "timestamp": 1730300984.0,
+      "version": "1.0.5",
+      "versionCode": 105,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.0.5_105.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.0.5_105.md",
+      "size": 3138790
+    }
+  ]
+}
