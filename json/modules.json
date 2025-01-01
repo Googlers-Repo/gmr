@@ -8,7 +8,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1735756034.370825
+    "timestamp": 1735764720.822361
   },
   "modules": [
     {
@@ -891,8 +891,8 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "4.7.6",
-      "versionCode": 458,
+      "version": "4.7.7",
+      "versionCode": 459,
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
@@ -910,8 +910,8 @@
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.jpg",
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.jpg"
       ],
-      "timestamp": 1734279568.0,
-      "size": 462318,
+      "timestamp": 1735764644.0,
+      "size": 462291,
       "features": {
         "action": true,
         "webroot": true
@@ -923,14 +923,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1726161214.0,
-          "version": "2.5.4",
-          "versionCode": 254,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/2.5.4_254.zip",
-          "changelog": "",
-          "size": 447270
-        },
         {
           "timestamp": 1733334173.0,
           "version": "4.5.4",
@@ -970,6 +962,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.7.6_458.zip",
           "changelog": "",
           "size": 462318
+        },
+        {
+          "timestamp": 1735764644.0,
+          "version": "4.7.7",
+          "versionCode": 459,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.7.7_459.zip",
+          "changelog": "",
+          "size": 462291
         }
       ]
     },
