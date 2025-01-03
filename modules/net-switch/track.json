@@ -1,0 +1,7 @@
+{
+  "enable": false,
+  "id": "net-switch",
+  "update_to": "https://raw.githubusercontent.com/Rem01Gaming/net-switch/main/update.json",
+  "source": "https://github.com/Rem01Gaming/net-switch",
+  "verified": false
+}
