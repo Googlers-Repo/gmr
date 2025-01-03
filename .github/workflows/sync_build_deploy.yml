@@ -48,10 +48,18 @@ jobs:
       #     ref: v2.10.9
       #     path: util
 
-      - name: Setup Util 
+      - name: Download Util
         run: |
-          wget -O /usr/bin/mmrl-util https://github.com/Googlers-Repo/magisk-modules-repo-util/releases/download/v2.10.9/mmrl-util
-          chmod 755 /usr/bin/mmrl-util
+          curl -L -o mmrl-util https://github.com/Googlers-Repo/magisk-modules-repo-util/releases/download/v2.10.9/mmrl-util
+          chmod 755 ./mmrl-util
+
+      - name: Add Util to PATH
+        run: |
+          echo "::add-path::$(pwd)"
+
+      - name: Verify Util
+        run: |
+          mmrl-util --version
 
       - name: Set up Git
         run: |
