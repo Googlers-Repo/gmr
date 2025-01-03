@@ -1,17 +1,15 @@
-!!python/object/new:sync.model.AttrDict.AttrDict
-dictitems:
-  added: 1723905223
-  enable: true
-  id: susfs4ksu
-  last_update: 1735545926.0
-  manager:
-    apatch: &id001
-      min: -1
-    kernelsu:
-      require:
+added: 1723905223
+enable: true
+id: susfs4ksu
+last_update: 1735545926.0
+manager:
+  apatch: &m
+    min: -1
+  kernelsu:
+    require:
       - bindhosts
-    magisk: *id001
-  source: https://github.com/sidex15/ksu_module_susfs
-  update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/refs/heads/main/update.json
-  verified: false
-  versions: 4
+  magisk: *m
+source: https://github.com/sidex15/ksu_module_susfs
+update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/refs/heads/main/update.json
+verified: false
+versions: 4

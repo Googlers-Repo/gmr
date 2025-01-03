@@ -8,7 +8,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1735928897.696967
+    "timestamp": 1735936202.318151
   },
   "modules": [
     {
@@ -1164,6 +1164,78 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/v1.1.4_10104.zip",
           "changelog": "",
           "size": 535557
+        }
+      ]
+    },
+    {
+      "id": "susfs4ksu",
+      "name": "SUSFS-FOR-KERNELSU",
+      "version": "v1.4.2-R12",
+      "versionCode": 104002012,
+      "author": "sidex15 & simonpunk",
+      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
+      "added": 1723905223,
+      "manager": {
+        "apatch": {
+          "min": -1
+        },
+        "kernelsu": {
+          "require": [
+            "bindhosts"
+          ]
+        },
+        "magisk": {
+          "min": -1
+        }
+      },
+      "verified": false,
+      "timestamp": 1735545926.0,
+      "size": 892829,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "webroot": true,
+        "post_mount": true,
+        "boot_completed": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223,
+        "source": "https://github.com/sidex15/ksu_module_susfs",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1733382594.0,
+          "version": "v1.4.2-R9",
+          "versionCode": 10400209,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.md",
+          "size": 890023
+        },
+        {
+          "timestamp": 1733654606.0,
+          "version": "v1.4.2-R10",
+          "versionCode": 104002010,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.md",
+          "size": 878077
+        },
+        {
+          "timestamp": 1734082080.0,
+          "version": "v1.4.2-R11",
+          "versionCode": 104002011,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R11_104002011.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R11_104002011.md",
+          "size": 891333
+        },
+        {
+          "timestamp": 1735545926.0,
+          "version": "v1.4.2-R12",
+          "versionCode": 104002012,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.md",
+          "size": 892829
         }
       ]
     },
