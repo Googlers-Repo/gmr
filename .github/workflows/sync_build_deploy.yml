@@ -50,8 +50,8 @@ jobs:
 
       - name: Setup Util 
         run: |
-          wget -O mmrl-util https://github.com/Googlers-Repo/magisk-modules-repo-util/releases/download/v2.10.9/mmrl-util
-          chmod 755 mmrl-util
+          wget -O /usr/bin/mmrl-util https://github.com/Googlers-Repo/magisk-modules-repo-util/releases/download/v2.10.9/mmrl-util
+          chmod 755 /usr/bin/mmrl-util
 
       - name: Set up Git
         run: |
