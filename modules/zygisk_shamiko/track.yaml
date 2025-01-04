@@ -1,0 +1,14 @@
+id: zygisk_shamiko
+enable: true
+
+verified: false
+update_to: https://lsposed.github.io/releases/shamiko.json
+source: https://github.com/LSPosed/LSPosed.github.io/releases
+
+# Override manager{}.require
+require:
+	- zygisksu
+
+antifeatures:
+	- ClosedSource
+

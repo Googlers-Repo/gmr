@@ -1,0 +1,14 @@
+id: zygisk_lsposed
+enable: true
+
+verified: false
+update_to: https://lsposed.github.io/LSPosed/release/zygisk.json
+source: https://github.com/LSPosed
+
+# Override manager{}.require
+require:
+	- zygisksu
+
+antifeatures:
+	- ClosedSource
+
