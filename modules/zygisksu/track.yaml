@@ -6,12 +6,12 @@ update_to: https://api.nullptr.icu/android/zygisk-next/static/update.json
 source: https://github.com/Dr-TSNG/ZygiskNext
 
 manager:
-	kernelsu: &ksu
-		min: 10940
-	ksunext: *ksu
-	magisk:
-		min: 26402
+  kernelsu: &ksu
+    min: 10940
+  ksunext: *ksu
+  magisk:
+    min: 26402
 
 antifeatures:
-	- ClosedSource
+  - ClosedSource
 

@@ -7,8 +7,8 @@ source: https://github.com/LSPosed/LSPosed.github.io/releases
 
 # Override manager{}.require
 require:
-	- zygisksu
+  - zygisksu
 
 antifeatures:
-	- ClosedSource
+  - ClosedSource
 
