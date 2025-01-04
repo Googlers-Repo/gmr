@@ -1,17 +1,15 @@
 id: zygisksu
 enable: true
-
 verified: false
 update_to: https://api.nullptr.icu/android/zygisk-next/static/update.json
 source: https://github.com/Dr-TSNG/ZygiskNext
-
 manager:
-  kernelsu: &ksu
+  kernelsu: &id001
     min: 10940
-  ksunext: *ksu
+  ksunext: *id001
   magisk:
     min: 26402
-
 antifeatures:
-  - ClosedSource
-
+- ClosedSource
+last_update: 1735825712.0
+versions: 1

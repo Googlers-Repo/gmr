@@ -1,0 +1,14 @@
+{
+  "id": "zygisk_lsposed",
+  "timestamp": 1697034252.0,
+  "versions": [
+    {
+      "timestamp": 1697034252.0,
+      "version": "v1.9.2 (7024)",
+      "versionCode": 7024,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.md",
+      "size": 2462055
+    }
+  ]
+}

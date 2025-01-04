@@ -8,7 +8,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1735993334.225182
+    "timestamp": 1736013069.452666
   },
   "modules": [
     {
@@ -1557,6 +1557,93 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.md",
           "size": 171824
+        }
+      ]
+    },
+    {
+      "id": "zygisk_lsposed",
+      "name": "Zygisk - LSPosed",
+      "version": "v1.9.2 (7024)",
+      "versionCode": 7024,
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+      "require": [
+        "zygisksu"
+      ],
+      "verified": false,
+      "added": 0,
+      "timestamp": 1697034252.0,
+      "size": 2462055,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/LSPosed",
+        "antifeatures": [
+          "ClosedSource"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1697034252.0,
+          "version": "v1.9.2 (7024)",
+          "versionCode": 7024,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.md",
+          "size": 2462055
+        }
+      ]
+    },
+    {
+      "id": "zygisksu",
+      "name": "Zygisk Next",
+      "version": "1.2.6 (485-ca2c5c0-release)",
+      "versionCode": 485,
+      "author": "5ec1cff, Nullptr",
+      "description": "Standalone implementation of Zygisk.",
+      "manager": {
+        "kernelsu": {
+          "min": 10940
+        },
+        "ksunext": {
+          "min": 10940
+        },
+        "magisk": {
+          "min": 26402
+        }
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1735825712.0,
+      "size": 3433554,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Dr-TSNG/ZygiskNext",
+        "antifeatures": [
+          "ClosedSource"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1735825712.0,
+          "version": "1.2.6 (485-ca2c5c0-release)",
+          "versionCode": 485,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.6_485-ca2c5c0-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.6_485-ca2c5c0-release.md",
+          "size": 3433554
         }
       ]
     }

@@ -1,13 +1,11 @@
 id: zygisk_lsposed
 enable: true
-
 verified: false
 update_to: https://lsposed.github.io/LSPosed/release/zygisk.json
 source: https://github.com/LSPosed
-
 require:
-  - zygisksu
-
+- zygisksu
 antifeatures:
-  - ClosedSource
-
+- ClosedSource
+last_update: 1697034252.0
+versions: 1

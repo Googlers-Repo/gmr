@@ -1,0 +1,14 @@
+{
+  "id": "zygisksu",
+  "timestamp": 1735825712.0,
+  "versions": [
+    {
+      "timestamp": 1735825712.0,
+      "version": "1.2.6 (485-ca2c5c0-release)",
+      "versionCode": 485,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.6_485-ca2c5c0-release.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.6_485-ca2c5c0-release.md",
+      "size": 3433554
+    }
+  ]
+}
