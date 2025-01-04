@@ -1,0 +1,14 @@
+{
+  "id": "net-switch",
+  "timestamp": 1736034742.0,
+  "versions": [
+    {
+      "timestamp": 1736034742.0,
+      "version": "1.0 (19-0520b6c-release)",
+      "versionCode": 19,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/net-switch/1.0_19-0520b6c-release.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/net-switch/1.0_19-0520b6c-release.md",
+      "size": 11638
+    }
+  ]
+}
