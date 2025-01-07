@@ -8,7 +8,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1736214052.318832
+    "timestamp": 1736231391.084155
   },
   "modules": [
     {
@@ -319,10 +319,10 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v1.8.5",
-      "versionCode": 185,
+      "version": "v1.8.6",
+      "versionCode": 186,
       "author": "xx, KOWX712",
-      "description": "Systemless hosts for Apatch, KernelSU and Magisk ",
+      "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165.0,
       "verified": true,
       "categories": [
@@ -339,8 +339,8 @@
       ],
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1735904596.0,
-      "size": 31756,
+      "timestamp": 1736229449.0,
+      "size": 36003,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -354,14 +354,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1734286463.0,
-          "version": "v1.8.0",
-          "versionCode": 180,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.0_180.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.0_180.md",
-          "size": 21682
-        },
         {
           "timestamp": 1734355530.0,
           "version": "v1.8.1",
@@ -401,6 +393,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.5_185.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.5_185.md",
           "size": 31756
+        },
+        {
+          "timestamp": 1736229449.0,
+          "version": "v1.8.6",
+          "versionCode": 186,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.6_186.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.6_186.md",
+          "size": 36003
         }
       ]
     },
