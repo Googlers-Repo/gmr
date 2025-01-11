@@ -4,10 +4,10 @@ verified: true
 update_to: https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/module/update.json
 source: https://github.com/Vaz15k/Cubic-AdBlock
 manager:
-  kernelsu: &m
+  apatch: &id001
     require:
-      - systemless-hosts-KernelSU-module
-  apatch: *m
-  ksunext: *m
-last_update: 1733748416.063319
+    - systemless-hosts-KernelSU-module
+  kernelsu: *id001
+  ksunext: *id001
+last_update: 1736576822.524871
 versions: 6
