@@ -8,7 +8,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1736772149.581622
+    "timestamp": 1736793008.351924
   },
   "modules": [
     {
@@ -319,8 +319,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v1.8.6",
-      "versionCode": 186,
+      "version": "v1.8.7",
+      "versionCode": 187,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165.0,
@@ -339,8 +339,8 @@
       ],
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1736229449.0,
-      "size": 36003,
+      "timestamp": 1736782731.0,
+      "size": 38154,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -354,14 +354,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1734355530.0,
-          "version": "v1.8.1",
-          "versionCode": 181,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.1_181.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.1_181.md",
-          "size": 22697
-        },
         {
           "timestamp": 1734485428.0,
           "version": "v1.8.2",
@@ -401,6 +393,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.6_186.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.6_186.md",
           "size": 36003
+        },
+        {
+          "timestamp": 1736782731.0,
+          "version": "v1.8.7",
+          "versionCode": 187,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.7_187.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.7_187.md",
+          "size": 38154
         }
       ]
     },
