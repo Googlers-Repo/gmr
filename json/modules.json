@@ -8,7 +8,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1736965607.242309
+    "timestamp": 1736991411.299513
   },
   "modules": [
     {
@@ -1065,8 +1065,8 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v18.2",
-      "versionCode": 18200,
+      "version": "v18.3",
+      "versionCode": 18300,
       "author": "chiteroman",
       "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
       "added": 1445340430.7142262,
@@ -1091,14 +1091,15 @@
         }
       },
       "verified": false,
-      "timestamp": 1735065893.0,
-      "size": 235036,
+      "timestamp": 1736972105.0,
+      "size": 197622,
       "features": {
         "service": true,
         "post_fs_data": true,
         "sepolicy": true,
         "zygisk": true,
-        "action": true
+        "action": true,
+        "webroot": true
       },
       "track": {
         "type": "ONLINE_JSON",
@@ -1107,14 +1108,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1727969399.0,
-          "version": "v17.7",
-          "versionCode": 17700,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.7_17700.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.7_17700.md",
-          "size": 160089
-        },
         {
           "timestamp": 1729686545.0,
           "version": "v17.8",
@@ -1154,6 +1147,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.2_18200.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.2_18200.md",
           "size": 235036
+        },
+        {
+          "timestamp": 1736972105.0,
+          "version": "v18.3",
+          "versionCode": 18300,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.3_18300.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.3_18300.md",
+          "size": 197622
         }
       ]
     },
