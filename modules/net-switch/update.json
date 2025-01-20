@@ -9,6 +9,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/net-switch/1.0_19-0520b6c-release.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/net-switch/1.0_19-0520b6c-release.md",
       "size": 11638
+    },
+    {
+      "timestamp": 1737343365.0,
+      "version": "1.1 (43-f500257-release)",
+      "versionCode": 43,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/net-switch/1.1_43-f500257-release.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/net-switch/1.1_43-f500257-release.md",
+      "size": 14134
     }
   ]
 }
