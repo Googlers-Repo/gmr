@@ -3,14 +3,6 @@
   "timestamp": 1709399823.0,
   "versions": [
     {
-      "timestamp": 1729686545.0,
-      "version": "v17.8",
-      "versionCode": 17800,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.md",
-      "size": 252335
-    },
-    {
       "timestamp": 1729850344.0,
       "version": "v17.9",
       "versionCode": 17900,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.3_18300.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.3_18300.md",
       "size": 197622
+    },
+    {
+      "timestamp": 1737412177.0,
+      "version": "v18.4",
+      "versionCode": 18400,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.4_18400.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.4_18400.md",
+      "size": 164117
     }
   ]
 }
