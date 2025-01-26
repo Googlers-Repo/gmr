@@ -8,7 +8,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1737855584.417994
+    "timestamp": 1737872780.20601
   },
   "modules": [
     {
@@ -697,14 +697,14 @@
     {
       "id": "iOS_Emoji",
       "name": "iOS 17.4 Emoji font",
-      "version": "v17.4.6",
-      "versionCode": 17406,
+      "version": "v17.4.7",
+      "versionCode": 17407,
       "author": "Keinta15",
       "description": "Systemlessly replaces emoji font with iOS 17.4 Emoji",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1737177197.0,
-      "size": 46426295,
+      "timestamp": 1737858481.0,
+      "size": 46426652,
       "features": {
         "service": true
       },
@@ -730,6 +730,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.6_17406.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.6_17406.md",
           "size": 46426295
+        },
+        {
+          "timestamp": 1737858481.0,
+          "version": "v17.4.7",
+          "versionCode": 17407,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.7_17407.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.7_17407.md",
+          "size": 46426652
         }
       ]
     },
