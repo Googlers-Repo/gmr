@@ -8,7 +8,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1738327136.368771
+    "timestamp": 1738327562.76981
   },
   "modules": [
     {
@@ -282,37 +282,6 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/v2021.11.3_202111030.zip",
           "changelog": "",
           "size": 5180
-        }
-      ]
-    },
-    {
-      "id": "android_enhancer",
-      "name": "Android Enhancer",
-      "version": "v1.4.0",
-      "versionCode": 15,
-      "author": "iamlooper @ github",
-      "description": "A revolutionary android optimizer.",
-      "added": 1723905223.0,
-      "verified": false,
-      "timestamp": 1730894450.0,
-      "size": 2868891,
-      "features": {
-        "service": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1723905223.0,
-        "source": "https://github.com/iamlooper/Android-Enhancer-Module",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1730894450.0,
-          "version": "v1.4.0",
-          "versionCode": 15,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/android_enhancer/v1.4.0_15.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/android_enhancer/v1.4.0_15.md",
-          "size": 2868891
         }
       ]
     },
