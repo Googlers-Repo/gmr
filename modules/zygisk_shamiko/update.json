@@ -1,0 +1,14 @@
+{
+  "id": "zygisk_shamiko",
+  "timestamp": 1736002144.0,
+  "versions": [
+    {
+      "timestamp": 1736002144.0,
+      "version": "3.0-13",
+      "versionCode": 301304,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_shamiko/3.0-13_301304.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_shamiko/3.0-13_301304.md",
+      "size": 4979675
+    }
+  ]
+}

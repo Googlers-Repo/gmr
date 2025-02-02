@@ -1,13 +1,11 @@
 id: zygisk_shamiko
 enable: true
-
 verified: false
 update_to: https://lsposed.github.io/releases/shamiko.json
 source: https://github.com/LSPosed/LSPosed.github.io/releases
-
 require:
-  - zygisksu
-
+- zygisksu
 antifeatures:
-  - ClosedSource
-
+- ClosedSource
+last_update: 1736002144.0
+versions: 1
