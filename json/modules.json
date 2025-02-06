@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1738823388.529719
+    "timestamp": 1738845642.96532
   },
   "modules": [
     {
@@ -1022,14 +1022,14 @@
     {
       "id": "net-switch",
       "name": "Net Switch",
-      "version": "1.1 (43-f500257-release)",
-      "versionCode": 43,
+      "version": "1.2 (54-64b5764-release)",
+      "versionCode": 54,
       "author": "Rem01Gaming",
       "description": "Isolate apps from Internet access.",
       "verified": false,
       "added": 0,
-      "timestamp": 1737343365.0,
-      "size": 14134,
+      "timestamp": 1738815792.0,
+      "size": 18560,
       "features": {
         "service": true,
         "action": true,
@@ -1057,6 +1057,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/net-switch/1.1_43-f500257-release.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/net-switch/1.1_43-f500257-release.md",
           "size": 14134
+        },
+        {
+          "timestamp": 1738815792.0,
+          "version": "1.2 (54-64b5764-release)",
+          "versionCode": 54,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/net-switch/1.2_54-64b5764-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/net-switch/1.2_54-64b5764-release.md",
+          "size": 18560
         }
       ]
     },
