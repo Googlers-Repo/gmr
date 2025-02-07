@@ -9,14 +9,14 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1738909761.609274
+    "timestamp": 1738931969.859488
   },
   "modules": [
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v3.2",
-      "versionCode": 320,
+      "version": "v3.3",
+      "versionCode": 330,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "added": 1723905223.0,
@@ -33,8 +33,8 @@
         "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
       },
       "verified": false,
-      "timestamp": 1738472485.0,
-      "size": 1219310,
+      "timestamp": 1738911029.0,
+      "size": 1253729,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -50,14 +50,6 @@
         ]
       },
       "versions": [
-        {
-          "timestamp": 1733577682.0,
-          "version": "v2.7.1",
-          "versionCode": 271,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7.1_271.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7.1_271.md",
-          "size": 1185982
-        },
         {
           "timestamp": 1734163760.0,
           "version": "v2.8",
@@ -97,6 +89,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.2_320.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.2_320.md",
           "size": 1219310
+        },
+        {
+          "timestamp": 1738911029.0,
+          "version": "v3.3",
+          "versionCode": 330,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.3_330.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.3_330.md",
+          "size": 1253729
         }
       ]
     },
