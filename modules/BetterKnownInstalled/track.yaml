@@ -1,0 +1,13 @@
+id: BetterKnownInstalled
+readme: https://raw.githubusercontent.com/Pixel-Props/BetterKnownInstalled/refs/heads/main/README.md
+source: https://github.com/Pixel-Props/BetterKnownInstalled
+support: https://github.com/Pixel-Props/BetterKnownInstalled/issues
+update_to: https://github.com/Pixel-Props/BetterKnownInstalled.git
+enable: true
+
+note:
+  title: Important!
+  message: Installation from recovery is not supported. You must install this module from within a running Android environment (Magisk/KernelSU/APatch)
+
+options:
+  disableRemoteMetadata: true
