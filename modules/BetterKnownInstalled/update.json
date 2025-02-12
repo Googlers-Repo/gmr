@@ -1,0 +1,14 @@
+{
+  "id": "BetterKnownInstalled",
+  "timestamp": 1738867123.0,
+  "versions": [
+    {
+      "timestamp": 1738867123.0,
+      "version": "v1.3.3",
+      "versionCode": 1337,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.3.3_1337.zip",
+      "changelog": "",
+      "size": 1793757
+    }
+  ]
+}

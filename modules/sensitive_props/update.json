@@ -1,0 +1,14 @@
+{
+  "id": "sensitive_props",
+  "timestamp": 1738862630.0,
+  "versions": [
+    {
+      "timestamp": 1738862630.0,
+      "version": "v6.5.0-hexpatch",
+      "versionCode": 60507,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/sensitive_props/v6.5.0-hexpatch_60507.zip",
+      "changelog": "",
+      "size": 22599
+    }
+  ]
+}

@@ -9,9 +9,46 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1739364034.714929
+    "timestamp": 1739370426.471436
   },
   "modules": [
+    {
+      "id": "BetterKnownInstalled",
+      "name": "BetterKnownInstalled (BKI)",
+      "version": "v1.3.3",
+      "versionCode": 1337,
+      "author": "@T3SL4",
+      "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml and cleaning packaga-warnings.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
+      "support": "https://github.com/Pixel-Props/BetterKnownInstalled/issues",
+      "readme": "https://raw.githubusercontent.com/Pixel-Props/BetterKnownInstalled/refs/heads/main/README.md",
+      "note": {
+        "message": "Installation from recovery is not supported. You must install this module from within a running Android environment (Magisk/KernelSU/APatch)",
+        "title": "Important!"
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1738867123.0,
+      "size": 1793757,
+      "features": {
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Pixel-Props/BetterKnownInstalled",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1738867123.0,
+          "version": "v1.3.3",
+          "versionCode": 1337,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.3.3_1337.zip",
+          "changelog": "",
+          "size": 1793757
+        }
+      ]
+    },
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
@@ -1202,6 +1239,40 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/v1.1.4_10104.zip",
           "changelog": "",
           "size": 535557
+        }
+      ]
+    },
+    {
+      "id": "sensitive_props",
+      "name": "Sensitive Props Mod",
+      "version": "v6.5.0-hexpatch",
+      "versionCode": 60507,
+      "author": "@T3SL4",
+      "description": "Reset sensitive properties to a safe state and try to bypass Safetynet / Play Integrity.",
+      "support": "https://github.com/Pixel-Props/sensitive-props/issues",
+      "readme": "https://raw.githubusercontent.com/Pixel-Props/sensitive-props/refs/heads/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1738862630.0,
+      "size": 22599,
+      "features": {
+        "service": true,
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Pixel-Props/sensitive-props",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1738862630.0,
+          "version": "v6.5.0-hexpatch",
+          "versionCode": 60507,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/sensitive_props/v6.5.0-hexpatch_60507.zip",
+          "changelog": "",
+          "size": 22599
         }
       ]
     },
