@@ -1,6 +1,6 @@
 {
   "id": "mmrl_wpd",
-  "enable": false,
+  "enable": true,
   "verified": true,
   "update_to": "https://raw.githubusercontent.com/Googlers-Repo/wpd/refs/heads/master/update.json",
   "source": "https://github.com/Googlers-Repo/wpd.git",
