@@ -23,7 +23,7 @@ env:
   STATE: ${{ inputs.state }}
 
 jobs:
-  disable:
+  change_state:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
