@@ -10,6 +10,12 @@ on:
         description: 'Reason for disabling'
         default: 'Reason was not specified.'
         required: false
+      state:
+        type: boolean
+        description: 'Enable/Disable'
+        required: true
+        default: true
+
 
 env:
   TRACK_FILE_JSON: modules/${{ inputs.module_id }}/track.json
