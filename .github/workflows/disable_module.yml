@@ -31,13 +31,13 @@ jobs:
       - name: Modify JSON file
         run: |
           if [ -f "$TRACK_FILE_JSON" ]; then
-            jq '.enable = false' "$TRACK_FILE_JSON" > tmp.json && mv tmp.json "$TRACK_FILE_JSON"
+            jq '.enable = ${{ inputs.state }}' "$TRACK_FILE_JSON" > tmp.json && mv tmp.json "$TRACK_FILE_JSON"
           fi
 
       - name: Modify YAML file
         run: |
           if [ -f "$TRACK_FILE_YAML" ]; then
-            yq e '.enable = false' -i "$TRACK_FILE_YAML"
+            yq e '.enable = ${{ inputs.state }}' -i "$TRACK_FILE_YAML"
           fi
 
       - name: Commit and push changes
