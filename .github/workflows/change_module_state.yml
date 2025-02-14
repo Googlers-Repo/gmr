@@ -16,7 +16,6 @@ on:
         required: true
         default: true
 
-
 env:
   TRACK_FILE_JSON: modules/${{ inputs.module_id }}/track.json
   TRACK_FILE_YAML: modules/${{ inputs.module_id }}/track.yaml
@@ -41,11 +40,13 @@ jobs:
             yq e '.enable = ${{ inputs.state }}' -i "$TRACK_FILE_YAML"
           fi
 
+      - name: Configure Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
           [ -f "$TRACK_FILE_JSON" ] && git add "$TRACK_FILE_JSON" || true
           [ -f "$TRACK_FILE_YAML" ] && git add "$TRACK_FILE_YAML" || true
 
