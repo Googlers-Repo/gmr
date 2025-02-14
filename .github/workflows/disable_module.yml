@@ -44,6 +44,9 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add "$TRACK_FILE_JSON" "$TRACK_FILE_YAML" || true
+
+          [ -f "$TRACK_FILE_JSON" ] && git add "$TRACK_FILE_JSON" || true
+          [ -f "$TRACK_FILE_YAML" ] && git add "$TRACK_FILE_YAML" || true
+          
           git commit -m "Disable ${{ inputs.module_id }}" -m "${{ inputs.reason }}" || exit 0
           git push
