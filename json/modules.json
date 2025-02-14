@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1739547973.842986
+    "timestamp": 1739548381.482685
   },
   "modules": [
     {
@@ -917,8 +917,8 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "4.7.7",
-      "versionCode": 459,
+      "version": "5.7.7",
+      "versionCode": 460,
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
@@ -930,33 +930,31 @@
       "support": "https://github.com/Googlers-Repo/wpd/issues",
       "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
       "verified": true,
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/icon.webp",
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "cover": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/cover.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.jpg"
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/5.webp",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/6.webp"
       ],
-      "timestamp": 1735764644.0,
-      "size": 462291,
+      "license": "MIT",
+      "timestamp": 1739547906.0,
+      "size": 78894,
       "features": {
         "action": true,
         "webroot": true
       },
       "track": {
-        "type": "GIT",
+        "type": "ONLINE_JSON",
         "added": 1445340430.7142262,
         "source": "https://github.com/Googlers-Repo/wpd.git",
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1733334173.0,
-          "version": "4.5.4",
-          "versionCode": 454,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.4_454.zip",
-          "changelog": "",
-          "size": 87500
-        },
         {
           "timestamp": 1733339350.0,
           "version": "4.5.5",
@@ -996,6 +994,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.7.7_459.zip",
           "changelog": "",
           "size": 462291
+        },
+        {
+          "timestamp": 1739547906.0,
+          "version": "5.7.7",
+          "versionCode": 460,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/5.7.7_460.zip",
+          "changelog": "",
+          "size": 78894
         }
       ]
     },
