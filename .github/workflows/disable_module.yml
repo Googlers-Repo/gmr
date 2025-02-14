@@ -22,7 +22,7 @@ env:
   TRACK_FILE_YAML: modules/${{ inputs.module_id }}/track.yaml
 
 jobs:
-  disable_re_malwack:
+  disable:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -45,7 +45,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add "$TRACK_FILE_JSON" "$TRACK_FILE_YAML" || true
-          git commit -m 'Disable ${{ inputs.module_id }}
-          
-          ${{ inputs.reason }}' || exit 0
+          git commit -m "Disable ${{ inputs.module_id }}" -m "${{ inputs.reason }}" || exit 0
           git push
