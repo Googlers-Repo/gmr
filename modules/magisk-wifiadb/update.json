@@ -9,6 +9,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/1.0.2_3.zip",
       "changelog": "",
       "size": 7860
+    },
+    {
+      "timestamp": 1739639131.0,
+      "version": "1.1.0",
+      "versionCode": 4,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/1.1.0_4.zip",
+      "changelog": "",
+      "size": 3747
     }
   ]
 }

@@ -15,6 +15,14 @@
       "versionCode": 10104,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.4_10104.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1739631768.0,
+      "version": "v1.2.0",
+      "versionCode": 10200,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.2.0_10200.zip",
+      "changelog": "",
+      "size": 24544
     }
   ]
 }

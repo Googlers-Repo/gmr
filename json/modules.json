@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1739622996.340907
+    "timestamp": 1739643914.163656
   },
   "modules": [
     {
@@ -864,18 +864,16 @@
     {
       "id": "magisk-wifiadb",
       "name": "MagiskWiFiADB",
-      "version": "1.0.2",
-      "versionCode": 3,
+      "version": "1.1.0",
+      "versionCode": 4,
       "author": "mrh929",
       "description": "A module that maintains ADB availability.",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1730019938.0,
-      "size": 7860,
+      "timestamp": 1739639131.0,
+      "size": 3747,
       "features": {
-        "service": true,
-        "post_fs_data": true,
-        "resetprop": true
+        "service": true
       },
       "track": {
         "type": "GIT",
@@ -891,6 +889,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/1.0.2_3.zip",
           "changelog": "",
           "size": 7860
+        },
+        {
+          "timestamp": 1739639131.0,
+          "version": "1.1.0",
+          "versionCode": 4,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/1.1.0_4.zip",
+          "changelog": "",
+          "size": 3747
         }
       ]
     },
@@ -1404,10 +1410,10 @@
     {
       "id": "systemless-hosts-KernelSU-module",
       "name": "systemless hosts KernelSU module",
-      "version": "v1.1.4",
-      "versionCode": 10104,
+      "version": "v1.2.0",
+      "versionCode": 10200,
       "author": "symbuzzer (avalibeyaz.com/github)",
-      "description": "Required module to use applications such as AdAway on KernelSU and APatch",
+      "description": "Required module to use applications such as AdAway on KernelSU(-Next) and APatch",
       "added": 1445340430.7142262,
       "categories": [
         "Adblocking and Hosts Files",
@@ -1417,8 +1423,8 @@
       "support": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues",
       "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
       "verified": false,
-      "timestamp": 1713278013.0,
-      "size": 24154,
+      "timestamp": 1739631768.0,
+      "size": 24544,
       "features": {
         "service": true,
         "webroot": true
@@ -1443,6 +1449,14 @@
           "versionCode": 10104,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.4_10104.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1739631768.0,
+          "version": "v1.2.0",
+          "versionCode": 10200,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.2.0_10200.zip",
+          "changelog": "",
+          "size": 24544
         }
       ]
     },
