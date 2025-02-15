@@ -1,9 +1,10 @@
 {
-    "id": "Re-Malwack",
-    "enable": true,
-    "verified": true,
-    "update_to": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/update.json",
-    "source": "https://github.com/ZG089/Re-Malwack.git",
-    "added": 1732300923.536364
-  }
-  
+  "id": "Re-Malwack",
+  "enable": true,
+  "verified": true,
+  "update_to": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/update.json",
+  "source": "https://github.com/ZG089/Re-Malwack.git",
+  "added": 1732300923.536364,
+  "last_update": 1734878287.0,
+  "versions": 1
+}

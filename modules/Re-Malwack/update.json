@@ -1,0 +1,14 @@
+{
+  "id": "Re-Malwack",
+  "timestamp": 1734878287.0,
+  "versions": [
+    {
+      "timestamp": 1734878287.0,
+      "version": "v5.3.0",
+      "versionCode": 530,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v5.3.0_530.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v5.3.0_530.md",
+      "size": 47546
+    }
+  ]
+}
