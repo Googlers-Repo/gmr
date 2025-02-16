@@ -1,5 +1,5 @@
 {
-  "id": "gmr",
+  "id": "grdoglgmr",
   "name": "Googlers Magisk Repo",
   "website": "https://mmrl.dergoogler.com",
   "support": "https://github.com/Googlers-Repo/gmr/issues",
@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1739709548.921696
+    "timestamp": 1739732120.423486
   },
   "modules": [
     {
@@ -36,7 +36,8 @@
         "type": "GIT",
         "added": null,
         "source": "https://github.com/Pixel-Props/BetterKnownInstalled",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/track.yaml"
       },
       "versions": [
         {
@@ -83,7 +84,8 @@
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
         "source": "https://github.com/ZG089/Re-Malwack.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/track.json"
       },
       "versions": [
         {
@@ -131,7 +133,8 @@
         "antifeatures": [
           "NonFreeAdd",
           "NonFreeDep"
-        ]
+        ],
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/TA_utl/track.json"
       },
       "versions": [
         {
@@ -209,7 +212,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/Magisk-Modules-Repo/acp.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/acp/track.json"
       },
       "versions": [
         {
@@ -242,7 +246,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/Magisk-Modules-Repo/adb-ndk",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/adb-ndk/track.json"
       },
       "versions": [
         {
@@ -283,7 +288,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/Zackptg5/Audio-Modification-Library.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/aml/track.json"
       },
       "versions": [
         {
@@ -350,7 +356,8 @@
         "antifeatures": [
           "Tracking",
           "NoSourceSince"
-        ]
+        ],
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/track.json"
       },
       "versions": [
         {
@@ -405,7 +412,8 @@
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
         "source": "https://github.com/bindhosts/bindhosts",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/bindhosts/track.json"
       },
       "versions": [
         {
@@ -480,7 +488,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/busybox-ndk/track.json"
       },
       "versions": [
         {
@@ -516,7 +525,8 @@
         "type": "GIT",
         "added": 1706465625.561501,
         "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/ccbins/track.json"
       },
       "versions": [
         {
@@ -574,7 +584,8 @@
         "type": "ONLINE_JSON",
         "added": null,
         "source": "https://github.com/Vaz15k/Cubic-AdBlock",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
         {
@@ -648,7 +659,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/VR-25/djs.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/djs/track.json"
       },
       "versions": [
         {
@@ -675,7 +687,8 @@
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
         "source": "https://github.com/j-hc/FlagSecurePatcher",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/track.json"
       },
       "versions": [
         {
@@ -719,7 +732,8 @@
         "type": "GIT",
         "added": null,
         "source": "https://github.com/Googlers-Repo/gcc",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/track.json"
       },
       "versions": [
         {
@@ -766,7 +780,8 @@
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
         "source": "https://github.com/Keinta15/Magisk-iOS-Emoji",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/track.json"
       },
       "versions": [
         {
@@ -824,7 +839,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/symbuzzer/livebootmodule",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/track.json"
       },
       "versions": [
         {
@@ -879,7 +895,8 @@
         "type": "GIT",
         "added": 1723905223.0,
         "source": "https://github.com/mrh929/magisk-wifiadb",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/track.json"
       },
       "versions": [
         {
@@ -939,7 +956,8 @@
         "type": "ONLINE_JSON",
         "added": 1705238797.0266,
         "source": "https://github.com/DerGoogler/MMRL-CLI",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/mmrl/track.json"
       },
       "versions": [
         {
@@ -1005,7 +1023,8 @@
         "type": "ONLINE_JSON",
         "added": 1445340430.7142262,
         "source": "https://github.com/Googlers-Repo/wpd.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/track.json"
       },
       "versions": [
         {
@@ -1079,7 +1098,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/Magisk-Modules-Repo/nano-ndk",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/nano-ndk/track.json"
       },
       "versions": [
         {
@@ -1135,7 +1155,8 @@
         "type": "ONLINE_JSON",
         "added": null,
         "source": "https://github.com/Rem01Gaming/net-switch",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/net-switch/track.json"
       },
       "versions": [
         {
@@ -1206,7 +1227,8 @@
         "type": "ONLINE_JSON",
         "added": 1445340430.7142262,
         "source": "https://github.com/chiteroman/PlayIntegrityFix",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/track.json"
       },
       "versions": [
         {
@@ -1281,7 +1303,8 @@
         "type": "GIT",
         "added": 1718573490.991985,
         "source": "https://github.com/DerGoogler/powershell.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/powershell/track.json"
       },
       "versions": [
         {
@@ -1322,7 +1345,8 @@
         "type": "GIT",
         "added": null,
         "source": "https://github.com/Pixel-Props/sensitive-props",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/sensitive_props/track.yaml"
       },
       "versions": [
         {
@@ -1370,7 +1394,8 @@
         "type": "ONLINE_JSON",
         "added": 1723905223,
         "source": "https://github.com/sidex15/ksu_module_susfs",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/track.yaml"
       },
       "versions": [
         {
@@ -1433,7 +1458,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/track.json"
       },
       "versions": [
         {
@@ -1487,7 +1513,8 @@
         "source": "https://github.com/5ec1cff/TrickyStore",
         "antifeatures": [
           "NoSourceSince"
-        ]
+        ],
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/tricky_store/track.json"
       },
       "versions": [
         {
@@ -1530,7 +1557,8 @@
         "type": "GIT",
         "added": 1717861375.501469,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/track.json"
       },
       "versions": [
         {
@@ -1577,7 +1605,8 @@
         "type": "ONLINE_JSON",
         "added": null,
         "source": "https://github.com/reveny/Android-VBMeta-Fixer",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/track.json"
       },
       "versions": [
         {
@@ -1611,7 +1640,8 @@
         "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/Magisk-Modules-Repo/zipsigner",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/zipsigner/track.json"
       },
       "versions": [
         {
@@ -1650,7 +1680,8 @@
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
         "source": "https://github.com/snake-4/Zygisk-Assistant",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/track.json"
       },
       "versions": [
         {
@@ -1694,7 +1725,8 @@
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
         "source": "https://github.com/j-hc/zygisk-detach",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/track.json"
       },
       "versions": [
         {
@@ -1772,7 +1804,8 @@
         "source": "https://github.com/LSPosed",
         "antifeatures": [
           "ClosedSource"
-        ]
+        ],
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/track.yaml"
       },
       "versions": [
         {
@@ -1819,7 +1852,8 @@
         "source": "https://github.com/Dr-TSNG/ZygiskNext",
         "antifeatures": [
           "ClosedSource"
-        ]
+        ],
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisksu/track.yaml"
       },
       "versions": [
         {
