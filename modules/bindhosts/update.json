@@ -3,14 +3,6 @@
   "timestamp": 1733301165.0,
   "versions": [
     {
-      "timestamp": 1737724663.0,
-      "version": "v1.9.1",
-      "versionCode": 191,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.1_191.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.1_191.md",
-      "size": 47433
-    },
-    {
       "timestamp": 1738252038.0,
       "version": "v1.9.2",
       "versionCode": 192,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.6_196.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.6_196.md",
       "size": 51570
+    },
+    {
+      "timestamp": 1739706919.0,
+      "version": "v1.9.7",
+      "versionCode": 197,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.7_197.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.7_197.md",
+      "size": 51599
     }
   ]
 }
