@@ -5,16 +5,16 @@
   "update_to": "https://github.com/Zackptg5/Audio-Modification-Library.git",
   "source": "https://github.com/Zackptg5/Audio-Modification-Library.git",
   "support": "https://github.com/Zackptg5/Audio-Modification-Library/issues",
-  "require": [
-    "acp"
-  ],
   "categories": [
     "Audio Enhancements",
     "Advanced Audio Mods",
     "App Additions and Features"
   ],
   "readme": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/README.md",
+  "require": [
+    "acp"
+  ],
   "added": 1445340430.7142262,
   "last_update": 1690235714.0,
-  "versions": 4
+  "versions": 5
 }

@@ -32,6 +32,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v1.1.4_10104.zip",
       "changelog": "",
       "size": 23941
+    },
+    {
+      "timestamp": 1690235714.0,
+      "version": "v6.5.0-hexpatch",
+      "versionCode": 60507,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v6.5.0-hexpatch_60507.zip",
+      "changelog": "",
+      "size": 23941
     }
   ]
 }
