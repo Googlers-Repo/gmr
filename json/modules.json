@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1740248774.791133
+    "timestamp": 1740275148.050711
   },
   "modules": [
     {
@@ -1664,14 +1664,14 @@
     {
       "id": "zygisk-assistant",
       "name": "Zygisk Assistant",
-      "version": "v2.1.3 (7b35d36-release)",
-      "versionCode": 213,
+      "version": "v2.1.4 (1013f8a-release)",
+      "versionCode": 214,
       "author": "snake-4",
       "description": "A Zygisk module to hide root.",
       "added": 1733301165.0,
       "verified": false,
-      "timestamp": 1723905223.0,
-      "size": 396665,
+      "timestamp": 1740269915.0,
+      "size": 392961,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -1692,6 +1692,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.md",
           "size": 396665
+        },
+        {
+          "timestamp": 1740269915.0,
+          "version": "v2.1.4 (1013f8a-release)",
+          "versionCode": 214,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.4_1013f8a-release_214.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.4_1013f8a-release_214.md",
+          "size": 392961
         }
       ]
     },

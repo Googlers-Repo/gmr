@@ -9,6 +9,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.md",
       "size": 396665
+    },
+    {
+      "timestamp": 1740269915.0,
+      "version": "v2.1.4 (1013f8a-release)",
+      "versionCode": 214,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.4_1013f8a-release_214.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.4_1013f8a-release_214.md",
+      "size": 392961
     }
   ]
 }
