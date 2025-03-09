@@ -1,4 +1,6 @@
-enable: true
 id: system_app_nuker
+enable: true
 update_to: https://github.com/ChiseWaguri/systemapp_nuker.git
 source: https://github.com/ChiseWaguri/systemapp_nuker
+last_update: 1741510795.0
+versions: 1

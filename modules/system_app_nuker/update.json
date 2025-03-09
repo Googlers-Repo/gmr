@@ -1,0 +1,14 @@
+{
+  "id": "system_app_nuker",
+  "timestamp": 1741510795.0,
+  "versions": [
+    {
+      "timestamp": 1741510795.0,
+      "version": "v1.0",
+      "versionCode": 100,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.0_100.zip",
+      "changelog": "",
+      "size": 1180560
+    }
+  ]
+}

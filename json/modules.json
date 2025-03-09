@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1741501409.132802
+    "timestamp": 1741510903.00899
   },
   "modules": [
     {
@@ -1446,6 +1446,40 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.md",
           "size": 892829
+        }
+      ]
+    },
+    {
+      "id": "system_app_nuker",
+      "name": "App Nuker",
+      "version": "v1.0",
+      "versionCode": 100,
+      "author": "ChiseWaguri",
+      "description": "Simple system app debloater",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1741510795.0,
+      "size": 1180560,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/ChiseWaguri/systemapp_nuker",
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1741510795.0,
+          "version": "v1.0",
+          "versionCode": 100,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.0_100.zip",
+          "changelog": "",
+          "size": 1180560
         }
       ]
     },
