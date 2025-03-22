@@ -16,6 +16,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/v1.1.4_10104.zip",
       "changelog": "",
       "size": 535557
+    },
+    {
+      "timestamp": 1718574711.0,
+      "version": "v6.5.0-hexpatch",
+      "versionCode": 60507,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/v6.5.0-hexpatch_60507.zip",
+      "changelog": "",
+      "size": 535557
     }
   ]
 }

@@ -6,12 +6,12 @@
   "source": "https://github.com/DerGoogler/powershell.git",
   "support": "https://github.com/DerGoogler/powershell/issues",
   "donate": "https://github.com/sponsors/DerGoogler",
-  "cover": "https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png",
   "categories": [
     "System"
   ],
+  "cover": "https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png",
   "readme": "https://raw.githubusercontent.com/DerGoogler/powershell/main/README.md",
   "added": 1718573490.991985,
   "last_update": 1718574711.0,
-  "versions": 2
+  "versions": 3
 }
