@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.7_497-b7796a7-release.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.7_497-b7796a7-release.md",
       "size": 3455869
+    },
+    {
+      "timestamp": 1743093744.0,
+      "version": "1.2.8 (512-4b5d6ad-release)",
+      "versionCode": 512,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.8_512-4b5d6ad-release.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.8_512-4b5d6ad-release.md",
+      "size": 3519779
     }
   ]
 }
