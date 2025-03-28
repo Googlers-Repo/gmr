@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1743143504.560497
+    "timestamp": 1743165783.758433
   },
   "modules": [
     {
@@ -109,8 +109,8 @@
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v3.6",
-      "versionCode": 360,
+      "version": "v3.7",
+      "versionCode": 370,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "added": 1723905223.0,
@@ -127,8 +127,8 @@
         "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
       },
       "verified": false,
-      "timestamp": 1741244175.0,
-      "size": 1237416,
+      "timestamp": 1743160152.0,
+      "size": 1243085,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -150,14 +150,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/TA_utl/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1738472485.0,
-          "version": "v3.2",
-          "versionCode": 320,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.2_320.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.2_320.md",
-          "size": 1219310
-        },
         {
           "timestamp": 1738911029.0,
           "version": "v3.3",
@@ -197,6 +189,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.6_360.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.6_360.md",
           "size": 1237416
+        },
+        {
+          "timestamp": 1743160152.0,
+          "version": "v3.7",
+          "versionCode": 370,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.7_370.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.7_370.md",
+          "size": 1243085
         }
       ]
     },
