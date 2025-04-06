@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1743943183.941037
+    "timestamp": 1743964082.526849
   },
   "modules": [
     {
@@ -1273,8 +1273,8 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v18.8",
-      "versionCode": 18800,
+      "version": "v18.9",
+      "versionCode": 18900,
       "author": "chiteroman",
       "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
       "added": 1445340430.7142262,
@@ -1299,8 +1299,8 @@
         }
       },
       "verified": false,
-      "timestamp": 1742245055.0,
-      "size": 179896,
+      "timestamp": 1743961006.0,
+      "size": 177752,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1323,14 +1323,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1736972105.0,
-          "version": "v18.3",
-          "versionCode": 18300,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.3_18300.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.3_18300.md",
-          "size": 197622
-        },
         {
           "timestamp": 1737412177.0,
           "version": "v18.4",
@@ -1370,6 +1362,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.8_18800.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.8_18800.md",
           "size": 179896
+        },
+        {
+          "timestamp": 1743961006.0,
+          "version": "v18.9",
+          "versionCode": 18900,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.9_18900.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.9_18900.md",
+          "size": 177752
         }
       ]
     },
