@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1744202792.928443
+    "timestamp": 1744223504.363392
   },
   "modules": [
     {
@@ -118,8 +118,8 @@
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v3.7",
-      "versionCode": 370,
+      "version": "v3.8",
+      "versionCode": 380,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "added": 1723905223.0,
@@ -136,8 +136,8 @@
         "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
       },
       "verified": false,
-      "timestamp": 1743160152.0,
-      "size": 1243085,
+      "timestamp": 1744208975.0,
+      "size": 1250054,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -159,14 +159,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/TA_utl/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1738911029.0,
-          "version": "v3.3",
-          "versionCode": 330,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.3_330.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.3_330.md",
-          "size": 1253729
-        },
         {
           "timestamp": 1738992237.0,
           "version": "v3.3.1",
@@ -206,6 +198,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.7_370.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.7_370.md",
           "size": 1243085
+        },
+        {
+          "timestamp": 1744208975.0,
+          "version": "v3.8",
+          "versionCode": 380,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.8_380.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.8_380.md",
+          "size": 1250054
         }
       ]
     },
@@ -419,8 +419,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.0.0",
-      "versionCode": 200,
+      "version": "v2.0.1",
+      "versionCode": 201,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165.0,
@@ -439,8 +439,8 @@
       ],
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1742639470.0,
-      "size": 77407,
+      "timestamp": 1744208140.0,
+      "size": 88217,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -461,14 +461,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/bindhosts/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1738982697.0,
-          "version": "v1.9.5",
-          "versionCode": 195,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.5_195.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.5_195.md",
-          "size": 47629
-        },
         {
           "timestamp": 1739580650.0,
           "version": "v1.9.6",
@@ -508,6 +500,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.0_200.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.0_200.md",
           "size": 77407
+        },
+        {
+          "timestamp": 1744208140.0,
+          "version": "v2.0.1",
+          "versionCode": 201,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.1_201.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.1_201.md",
+          "size": 88217
         }
       ]
     },
