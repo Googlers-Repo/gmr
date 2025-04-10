@@ -14,6 +14,6 @@ manager:
       - bindhosts
   magisk: *m
 source: https://github.com/sidex15/ksu_module_susfs
-update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/refs/heads/main/update.json
+update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/refs/heads/v1.5.2%2B/update.json
 verified: false
 versions: 4
