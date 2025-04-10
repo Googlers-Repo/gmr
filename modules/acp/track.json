@@ -5,16 +5,16 @@
   "update_to": "https://github.com/Magisk-Modules-Repo/acp.git",
   "source": "https://github.com/Magisk-Modules-Repo/acp.git",
   "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
-  "require": [
-    "aml"
-  ],
   "categories": [
     "Audio Enhancements",
     "Advanced Audio Mods",
     "App Additions and Features"
   ],
   "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
+  "require": [
+    "aml"
+  ],
+  "added": 1445340430.7142262,
   "last_update": 1643646579.0,
-  "added": 1445340430.714226137,
-  "versions": 1
+  "versions": 2
 }

@@ -8,6 +8,14 @@
       "versionCode": 39,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/acp/v2.5_39.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1643646579.0,
+      "version": "7.4.2",
+      "versionCode": 742,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/acp/7.4.2_742.zip",
+      "changelog": "",
+      "size": 3796149
     }
   ]
 }
