@@ -33,6 +33,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.3_30003.zip",
       "changelog": "",
       "size": 509442
+    },
+    {
+      "timestamp": 1744281224.0,
+      "version": "v4.0.0",
+      "versionCode": 40000,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v4.0.0_40000.zip",
+      "changelog": "",
+      "size": 499989
     }
   ]
 }
