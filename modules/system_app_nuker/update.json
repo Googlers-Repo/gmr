@@ -33,6 +33,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.3_113.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.3_113.md",
       "size": 1208663
+    },
+    {
+      "timestamp": 1745233168.0,
+      "version": "v1.1.4",
+      "versionCode": 114,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.4_114.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.4_114.md",
+      "size": 1210236
     }
   ]
 }
