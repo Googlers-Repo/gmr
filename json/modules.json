@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1745239492.228939
+    "timestamp": 1745260237.242147
   },
   "modules": [
     {
@@ -1175,8 +1175,8 @@
     {
       "id": "nano-ndk",
       "name": "Nano for Android NDK",
-      "version": "8.2",
-      "versionCode": 8200,
+      "version": "8.4",
+      "versionCode": 8400,
       "author": "osm0sis @ xda-developers",
       "description": "Static arm/arm64 nano binary for Android built with the NDK",
       "added": 1445340430.7142262,
@@ -1187,8 +1187,8 @@
       "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
       "verified": false,
-      "timestamp": 1725582337.0,
-      "size": 863157,
+      "timestamp": 1743640804.0,
+      "size": 865898,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1227,6 +1227,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/v1.1.4_10104.zip",
           "changelog": "",
           "size": 863157
+        },
+        {
+          "timestamp": 1743640804.0,
+          "version": "v1.2.0",
+          "versionCode": 10200,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/v1.2.0_10200.zip",
+          "changelog": "",
+          "size": 865898
         }
       ]
     },
