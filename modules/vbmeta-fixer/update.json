@@ -9,6 +9,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.0.5_105.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.0.5_105.md",
       "size": 3138790
+    },
+    {
+      "timestamp": 1745345451.0,
+      "version": "1.1.0",
+      "versionCode": 110,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.1.0_110.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.1.0_110.md",
+      "size": 3235345
     }
   ]
 }

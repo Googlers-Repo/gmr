@@ -1,9 +1,9 @@
 {
-  "enable": true,
   "id": "vbmeta-fixer",
-  "last_update": 1730300984,
+  "enable": true,
+  "verified": true,
   "update_to": "https://raw.githubusercontent.com/reveny/Android-VBMeta-Fixer/refs/heads/main/update.json",
   "source": "https://github.com/reveny/Android-VBMeta-Fixer",
-  "verified": true,
-  "versions": 1
+  "last_update": 1745345451.0,
+  "versions": 2
 }
