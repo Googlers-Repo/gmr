@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1745671241.998872
+    "timestamp": 1745692094.559982
   },
   "modules": [
     {
@@ -831,20 +831,22 @@
     },
     {
       "id": "iOS_Emoji",
-      "name": "iOS 17.4 Emoji font",
-      "version": "v17.4.7",
-      "versionCode": 17407,
+      "name": "iOS 18.4 Emoji font",
+      "version": "v18.4",
+      "versionCode": 18400,
       "author": "Keinta15",
-      "description": "Systemlessly replaces emoji font with iOS 17.4 Emoji",
+      "description": "Systemlessly replaces emoji font with iOS 18.4 Emoji",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1737858481.0,
-      "size": 46426652,
+      "timestamp": 1745678577.0,
+      "size": 42415955,
       "permissions": [
-        "magisk.permission.SERVICE"
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION"
       ],
       "features": {
-        "service": true
+        "service": true,
+        "action": true
       },
       "track": {
         "type": "ONLINE_JSON",
@@ -877,6 +879,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.7_17407.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.7_17407.md",
           "size": 46426652
+        },
+        {
+          "timestamp": 1745678577.0,
+          "version": "v18.4",
+          "versionCode": 18400,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4_18400.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4_18400.md",
+          "size": 42415955
         }
       ]
     },

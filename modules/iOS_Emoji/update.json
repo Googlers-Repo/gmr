@@ -25,6 +25,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.7_17407.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.7_17407.md",
       "size": 46426652
+    },
+    {
+      "timestamp": 1745678577.0,
+      "version": "v18.4",
+      "versionCode": 18400,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4_18400.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4_18400.md",
+      "size": 42415955
     }
   ]
 }
