@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1745822397.454366
+    "timestamp": 1745844911.807713
   },
   "modules": [
     {
@@ -427,8 +427,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.0.1",
-      "versionCode": 201,
+      "version": "v2.0.2",
+      "versionCode": 202,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165.0,
@@ -447,8 +447,8 @@
       ],
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1744208140.0,
-      "size": 88217,
+      "timestamp": 1745837964.0,
+      "size": 101192,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -469,14 +469,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/bindhosts/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1739580650.0,
-          "version": "v1.9.6",
-          "versionCode": 196,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.6_196.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.9.6_196.md",
-          "size": 51570
-        },
         {
           "timestamp": 1739706919.0,
           "version": "v1.9.7",
@@ -516,6 +508,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.1_201.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.1_201.md",
           "size": 88217
+        },
+        {
+          "timestamp": 1745837964.0,
+          "version": "v2.0.2",
+          "versionCode": 202,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.2_202.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.2_202.md",
+          "size": 101192
         }
       ]
     },
@@ -601,8 +601,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.46",
-      "versionCode": 2046,
+      "version": "v2.47",
+      "versionCode": 2047,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -631,8 +631,8 @@
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1745239483.845934,
-      "size": 6953662,
+      "timestamp": 1745844903.344999,
+      "size": 6974501,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -641,14 +641,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1741005727.206731,
-          "version": "v2.41",
-          "versionCode": 2041,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.41_2041.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.41_2041.md",
-          "size": 6971119
-        },
         {
           "timestamp": 1741610627.867417,
           "version": "v2.42",
@@ -688,6 +680,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.46_2046.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.46_2046.md",
           "size": 6953662
+        },
+        {
+          "timestamp": 1745844903.344999,
+          "version": "v2.47",
+          "versionCode": 2047,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.47_2047.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.47_2047.md",
+          "size": 6974501
         }
       ]
     },
