@@ -9,5 +9,5 @@ manager:
     - systemless-hosts-KernelSU-module
   kernelsu: *id001
   ksunext: *id001
-last_update: 1747054190.783355
+last_update: 1747659024.941768
 versions: 6
