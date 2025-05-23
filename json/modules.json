@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1747965309.248102
+    "timestamp": 1747982000.109829
   },
   "modules": [
     {
@@ -1768,8 +1768,8 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.7",
-      "versionCode": 1507,
+      "version": "v1.5.9",
+      "versionCode": 1509,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "added": 1717861375.501469,
@@ -1777,8 +1777,8 @@
       "license": "AGPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
       "verified": false,
-      "timestamp": 1729236859.0,
-      "size": 19770,
+      "timestamp": 1746019808.0,
+      "size": 20087,
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP"
@@ -1817,6 +1817,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.2_8200.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.2_8200.md",
           "size": 19770
+        },
+        {
+          "timestamp": 1746019808.0,
+          "version": "8.4",
+          "versionCode": 8400,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.4_8400.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.4_8400.md",
+          "size": 20087
         }
       ]
     },
