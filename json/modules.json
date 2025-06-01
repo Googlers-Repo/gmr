@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1748759566.440067
+    "timestamp": 1748781910.932423
   },
   "modules": [
     {
@@ -1964,8 +1964,8 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.20.0",
-      "versionCode": 27,
+      "version": "v1.20.1",
+      "versionCode": 28,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
@@ -1981,8 +1981,8 @@
         "zygisk-assistant"
       ],
       "verified": false,
-      "timestamp": 1744751428.0,
-      "size": 176813,
+      "timestamp": 1748779842.0,
+      "size": 178007,
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
@@ -2001,13 +2001,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1718898770.0,
-          "version": "v1.18.0",
-          "versionCode": 22,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.18.0_22.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.18.0_22.md"
-        },
         {
           "timestamp": 1735647220.0,
           "version": "v1.19.0",
@@ -2047,6 +2040,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.20.0_27.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.20.0_27.md",
           "size": 176813
+        },
+        {
+          "timestamp": 1748779842.0,
+          "version": "v1.20.1",
+          "versionCode": 28,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.20.1_28.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.20.1_28.md",
+          "size": 178007
         }
       ]
     },
