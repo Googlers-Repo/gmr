@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1749321054.346059
+    "timestamp": 1749331880.379058
   },
   "modules": [
     {
@@ -1100,11 +1100,6 @@
         "Miscellaneous"
       ],
       "support": "https://github.com/Googlers-Repo/wpd/issues",
-      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
-      "verified": true,
-      "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/icon.webp",
-      "donate": "https://github.com/sponsors/DerGoogler",
-      "cover": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/cover.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.webp",
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.webp",
@@ -1113,6 +1108,11 @@
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/5.webp",
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/6.webp"
       ],
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
+      "verified": true,
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/icon.webp",
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "cover": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/cover.webp",
       "license": "MIT",
       "timestamp": 1739547906.0,
       "size": 78894,
