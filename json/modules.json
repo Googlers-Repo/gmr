@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1749300246.97708
+    "timestamp": 1749321054.346059
   },
   "modules": [
     {
@@ -1574,14 +1574,14 @@
     {
       "id": "system_app_nuker",
       "name": "App Nuker",
-      "version": "v1.1.5",
-      "versionCode": 115,
+      "version": "v1.1.6",
+      "versionCode": 116,
       "author": "ChiseWaguri & Contributors",
       "description": "description=WebUI-based debloater and whiteout creator",
       "verified": true,
       "added": 0,
-      "timestamp": 1746679502.0,
-      "size": 1242775,
+      "timestamp": 1749311876.0,
+      "size": 1241724,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1602,14 +1602,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1741510795.0,
-          "version": "v1.0",
-          "versionCode": 100,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.0_100.zip",
-          "changelog": "",
-          "size": 1180560
-        },
         {
           "timestamp": 1742931870.0,
           "version": "v1.1.1",
@@ -1649,6 +1641,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.5_115.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.5_115.md",
           "size": 1242775
+        },
+        {
+          "timestamp": 1749311876.0,
+          "version": "v1.1.6",
+          "versionCode": 116,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.6_116.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.6_116.md",
+          "size": 1241724
         }
       ]
     },
