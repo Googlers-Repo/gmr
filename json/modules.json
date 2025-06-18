@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750228511.515063
+    "timestamp": 1750251100.742559
   },
   "modules": [
     {
@@ -1721,8 +1721,8 @@
     {
       "id": "tricky_store",
       "name": "Tricky Store",
-      "version": "v1.2.1 (158-51390a7-release)",
-      "versionCode": 158,
+      "version": "v1.3.0 (180-8acfa57-release)",
+      "versionCode": 180,
       "author": "5ec1cff",
       "description": "A trick of keystore",
       "added": 1723905223.0,
@@ -1731,8 +1731,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
       "verified": false,
-      "timestamp": 1738906998.0,
-      "size": 2350601,
+      "timestamp": 1750249151.0,
+      "size": 2694118,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1770,6 +1770,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.1_158-51390a7-release.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.1_158-51390a7-release.md",
           "size": 2350601
+        },
+        {
+          "timestamp": 1750249151.0,
+          "version": "v1.3.0 (180-8acfa57-release)",
+          "versionCode": 180,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
+          "size": 2694118
         }
       ]
     },

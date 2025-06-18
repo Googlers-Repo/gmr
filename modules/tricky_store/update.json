@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.1_158-51390a7-release.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.1_158-51390a7-release.md",
       "size": 2350601
+    },
+    {
+      "timestamp": 1750249151.0,
+      "version": "v1.3.0 (180-8acfa57-release)",
+      "versionCode": 180,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
+      "size": 2694118
     }
   ]
 }
