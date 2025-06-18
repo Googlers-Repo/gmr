@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750251100.742559
+    "timestamp": 1750271641.263558
   },
   "modules": [
     {
@@ -1582,14 +1582,14 @@
     {
       "id": "system_app_nuker",
       "name": "App Nuker",
-      "version": "v1.1.6",
-      "versionCode": 116,
+      "version": "v1.1.7",
+      "versionCode": 117,
       "author": "ChiseWaguri & Contributors",
       "description": "description=WebUI-based debloater and whiteout creator",
       "verified": true,
       "added": 0,
-      "timestamp": 1749311876.0,
-      "size": 1241724,
+      "timestamp": 1750270921.0,
+      "size": 1242016,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1610,14 +1610,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1742931870.0,
-          "version": "v1.1.1",
-          "versionCode": 111,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.1_111.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.1_111.md",
-          "size": 1235280
-        },
         {
           "timestamp": 1743273875.0,
           "version": "v1.1.2",
@@ -1657,6 +1649,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.6_116.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.6_116.md",
           "size": 1241724
+        },
+        {
+          "timestamp": 1750270921.0,
+          "version": "v1.1.7",
+          "versionCode": 117,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.7_117.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.7_117.md",
+          "size": 1242016
         }
       ]
     },
