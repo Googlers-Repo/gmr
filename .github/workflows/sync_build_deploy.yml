@@ -57,7 +57,7 @@ jobs:
         run: |
           mmrl-util sync --diff versions_diff.md
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Write versions diff to summary
         if: ${{ env.IS_SYNC == 'true' }}
