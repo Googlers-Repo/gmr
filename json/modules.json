@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750596274.748815
+    "timestamp": 1750598569.238345
   },
   "modules": [
     {
@@ -1507,8 +1507,8 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.4.2-R12",
-      "versionCode": 104002012,
+      "version": "v1.5.2-R19",
+      "versionCode": 105002019,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "added": 1723905223,
@@ -1521,11 +1521,12 @@
         }
       },
       "verified": false,
-      "timestamp": 1735545926.0,
-      "size": 892829,
+      "timestamp": 1749780721.0,
+      "size": 1276688,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
         "kernelsu.permission.POST_MOUNT",
         "kernelsu.permission.BOOT_COMPLETED"
@@ -1533,6 +1534,7 @@
       "features": {
         "service": true,
         "post_fs_data": true,
+        "action": true,
         "webroot": true,
         "post_mount": true,
         "boot_completed": true
@@ -1576,6 +1578,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.md",
           "size": 892829
+        },
+        {
+          "timestamp": 1749780721.0,
+          "version": "v1.5.2-R19",
+          "versionCode": 105002019,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R19_105002019.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R19_105002019.md",
+          "size": 1276688
         }
       ]
     },

@@ -1,16 +1,16 @@
-added: 1723905223
-enable: true
 id: susfs4ksu
-last_update: 1735545926.0
-arch:
-  - arm64-v8a
-  - armeabi-v7a
-  - armeabi
-manager:
-  apatch: &m
-    min: -1
-  magisk: *m
-source: https://github.com/sidex15/ksu_module_susfs
-update_to: https://raw.githubusercontent.com/sidex15/susfs4ksu-module/refs/heads/v1.5.2%2B/update.json
+enable: true
 verified: false
-versions: 4
+update_to: https://raw.githubusercontent.com/sidex15/susfs4ksu-module/refs/heads/v1.5.2%2B/update.json
+source: https://github.com/sidex15/ksu_module_susfs
+arch:
+- arm64-v8a
+- armeabi-v7a
+- armeabi
+manager:
+  apatch: &id001
+    min: -1
+  magisk: *id001
+added: 1723905223
+last_update: 1749780721.0
+versions: 5
