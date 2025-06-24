@@ -1,6 +1,6 @@
 {
   "id": "playintegrityfix",
-  "enable": true,
+  "enable": false,
   "verified": false,
   "update_to": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/update.json",
   "license": "GPL-3.0",
@@ -11,6 +11,10 @@
     "Zygisk",
     "Security"
   ],
+  "note": {
+    "title": "Deprecated",
+    "message": "The source repository have been deleted. Please use [link=https://github.com/osm0sis/PlayIntegrityFork]PlayIntegrityFork[/link].",
+  },
   "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
   "manager": {
     "kernelsu": {
