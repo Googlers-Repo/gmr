@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750730402.05218
+    "timestamp": 1750742360.508581
   },
   "modules": [
     {
@@ -1327,6 +1327,10 @@
       "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
+      "note": {
+        "title": "Deprecated",
+        "message": "The source repository have been deleted. Please use [link=https://github.com/osm0sis/PlayIntegrityFork]PlayIntegrityFork[/link]."
+      },
       "manager": {
         "kernelsu": {
           "require": [
