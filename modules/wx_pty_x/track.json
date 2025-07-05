@@ -1,0 +1,12 @@
+{
+  "id": "wx_pty_x",
+  "enable": true,
+  "verified": true,
+  "update_to": "https://github.com/MMRLApp/PTY-X.git",
+  "source": "https://github.com/MMRLApp/PTY-X.git",
+  "options": {
+    "github": {
+      "source": "actions"
+    }
+  }
+}
