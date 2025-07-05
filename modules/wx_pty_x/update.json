@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/wx_pty_x/v3_3.zip",
       "changelog": "",
       "size": 5751
+    },
+    {
+      "timestamp": 1751732622.0,
+      "version": "v4",
+      "versionCode": 4,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/wx_pty_x/v4_4.zip",
+      "changelog": "",
+      "size": 6101
     }
   ]
 }

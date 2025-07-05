@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751732320.15882
+    "timestamp": 1751732688.634507
   },
   "modules": [
     {
@@ -1922,8 +1922,8 @@
     {
       "id": "wx_pty_x",
       "name": "Pseudoterminal for WebUI X",
-      "version": "v3",
-      "versionCode": 3,
+      "version": "v4",
+      "versionCode": 4,
       "author": "Der_Googler",
       "description": "A Pseudoterminal built for WebUI X",
       "verified": true,
@@ -1937,8 +1937,8 @@
         "Utility",
         "Tools"
       ],
-      "cover": "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/cover.png",
-      "icon": "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/icon.png",
+      "cover": "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/cover.webp",
+      "icon": "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/icon.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/1.png",
         "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/2.png",
@@ -1947,8 +1947,8 @@
       "donate": "https://github.com/sponsors/MMRLApp",
       "support": "https://github.com/MMRLApp/PTY-X/issues",
       "added": 0,
-      "timestamp": 1751732279.0,
-      "size": 5751,
+      "timestamp": 1751732622.0,
+      "size": 6101,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
@@ -1978,6 +1978,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/wx_pty_x/v3_3.zip",
           "changelog": "",
           "size": 5751
+        },
+        {
+          "timestamp": 1751732622.0,
+          "version": "v4",
+          "versionCode": 4,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/wx_pty_x/v4_4.zip",
+          "changelog": "",
+          "size": 6101
         }
       ]
     },
