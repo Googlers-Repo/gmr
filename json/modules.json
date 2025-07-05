@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751728951.961887
+    "timestamp": 1751729306.185196
   },
   "modules": [
     {
@@ -1916,6 +1916,41 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.1.0_110.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.1.0_110.md",
           "size": 3235345
+        }
+      ]
+    },
+    {
+      "id": "wx_pty_x",
+      "name": "Pseudoterminal for WebUI X",
+      "version": "v2",
+      "versionCode": 2,
+      "author": "Der_Googler",
+      "description": "A Pseudoterminal built for WebUI X",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1751729214.0,
+      "size": 5703,
+      "permissions": [
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "webroot": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/MMRLApp/PTY-X.git",
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/wx_pty_x/track.json"
+      },
+      "versions": [
+        {
+          "timestamp": 1751729214.0,
+          "version": "v2",
+          "versionCode": 2,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/wx_pty_x/v2_2.zip",
+          "changelog": "",
+          "size": 5703
         }
       ]
     },
