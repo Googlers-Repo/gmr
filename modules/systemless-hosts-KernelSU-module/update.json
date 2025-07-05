@@ -23,6 +23,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.2.0_10200.zip",
       "changelog": "",
       "size": 24544
+    },
+    {
+      "timestamp": 1739631768.0,
+      "version": "v6.5.0-hexpatch",
+      "versionCode": 60507,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v6.5.0-hexpatch_60507.zip",
+      "changelog": "",
+      "size": 24544
     }
   ]
 }
