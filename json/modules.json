@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751729306.185196
+    "timestamp": 1751730058.360349
   },
   "modules": [
     {
@@ -64,6 +64,9 @@
       "donate": "http://buymeacoffee.com/ZG089",
       "support": "https://t.me/Re_Malwack",
       "verified": true,
+      "license": "GPL-3.0",
+      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/banner.png",
+      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png",
       "categories": [
         "Adblocking and Hosts Files",
         "APatch",
@@ -73,9 +76,6 @@
         "Protection",
         "WebUI"
       ],
-      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png",
-      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/banner.png",
-      "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/README.md",
       "timestamp": 1743478933.0,
       "size": 1759912,
@@ -126,15 +126,15 @@
       "require": [
         "tricky_store"
       ],
+      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
       "categories": [
         "WebUI"
       ],
-      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
-      "license": " GPL-3.0",
       "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
       "note": {
         "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
       },
+      "license": " GPL-3.0",
       "verified": false,
       "timestamp": 1750335605.0,
       "size": 4286527,
@@ -433,6 +433,12 @@
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165.0,
       "verified": true,
+      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
+      ],
       "categories": [
         "Adblocking and Hosts Files",
         "APatch",
@@ -440,13 +446,7 @@
         "Magisk"
       ],
       "support": "https://github.com/bindhosts/bindhosts/issues",
-      "screenshots": [
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
-      ],
       "license": "WTFPL",
-      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
       "timestamp": 1750727025.0,
       "size": 116707,
       "permissions": [
@@ -623,12 +623,12 @@
           ]
         }
       },
+      "license": "MIT",
+      "support": "https://github.com/Vaz15k/Cubic-AdBlock/issues",
+      "icon": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/cubic_logo.png",
       "categories": [
         "Adblocking and Hosts Files"
       ],
-      "icon": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/cubic_logo.png",
-      "support": "https://github.com/Vaz15k/Cubic-AdBlock/issues",
-      "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
       "timestamp": 1751287868.201448,
@@ -783,14 +783,13 @@
       "versionCode": 102,
       "author": "Der_Googler",
       "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
+      "license": "GPL-3.0",
+      "support": "https://github.com/Googlers-Repo/gcc/issues",
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/assets/icon.png",
       "categories": [
         "System",
         "Coding"
       ],
-      "icon": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/assets/icon.png",
-      "support": "https://github.com/Googlers-Repo/gcc/issues",
-      "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/README.md",
       "require": [
         "mkshrc"
       ],
@@ -799,6 +798,7 @@
         "title": "Beta",
         "message": "This module is sill in it's beta, so please don't complain about bugs etc. Please be aware that this module depends on Systemless Mkshrc."
       },
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/README.md",
       "verified": false,
       "added": 0,
       "timestamp": 1726310851.0,
@@ -1126,10 +1126,10 @@
       ],
       "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
       "verified": true,
+      "license": "MIT",
+      "cover": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/cover.webp",
       "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/icon.webp",
       "donate": "https://github.com/sponsors/DerGoogler",
-      "cover": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/cover.webp",
-      "license": "MIT",
       "timestamp": 1739547906.0,
       "size": 78894,
       "permissions": [
@@ -1927,6 +1927,18 @@
       "author": "Der_Googler",
       "description": "A Pseudoterminal built for WebUI X",
       "verified": true,
+      "note": {
+        "title": "PTY X Required",
+        "message": "This module requires the PTY X module to be installed. And at least WebUI X v131 or later."
+      },
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/README.md",
+      "categories": [
+        "Utility",
+        "Tools"
+      ],
+      "donate": "https://github.com/sponsors/MMRLApp",
+      "support": "https://github.com/MMRLApp/PTY-X/issues",
       "added": 0,
       "timestamp": 1751729214.0,
       "size": 5703,
