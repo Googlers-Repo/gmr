@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751728819.28632
+    "timestamp": 1751728951.961887
   },
   "modules": [
     {
@@ -694,8 +694,8 @@
     {
       "id": "djs",
       "name": "Daily Job Scheduler (DJS)",
-      "version": "v2021.11.3",
-      "versionCode": 202111030,
+      "version": "v2021.12.14",
+      "versionCode": 202112140,
       "author": "VR25",
       "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
       "added": 1445340430.7142262,
@@ -706,8 +706,8 @@
       "support": "https://github.com/VR-25/djs/issues",
       "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
       "verified": false,
-      "timestamp": 1639484648.0,
-      "size": 42097,
+      "timestamp": 1639485571.0,
+      "size": 44707,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -722,6 +722,14 @@
           "versionCode": 202111030,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.11.3_202111030.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1639485571.0,
+          "version": "v2021.12.14",
+          "versionCode": 202112140,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.12.14_202112140.zip",
+          "changelog": "",
+          "size": 44707
         }
       ]
     },

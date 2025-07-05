@@ -8,6 +8,14 @@
       "versionCode": 202111030,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.11.3_202111030.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1639485571.0,
+      "version": "v2021.12.14",
+      "versionCode": 202112140,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.12.14_202112140.zip",
+      "changelog": "",
+      "size": 44707
     }
   ]
 }
