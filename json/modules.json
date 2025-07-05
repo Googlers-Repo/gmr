@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751732192.283659
+    "timestamp": 1751732320.15882
   },
   "modules": [
     {
@@ -1922,8 +1922,8 @@
     {
       "id": "wx_pty_x",
       "name": "Pseudoterminal for WebUI X",
-      "version": "v2",
-      "versionCode": 2,
+      "version": "v3",
+      "versionCode": 3,
       "author": "Der_Googler",
       "description": "A Pseudoterminal built for WebUI X",
       "verified": true,
@@ -1937,11 +1937,18 @@
         "Utility",
         "Tools"
       ],
+      "cover": "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/cover.png",
+      "icon": "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/1.png",
+        "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/2.png",
+        "https://raw.githubusercontent.com/MMRLApp/PTY-X/refs/heads/master/assets/3.png"
+      ],
       "donate": "https://github.com/sponsors/MMRLApp",
       "support": "https://github.com/MMRLApp/PTY-X/issues",
       "added": 0,
-      "timestamp": 1751729214.0,
-      "size": 5703,
+      "timestamp": 1751732279.0,
+      "size": 5751,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
@@ -1963,6 +1970,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/wx_pty_x/v2_2.zip",
           "changelog": "",
           "size": 5703
+        },
+        {
+          "timestamp": 1751732279.0,
+          "version": "v3",
+          "versionCode": 3,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/wx_pty_x/v3_3.zip",
+          "changelog": "",
+          "size": 5751
         }
       ]
     },
