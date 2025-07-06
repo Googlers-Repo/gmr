@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751805983.838174
+    "timestamp": 1751826702.0887
   },
   "modules": [
     {
@@ -1519,8 +1519,8 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R19",
-      "versionCode": 105002019,
+      "version": "v1.5.2-R20",
+      "versionCode": 105002020,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "added": 1723905223,
@@ -1533,8 +1533,8 @@
         }
       },
       "verified": false,
-      "timestamp": 1749780721.0,
-      "size": 1276688,
+      "timestamp": 1751808417.0,
+      "size": 1354745,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1598,6 +1598,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R19_105002019.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R19_105002019.md",
           "size": 1276688
+        },
+        {
+          "timestamp": 1751808417.0,
+          "version": "v1.5.2-R20",
+          "versionCode": 105002020,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R20_105002020.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R20_105002020.md",
+          "size": 1354745
         }
       ]
     },
