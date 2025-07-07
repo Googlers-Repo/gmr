@@ -1,13 +1,13 @@
-id: cubic-adblock
 enable: true
-verified: true
-update_to: https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/module/update.json
-source: https://github.com/Vaz15k/Cubic-AdBlock
+id: cubic-adblock
+last_update: 1751892674.642554
 manager:
   apatch: &id001
     require:
     - systemless-hosts-KernelSU-module
   kernelsu: *id001
   ksunext: *id001
-last_update: 1751287868.201448
+source: https://github.com/Vaz15k/Cubic-AdBlock
+update_to: https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/module/update.json
+verified: true
 versions: 6
