@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1753425523.870811
+    "timestamp": 1753447993.072339
   },
   "modules": [
     {
@@ -118,8 +118,8 @@
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v4.0",
-      "versionCode": 538,
+      "version": "v4.1",
+      "versionCode": 572,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "added": 1723905223.0,
@@ -136,8 +136,8 @@
       },
       "license": " GPL-3.0",
       "verified": false,
-      "timestamp": 1750335605.0,
-      "size": 4286527,
+      "timestamp": 1753440707.0,
+      "size": 4300641,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -159,14 +159,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/TA_utl/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1741244175.0,
-          "version": "v3.6",
-          "versionCode": 360,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.6_360.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.6_360.md",
-          "size": 1237416
-        },
         {
           "timestamp": 1743160152.0,
           "version": "v3.7",
@@ -206,6 +198,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v4.0_538.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v4.0_538.md",
           "size": 4286527
+        },
+        {
+          "timestamp": 1753440707.0,
+          "version": "v4.1",
+          "versionCode": 572,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v4.1_572.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v4.1_572.md",
+          "size": 4300641
         }
       ]
     },
