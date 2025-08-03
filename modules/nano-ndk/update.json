@@ -40,6 +40,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/v1.2.0_10200.zip",
       "changelog": "",
       "size": 865898
+    },
+    {
+      "timestamp": 1749863200.0,
+      "version": "v6.5.0-hexpatch",
+      "versionCode": 60507,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/v6.5.0-hexpatch_60507.zip",
+      "changelog": "",
+      "size": 866802
     }
   ]
 }
