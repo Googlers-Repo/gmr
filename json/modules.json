@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1755373020.212947
+    "timestamp": 1755373295.38486
   },
   "modules": [
     {
@@ -1123,16 +1123,16 @@
     {
       "id": "mmrl_wpd",
       "name": "WiFi Password Viewer for MMRL",
-      "version": "5.7.7",
-      "versionCode": 460,
+      "version": "6.7.7",
+      "versionCode": 461,
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
       "verified": true,
       "support": "https://github.com/Googlers-Repo/wpd/issues",
       "categories": [
-        "WebUI",
         "Tweaks and Hacks",
+        "WebUI",
         "Miscellaneous"
       ],
       "license": "MIT",
@@ -1148,8 +1148,12 @@
       ],
       "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
       "donate": "https://github.com/sponsors/DerGoogler",
-      "timestamp": 1739547906.0,
-      "size": 78894,
+      "note": {
+        "title": "Compose Update \ud83d\ude80",
+        "message": "The WPD interface has been fully rewritten using Compose UI for a modern and seamless experience."
+      },
+      "timestamp": 1755372768.0,
+      "size": 43848,
       "permissions": [
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
@@ -1159,21 +1163,13 @@
         "webroot": true
       },
       "track": {
-        "type": "ONLINE_JSON",
+        "type": "GIT",
         "added": 1445340430.7142262,
         "source": "https://github.com/Googlers-Repo/wpd.git",
         "antifeatures": null,
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1733339350.0,
-          "version": "4.5.5",
-          "versionCode": 455,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.5_455.zip",
-          "changelog": "",
-          "size": 87501
-        },
         {
           "timestamp": 1733340991.0,
           "version": "4.5.6",
@@ -1213,6 +1209,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/5.7.7_460.zip",
           "changelog": "",
           "size": 78894
+        },
+        {
+          "timestamp": 1755372768.0,
+          "version": "6.7.7",
+          "versionCode": 461,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/6.7.7_461.zip",
+          "changelog": "",
+          "size": 43848
         }
       ]
     },
