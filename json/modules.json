@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1755369161.586658
+    "timestamp": 1755373020.212947
   },
   "modules": [
     {
@@ -1128,12 +1128,16 @@
       "author": "Der_Googler, veez21 @ xda-developers",
       "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
       "added": 1445340430.7142262,
+      "verified": true,
+      "support": "https://github.com/Googlers-Repo/wpd/issues",
       "categories": [
         "WebUI",
         "Tweaks and Hacks",
         "Miscellaneous"
       ],
-      "support": "https://github.com/Googlers-Repo/wpd/issues",
+      "license": "MIT",
+      "cover": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/cover.webp",
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/icon.webp",
       "screenshots": [
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.webp",
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.webp",
@@ -1143,10 +1147,6 @@
         "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/6.webp"
       ],
       "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
-      "verified": true,
-      "license": "MIT",
-      "cover": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/cover.webp",
-      "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/icon.webp",
       "donate": "https://github.com/sponsors/DerGoogler",
       "timestamp": 1739547906.0,
       "size": 78894,
