@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1755373295.38486
+    "timestamp": 1755376892.628522
   },
   "modules": [
     {
@@ -2258,6 +2258,52 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.md",
           "size": 2462055
+        }
+      ]
+    },
+    {
+      "id": "zygisk_shamiko",
+      "name": "Shamiko",
+      "version": "v1.2.1 (383)",
+      "versionCode": 383,
+      "author": "LSPosed Developers",
+      "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
+      "require": [
+        "zygisksu"
+      ],
+      "verified": false,
+      "added": 0,
+      "timestamp": 1736002144.0,
+      "size": 4979675,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "magisk.permission.ZYGISK"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "zygisk": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/LSPosed/LSPosed.github.io/releases",
+        "antifeatures": [
+          "ClosedSource"
+        ],
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisk_shamiko/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1736002144.0,
+          "version": "3.0-13",
+          "versionCode": 301304,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_shamiko/3.0-13_301304.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_shamiko/3.0-13_301304.md",
+          "size": 4979675
         }
       ]
     },
