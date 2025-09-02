@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1756777847.775845
+    "timestamp": 1756794918.157444
   },
   "modules": [
     {
@@ -2302,8 +2302,8 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.2.8 (512-4b5d6ad-release)",
-      "versionCode": 512,
+      "version": "1.2.9.1 (534-b8e7e21-release)",
+      "versionCode": 534,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "manager": {
@@ -2319,8 +2319,8 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1743093744.0,
-      "size": 3519779,
+      "timestamp": 1752661306.0,
+      "size": 5072373,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -2366,6 +2366,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.8_512-4b5d6ad-release.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.8_512-4b5d6ad-release.md",
           "size": 3519779
+        },
+        {
+          "timestamp": 1752661306.0,
+          "version": "1.2.9.1 (534-b8e7e21-release)",
+          "versionCode": 534,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.9.1_534-b8e7e21-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.9.1_534-b8e7e21-release.md",
+          "size": 5072373
         }
       ]
     }

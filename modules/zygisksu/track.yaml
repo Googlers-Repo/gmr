@@ -1,15 +1,15 @@
-id: zygisksu
+antifeatures:
+- ClosedSource
 enable: true
-verified: false
-update_to: https://api.nullptr.icu/android/zygisk-next/static/update.json
-source: https://github.com/Dr-TSNG/ZygiskNext
+id: zygisksu
+last_update: 1752661306.0
 manager:
   kernelsu: &id001
     min: 10940
   ksunext: *id001
   magisk:
     min: 26402
-antifeatures:
-- ClosedSource
-last_update: 1743093744.0
-versions: 3
+source: https://github.com/Dr-TSNG/ZygiskNext
+update_to: https://api.nullptr.icu/android/zygisk-next/static/update.json
+verified: false
+versions: 4
