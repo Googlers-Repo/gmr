@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1757940530.491751
+    "timestamp": 1757961141.950089
   },
   "modules": [
     {
@@ -787,30 +787,14 @@
     {
       "id": "gcc_on_android",
       "name": "GCC Toolchain",
-      "version": "1.0.2",
-      "versionCode": 102,
+      "version": "1.0.0",
+      "versionCode": 100,
       "author": "Der_Googler",
       "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
-      "license": "GPL-3.0",
-      "support": "https://github.com/Googlers-Repo/gcc/issues",
-      "icon": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/assets/icon.png",
-      "categories": [
-        "System",
-        "Coding"
-      ],
-      "require": [
-        "mkshrc"
-      ],
-      "note": {
-        "color": "blue",
-        "title": "Beta",
-        "message": "This module is sill in it's beta, so please don't complain about bugs etc. Please be aware that this module depends on Systemless Mkshrc."
-      },
-      "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1726310851.0,
-      "size": 39547519,
+      "timestamp": 1697896255.0,
+      "size": 38073559,
       "track": {
         "type": "GIT",
         "added": null,
@@ -842,6 +826,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.2_102.zip",
           "changelog": "",
           "size": 39547519
+        },
+        {
+          "timestamp": 1697896255.0,
+          "version": "8.6",
+          "versionCode": 8600,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/8.6_8600.zip",
+          "changelog": "",
+          "size": 38073559
         }
       ]
     },
