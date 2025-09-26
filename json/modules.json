@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1758851204.968463
+    "timestamp": 1758868435.813063
   },
   "modules": [
     {
@@ -1541,8 +1541,8 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R21",
-      "versionCode": 105002021,
+      "version": "v1.5.2-R22",
+      "versionCode": 105002022,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "added": 1723905223,
@@ -1555,8 +1555,8 @@
         }
       },
       "verified": false,
-      "timestamp": 1757250766.0,
-      "size": 1358238,
+      "timestamp": 1758867240.0,
+      "size": 1161002,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1583,14 +1583,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1733654606.0,
-          "version": "v1.4.2-R10",
-          "versionCode": 104002010,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.md",
-          "size": 878077
-        },
         {
           "timestamp": 1734082080.0,
           "version": "v1.4.2-R11",
@@ -1630,6 +1622,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R21_105002021.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R21_105002021.md",
           "size": 1358238
+        },
+        {
+          "timestamp": 1758867240.0,
+          "version": "v1.5.2-R22",
+          "versionCode": 105002022,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R22_105002022.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R22_105002022.md",
+          "size": 1161002
         }
       ]
     },

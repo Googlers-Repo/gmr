@@ -5,7 +5,7 @@ arch:
 - armeabi
 enable: true
 id: susfs4ksu
-last_update: 1757250766.0
+last_update: 1758867240.0
 manager:
   apatch: &id001
     min: -1
