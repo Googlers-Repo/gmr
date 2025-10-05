@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1759668108.910754
+    "timestamp": 1759688977.798467
   },
   "modules": [
     {
@@ -744,14 +744,14 @@
     {
       "id": "flagsecurepatcher",
       "name": "FlagSecurePatcher",
-      "version": "r15",
-      "versionCode": 15,
+      "version": "r16",
+      "versionCode": 16,
       "author": "j-hc",
       "description": "Prevent apps from blocking and listening to your screenshots",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1743681710.0,
-      "size": 4535597,
+      "timestamp": 1759670022.0,
+      "size": 4650325,
       "permissions": [
         "magisk.permission.POST_FS_DATA"
       ],
@@ -781,6 +781,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r15_15.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r15_15.md",
           "size": 4535597
+        },
+        {
+          "timestamp": 1759670022.0,
+          "version": "r16",
+          "versionCode": 16,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r16_16.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r16_16.md",
+          "size": 4650325
         }
       ]
     },
