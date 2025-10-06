@@ -2,7 +2,7 @@ antifeatures:
 - ClosedSource
 enable: true
 id: zygisksu
-last_update: 1752661306.0
+last_update: 1759759597.0
 manager:
   kernelsu: &id001
     min: 10940
@@ -12,4 +12,4 @@ manager:
 source: https://github.com/Dr-TSNG/ZygiskNext
 update_to: https://api.nullptr.icu/android/zygisk-next/static/update.json
 verified: false
-versions: 4
+versions: 5
