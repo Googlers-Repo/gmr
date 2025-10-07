@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1759841357.408595
+    "timestamp": 1759862044.402932
   },
   "modules": [
     {
@@ -2312,8 +2312,8 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.3.0-RC1 (599-21e857e-release)",
-      "versionCode": 599,
+      "version": "1.3.0-RC2 (606-b6f3a4a-release)",
+      "versionCode": 606,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "manager": {
@@ -2329,8 +2329,8 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1759759597.0,
-      "size": 6198370,
+      "timestamp": 1759842129.0,
+      "size": 6254071,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -2392,6 +2392,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.0-RC1_599-21e857e-release.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.0-RC1_599-21e857e-release.md",
           "size": 6198370
+        },
+        {
+          "timestamp": 1759842129.0,
+          "version": "1.3.0-RC2 (606-b6f3a4a-release)",
+          "versionCode": 606,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.0-RC2_606-b6f3a4a-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.0-RC2_606-b6f3a4a-release.md",
+          "size": 6254071
         }
       ]
     }
