@@ -25,6 +25,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r16_16.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r16_16.md",
       "size": 4650325
+    },
+    {
+      "timestamp": 1759957318.0,
+      "version": "r17",
+      "versionCode": 17,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r17_17.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r17_17.md",
+      "size": 4653307
     }
   ]
 }
