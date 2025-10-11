@@ -1,7 +1,7 @@
-id: system_app_nuker
 enable: true
-verified: true
-update_to: https://raw.githubusercontent.com/ChiseWaguri/systemapp_nuker/refs/heads/master/update.json
+id: system_app_nuker
+last_update: 1760175018.0
 source: https://github.com/ChiseWaguri/systemapp_nuker
-last_update: 1750270921.0
+update_to: https://raw.githubusercontent.com/ChiseWaguri/systemapp_nuker/refs/heads/master/update.json
+verified: true
 versions: 6
