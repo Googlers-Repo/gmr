@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1760207243.797808
+    "timestamp": 1760233828.202738
   },
   "modules": [
     {
@@ -1168,15 +1168,13 @@
         "title": "Compose Update \ud83d\ude80",
         "message": "The WPD interface has been fully rewritten using Compose UI for a modern and seamless experience."
       },
-      "timestamp": 1755372768.0,
-      "size": 43848,
+      "timestamp": 1757442541.0,
+      "size": 39773,
       "permissions": [
-        "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "magisk.permission.ACTION"
       ],
       "features": {
-        "action": true,
-        "webroot": true
+        "action": true
       },
       "track": {
         "type": "GIT",
@@ -1225,6 +1223,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/6.7.7_461.zip",
           "changelog": "",
           "size": 43848
+        },
+        {
+          "timestamp": 1757442541.0,
+          "version": "8.6",
+          "versionCode": 8600,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/8.6_8600.zip",
+          "changelog": "",
+          "size": 39773
         }
       ]
     },
