@@ -1,6 +1,6 @@
 enable: true
 id: system_app_nuker
-last_update: 1760175018.0
+last_update: 1760293772.0
 source: https://github.com/ChiseWaguri/systemapp_nuker
 update_to: https://raw.githubusercontent.com/ChiseWaguri/systemapp_nuker/refs/heads/master/update.json
 verified: true
