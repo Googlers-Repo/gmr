@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1760812167.508867
+    "timestamp": 1760839204.533861
   },
   "modules": [
     {
@@ -435,8 +435,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.0.7",
-      "versionCode": 207,
+      "version": "v2.0.8",
+      "versionCode": 208,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165.0,
@@ -455,8 +455,8 @@
       ],
       "support": "https://github.com/bindhosts/bindhosts/issues",
       "license": "WTFPL",
-      "timestamp": 1756032424.0,
-      "size": 123025,
+      "timestamp": 1760831840.0,
+      "size": 126681,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -477,14 +477,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/bindhosts/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1745837964.0,
-          "version": "v2.0.2",
-          "versionCode": 202,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.2_202.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.2_202.md",
-          "size": 101192
-        },
         {
           "timestamp": 1748664943.0,
           "version": "v2.0.3",
@@ -524,6 +516,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.7_207.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.7_207.md",
           "size": 123025
+        },
+        {
+          "timestamp": 1760831840.0,
+          "version": "v2.0.8",
+          "versionCode": 208,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.8_208.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.8_208.md",
+          "size": 126681
         }
       ]
     },
