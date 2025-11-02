@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1762065211.977185
+    "timestamp": 1762087351.273282
   },
   "modules": [
     {
@@ -1805,8 +1805,8 @@
     {
       "id": "tricky_store",
       "name": "Tricky Store",
-      "version": "v1.4.0 (235-e15da3d-release)",
-      "versionCode": 235,
+      "version": "v1.4.1 (245-72b2e84-release)",
+      "versionCode": 245,
       "author": "5ec1cff, aviraxp and Cyberenchanter",
       "description": "A trick of keystore",
       "added": 1723905223.0,
@@ -1815,8 +1815,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
       "verified": false,
-      "timestamp": 1760970440.0,
-      "size": 2720036,
+      "timestamp": 1762077393.0,
+      "size": 2840600,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1870,6 +1870,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.4.0_235-e15da3d-release.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.4.0_235-e15da3d-release.md",
           "size": 2720036
+        },
+        {
+          "timestamp": 1762077393.0,
+          "version": "v1.4.1 (245-72b2e84-release)",
+          "versionCode": 245,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.4.1_245-72b2e84-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.4.1_245-72b2e84-release.md",
+          "size": 2840600
         }
       ]
     },
