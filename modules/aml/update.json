@@ -40,6 +40,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v6.5.0-hexpatch_60507.zip",
       "changelog": "",
       "size": 23941
+    },
+    {
+      "timestamp": 1690235714.0,
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/1.0.41_104114.zip",
+      "changelog": "",
+      "size": 23941
     }
   ]
 }
