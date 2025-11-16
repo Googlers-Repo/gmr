@@ -2,7 +2,7 @@ antifeatures:
 - ClosedSource
 enable: true
 id: zygisksu
-last_update: 1762251825.0
+last_update: 1763287283.0
 manager:
   kernelsu: &id001
     min: 10940

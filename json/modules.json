@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1763274848.325482
+    "timestamp": 1763297039.551471
   },
   "modules": [
     {
@@ -2350,8 +2350,8 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.3.0 (648-4d40f10-release)",
-      "versionCode": 648,
+      "version": "1.3.1 (665-7e5b533-release)",
+      "versionCode": 665,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "manager": {
@@ -2367,8 +2367,8 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1762251825.0,
-      "size": 6347253,
+      "timestamp": 1763287283.0,
+      "size": 6380762,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -2391,14 +2391,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisksu/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1752661306.0,
-          "version": "1.2.9.1 (534-b8e7e21-release)",
-          "versionCode": 534,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.9.1_534-b8e7e21-release.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.9.1_534-b8e7e21-release.md",
-          "size": 5072373
-        },
         {
           "timestamp": 1759759597.0,
           "version": "1.3.0-RC1 (599-21e857e-release)",
@@ -2438,6 +2430,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.0_648-4d40f10-release.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.0_648-4d40f10-release.md",
           "size": 6347253
+        },
+        {
+          "timestamp": 1763287283.0,
+          "version": "1.3.1 (665-7e5b533-release)",
+          "versionCode": 665,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.1_665-7e5b533-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.1_665-7e5b533-release.md",
+          "size": 6380762
         }
       ]
     }
