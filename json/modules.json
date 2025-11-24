@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1763966250.692433
+    "timestamp": 1763988772.237129
   },
   "modules": [
     {
@@ -617,8 +617,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.75",
-      "versionCode": 2075,
+      "version": "v2.76",
+      "versionCode": 2076,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -647,8 +647,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1763383883.825584,
-      "size": 5897468,
+      "timestamp": 1763988763.384897,
+      "size": 5765284,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -657,14 +657,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1760359768.012273,
-          "version": "v2.70",
-          "versionCode": 2070,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.70_2070.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.70_2070.md",
-          "size": 5992239
-        },
         {
           "timestamp": 1760964608.042156,
           "version": "v2.71",
@@ -704,6 +696,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.75_2075.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.75_2075.md",
           "size": 5897468
+        },
+        {
+          "timestamp": 1763988763.384897,
+          "version": "v2.76",
+          "versionCode": 2076,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.76_2076.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.76_2076.md",
+          "size": 5765284
         }
       ]
     },
