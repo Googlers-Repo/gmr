@@ -1,6 +1,6 @@
 enable: true
 id: cubic-adblock
-last_update: 1763988763.384897
+last_update: 1764593624.822717
 manager:
   apatch: &id001
     require:
