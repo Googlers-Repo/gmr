@@ -1,0 +1,12 @@
+enable: true
+id: meta-mm
+manager:
+  magisk:
+    min: -1
+  apatch:
+    min: -1
+  ksunext:
+    min: -1
+source: https://codeberg.org/ovo/meta-magic_mount
+update_to: https://magic-mount.zrlab.org/version
+verified: false
