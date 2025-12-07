@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1765111554.550531
+    "timestamp": 1765126079.786206
   },
   "modules": [
     {
@@ -404,7 +404,6 @@
       "size": 5180,
       "permissions": [
         "magisk.permission.SERVICE",
-        "kernelsu.permission.METAMODULE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP"
       ],
@@ -470,7 +469,8 @@
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
       ],
       "features": {
         "service": true,
@@ -1011,6 +1011,53 @@
       ]
     },
     {
+      "id": "magic_mount_rs",
+      "name": "Magic Mount-rs",
+      "version": "v1.2.0-7772e56",
+      "versionCode": 102000,
+      "author": "7a72 & Tools-cx-app & YuzakiKokuban",
+      "description": "An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.",
+      "metamodule": "1",
+      "manager": {
+        "apatch": {
+          "min": -1
+        },
+        "ksunext": {
+          "min": -1
+        },
+        "magisk": {
+          "min": -1
+        }
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1765102448.0,
+      "size": 434413,
+      "permissions": [
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "webroot": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Tools-cx-app/meta-magic_mount",
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1765102448.0,
+          "version": "v1.2.0-7772e56",
+          "versionCode": 102000,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.2.0-7772e56_102000.zip",
+          "changelog": "",
+          "size": 434413
+        }
+      ]
+    },
+    {
       "id": "magisk-wifiadb",
       "name": "MagiskWiFiADB",
       "version": "1.1.0",
@@ -1074,6 +1121,53 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/v5.0.0_50000.zip",
           "changelog": "",
           "size": 4331
+        }
+      ]
+    },
+    {
+      "id": "meta-overlayfs",
+      "name": "OverlayFS MetaModule",
+      "version": "1.3.1",
+      "versionCode": 13100,
+      "author": "KernelSU Developers",
+      "description": "An implementation of a metamodule using OverlayFS for KernelSU",
+      "metamodule": "1",
+      "manager": {
+        "apatch": {
+          "min": -1
+        },
+        "ksunext": {
+          "min": -1
+        },
+        "magisk": {
+          "min": -1
+        }
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1764680234.0,
+      "size": 451415,
+      "permissions": [
+        "kernelsu.permission.POST_MOUNT"
+      ],
+      "features": {
+        "post_mount": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/KernelSU-Modules-Repo/meta-overlayfs",
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/meta-overlayfs/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1764680234.0,
+          "version": "1.3.1",
+          "versionCode": 13100,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/meta-overlayfs/1.3.1_13100.zip",
+          "changelog": "",
+          "size": 451415
         }
       ]
     },
@@ -1180,7 +1274,8 @@
       "timestamp": 1757442541.0,
       "size": 39773,
       "permissions": [
-        "magisk.permission.ACTION"
+        "magisk.permission.ACTION",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "action": true
@@ -1412,7 +1507,8 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -1594,6 +1690,7 @@
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
         "kernelsu.permission.POST_MOUNT",
         "kernelsu.permission.BOOT_COMPLETED"
       ],
@@ -2029,7 +2126,9 @@
       "timestamp": 1751865925.0,
       "size": 6138,
       "permissions": [
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "webroot": true
@@ -2273,7 +2372,8 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,

@@ -1,12 +1,14 @@
 enable: true
 id: meta-overlayfs
+last_update: 1764680234.0
 manager:
-  magisk:
-    min: -1
   apatch:
     min: -1
   ksunext:
     min: -1
+  magisk:
+    min: -1
 source: https://github.com/KernelSU-Modules-Repo/meta-overlayfs
 update_to: https://github.com/KernelSU-Modules-Repo/meta-overlayfs.git
 verified: false
+versions: 1

@@ -1,12 +1,14 @@
 enable: true
 id: magic_mount_rs
+last_update: 1765102448.0
 manager:
-  magisk:
-    min: -1
   apatch:
     min: -1
   ksunext:
     min: -1
+  magisk:
+    min: -1
 source: https://github.com/Tools-cx-app/meta-magic_mount
 update_to: https://github.com/Tools-cx-app/meta-magic_mount.git
 verified: false
+versions: 1
