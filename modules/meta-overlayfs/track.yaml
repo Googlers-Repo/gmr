@@ -1,0 +1,12 @@
+enable: true
+id: meta-overlayfs
+manager:
+  magisk:
+    min: -1
+  apatch:
+    min: -1
+  ksunext:
+    min: -1
+source: https://github.com/KernelSU-Modules-Repo/meta-overlayfs
+update_to: https://github.com/KernelSU-Modules-Repo/meta-overlayfs.git
+verified: false
