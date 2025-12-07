@@ -404,6 +404,7 @@
       "size": 5180,
       "permissions": [
         "magisk.permission.SERVICE",
+        "kernelsu.permission.METAMODULE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP"
       ],
