@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1765262363.272831
+    "timestamp": 1765269552.661365
   },
   "modules": [
     {
@@ -35,6 +35,7 @@
       "features": {
         "post_fs_data": true
       },
+      "stars": 329,
       "track": {
         "type": "GIT",
         "added": null,
@@ -97,6 +98,7 @@
         "action": true,
         "webroot": true
       },
+      "stars": 207,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -156,6 +158,7 @@
         "post_fs_data": true,
         "action": true
       },
+      "stars": 2307,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -238,6 +241,7 @@
       "verified": false,
       "timestamp": 1643646579.0,
       "size": 3796149,
+      "stars": 119,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -280,6 +284,7 @@
       "verified": false,
       "timestamp": 1698679366.0,
       "size": 5300707,
+      "stars": 605,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -326,6 +331,7 @@
         "service": true,
         "post_fs_data": true
       },
+      "stars": 260,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -412,6 +418,7 @@
         "post_fs_data": true,
         "resetprop": true
       },
+      "stars": 17,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -478,6 +485,7 @@
         "action": true,
         "webroot": true
       },
+      "stars": 879,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -554,6 +562,7 @@
       "verified": false,
       "timestamp": 1699710957.0,
       "size": 9933908,
+      "stars": 1049,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -591,6 +600,7 @@
       "verified": false,
       "timestamp": 1711830438.0,
       "size": 17029965,
+      "stars": 125,
       "track": {
         "type": "GIT",
         "added": 1706465625.561501,
@@ -650,6 +660,7 @@
       "added": 0,
       "timestamp": 1765198435.060915,
       "size": 5868656,
+      "stars": 68,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -725,6 +736,7 @@
       "verified": false,
       "timestamp": 1639485571.0,
       "size": 44707,
+      "stars": 84,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -767,6 +779,7 @@
       "features": {
         "post_fs_data": true
       },
+      "stars": 394,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -820,6 +833,7 @@
       "added": 0,
       "timestamp": 1697896255.0,
       "size": 38073559,
+      "stars": 8,
       "track": {
         "type": "GIT",
         "added": null,
@@ -881,6 +895,7 @@
         "service": true,
         "action": true
       },
+      "stars": 330,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -952,6 +967,7 @@
         "webroot": true,
         "apks": true
       },
+      "stars": 351,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1039,6 +1055,7 @@
       "features": {
         "webroot": true
       },
+      "stars": 150,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1074,6 +1091,7 @@
       "features": {
         "service": true
       },
+      "stars": 215,
       "track": {
         "type": "GIT",
         "added": 1723905223.0,
@@ -1153,6 +1171,7 @@
       "features": {
         "post_mount": true
       },
+      "stars": 169,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1206,6 +1225,7 @@
       "features": {
         "modconf": true
       },
+      "stars": 75,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1705238797.0266,
@@ -1280,6 +1300,7 @@
       "features": {
         "action": true
       },
+      "stars": 36,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1355,6 +1376,7 @@
       "verified": false,
       "timestamp": 1749863200.0,
       "size": 866802,
+      "stars": 165,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1433,6 +1455,7 @@
         "action": true,
         "webroot": true
       },
+      "stars": 215,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1593,6 +1616,7 @@
       "verified": false,
       "timestamp": 1718574711.0,
       "size": 535557,
+      "stars": 27,
       "track": {
         "type": "GIT",
         "added": 1718573490.991985,
@@ -1647,6 +1671,7 @@
         "service": true,
         "post_fs_data": true
       },
+      "stars": 245,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1703,6 +1728,7 @@
         "post_mount": true,
         "boot_completed": true
       },
+      "stars": 1816,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -1784,6 +1810,7 @@
         "action": true,
         "webroot": true
       },
+      "stars": 170,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1868,6 +1895,7 @@
         "service": true,
         "webroot": true
       },
+      "stars": 583,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1935,6 +1963,7 @@
         "sepolicy": true,
         "apks": true
       },
+      "stars": 4724,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2009,6 +2038,7 @@
         "post_fs_data": true,
         "resetprop": true
       },
+      "stars": 118,
       "track": {
         "type": "GIT",
         "added": 1717861375.501469,
@@ -2069,6 +2099,7 @@
         "service": true,
         "apks": true
       },
+      "stars": 397,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2192,6 +2223,7 @@
       "verified": false,
       "timestamp": 1712163102.0,
       "size": 5920487,
+      "stars": 80,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -2237,6 +2269,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
+      "stars": 2261,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2295,6 +2328,7 @@
         "zygisk": true,
         "webroot": true
       },
+      "stars": 1730,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2428,6 +2462,7 @@
         "sepolicy": true,
         "zygisk": true
       },
+      "stars": 22229,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2482,6 +2517,7 @@
         "sepolicy": true,
         "webroot": true
       },
+      "stars": 7979,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
