@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1765544044.961773
+    "timestamp": 1765564682.079155
   },
   "modules": [
     {
@@ -158,7 +158,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2324,
+      "stars": 2327,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -485,7 +485,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 890,
+      "stars": 889,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -779,7 +779,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 396,
+      "stars": 397,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1029,8 +1029,8 @@
     {
       "id": "magic_mount_rs",
       "name": "Magic Mount-rs",
-      "version": "v1.2.0-7772e56",
-      "versionCode": 102000,
+      "version": "v1.2.1-4fc7bfe",
+      "versionCode": 102001,
       "author": "7a72 & Tools-cx-app & YuzakiKokuban",
       "description": "An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.",
       "metamodule": "1",
@@ -1047,15 +1047,15 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1765102448.0,
-      "size": 434413,
+      "timestamp": 1765547229.0,
+      "size": 452708,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "webroot": true
       },
-      "stars": 161,
+      "stars": 168,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1071,6 +1071,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.2.0-7772e56_102000.zip",
           "changelog": "",
           "size": 434413
+        },
+        {
+          "timestamp": 1765547229.0,
+          "version": "v1.2.1-4fc7bfe",
+          "versionCode": 102001,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.2.1-4fc7bfe_102001.zip",
+          "changelog": "",
+          "size": 452708
         }
       ]
     },
@@ -1171,7 +1179,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 177,
+      "stars": 180,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1728,7 +1736,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1826,
+      "stars": 1827,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -1963,7 +1971,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 4744,
+      "stars": 4749,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2462,7 +2470,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22255,
+      "stars": 22258,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2517,7 +2525,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8005,
+      "stars": 8008,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
