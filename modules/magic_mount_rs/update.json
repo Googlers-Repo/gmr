@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.2.1-4fc7bfe_102001.zip",
       "changelog": "",
       "size": 452708
+    },
+    {
+      "timestamp": 1765678332.0,
+      "version": "v1.2.2-d66c704",
+      "versionCode": 102002,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.2.2-d66c704_102002.zip",
+      "changelog": "",
+      "size": 455983
     }
   ]
 }
