@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1766062462.813421
+    "timestamp": 1766083116.684464
   },
   "modules": [
     {
@@ -158,7 +158,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2356,
+      "stars": 2357,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -485,7 +485,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 899,
+      "stars": 900,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -779,7 +779,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 408,
+      "stars": 409,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1187,7 +1187,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 205,
+      "stars": 207,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1744,7 +1744,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1842,
+      "stars": 1844,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -1979,7 +1979,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 4793,
+      "stars": 4797,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2478,7 +2478,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22309,
+      "stars": 22311,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2533,7 +2533,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8058,
+      "stars": 8060,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
