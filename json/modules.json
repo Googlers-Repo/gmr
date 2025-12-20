@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1766195717.238888
+    "timestamp": 1766212602.370794
   },
   "modules": [
     {
@@ -158,7 +158,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2367,
+      "stars": 2370,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1029,8 +1029,8 @@
     {
       "id": "magic_mount_rs",
       "name": "Magic Mount-rs",
-      "version": "v1.2.2-d66c704",
-      "versionCode": 102002,
+      "version": "v1.3.0-983f6e0",
+      "versionCode": 103000,
       "author": "7a72 & Tools-cx-app & YuzakiKokuban",
       "description": "An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.",
       "metamodule": "1",
@@ -1047,15 +1047,15 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1765678332.0,
-      "size": 455983,
+      "timestamp": 1766211872.0,
+      "size": 550782,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "webroot": true
       },
-      "stars": 183,
+      "stars": 184,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1087,6 +1087,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.2.2-d66c704_102002.zip",
           "changelog": "",
           "size": 455983
+        },
+        {
+          "timestamp": 1766211872.0,
+          "version": "v1.3.0-983f6e0",
+          "versionCode": 103000,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.3.0-983f6e0_103000.zip",
+          "changelog": "",
+          "size": 550782
         }
       ]
     },
@@ -1744,7 +1752,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1848,
+      "stars": 1850,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -1979,7 +1987,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 4807,
+      "stars": 4811,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2478,7 +2486,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22316,
+      "stars": 22317,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2533,7 +2541,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8074,
+      "stars": 8077,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
