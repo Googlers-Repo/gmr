@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1766299031.566378
+    "timestamp": 1766321360.546613
   },
   "modules": [
     {
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 212,
+      "stars": 213,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -158,7 +158,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2377,
+      "stars": 2378,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -342,13 +342,6 @@
       "versions": [
         {
           "timestamp": 1690235714.0,
-          "version": "v5.1",
-          "versionCode": 59,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v5.1_59.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1690235714.0,
           "version": "7.4.2",
           "versionCode": 742,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/7.4.2_742.zip",
@@ -384,6 +377,14 @@
           "version": "1.0.41",
           "versionCode": 104114,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/1.0.41_104114.zip",
+          "changelog": "",
+          "size": 23941
+        },
+        {
+          "timestamp": 1690235714.0,
+          "version": "v2021.12.14",
+          "versionCode": 202112140,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v2021.12.14_202112140.zip",
           "changelog": "",
           "size": 23941
         }
@@ -485,7 +486,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 904,
+      "stars": 905,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1029,8 +1030,8 @@
     {
       "id": "magic_mount_rs",
       "name": "Magic Mount-rs",
-      "version": "v1.3.0-983f6e0",
-      "versionCode": 103000,
+      "version": "v1.3.1-b4592e1",
+      "versionCode": 103001,
       "author": "7a72 & Tools-cx-app & YuzakiKokuban",
       "description": "An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.",
       "metamodule": "1",
@@ -1047,15 +1048,15 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1766211872.0,
-      "size": 550782,
+      "timestamp": 1766314347.0,
+      "size": 554411,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "webroot": true
       },
-      "stars": 188,
+      "stars": 192,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1095,6 +1096,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.3.0-983f6e0_103000.zip",
           "changelog": "",
           "size": 550782
+        },
+        {
+          "timestamp": 1766314347.0,
+          "version": "v1.3.1-b4592e1",
+          "versionCode": 103001,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.3.1-b4592e1_103001.zip",
+          "changelog": "",
+          "size": 554411
         }
       ]
     },
@@ -1479,7 +1488,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 219,
+      "stars": 221,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1752,7 +1761,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1853,
+      "stars": 1854,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2293,7 +2302,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2276,
+      "stars": 2278,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2486,7 +2495,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22328,
+      "stars": 22329,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2541,7 +2550,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8083,
+      "stars": 8085,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
