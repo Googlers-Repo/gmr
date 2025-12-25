@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1766667150.126105
+    "timestamp": 1766687760.829619
   },
   "modules": [
     {
@@ -158,7 +158,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2406,
+      "stars": 2408,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1204,7 +1204,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 216,
+      "stars": 217,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1761,7 +1761,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1877,
+      "stars": 1878,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -1996,7 +1996,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 4864,
+      "stars": 4868,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2302,7 +2302,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2282,
+      "stars": 2281,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2361,7 +2361,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1756,
+      "stars": 1757,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2495,7 +2495,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22368,
+      "stars": 22369,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2550,7 +2550,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8123,
+      "stars": 8124,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
