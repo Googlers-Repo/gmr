@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1766774154.40137
+    "timestamp": 1766800793.77647
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 339,
+      "stars": 340,
       "track": {
         "type": "GIT",
         "added": null,
@@ -563,7 +563,7 @@
       "verified": false,
       "timestamp": 1699710957.0,
       "size": 9933908,
-      "stars": 1053,
+      "stars": 1055,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1030,8 +1030,8 @@
     {
       "id": "magic_mount_rs",
       "name": "Magic Mount-rs",
-      "version": "v1.3.1-b4592e1",
-      "versionCode": 103001,
+      "version": "v1.4.0-20dd94a",
+      "versionCode": 104000,
       "author": "7a72 & Tools-cx-app & YuzakiKokuban",
       "description": "An implementation of a metamodule using Magic Mount, Based on MKSU, Template is from meta-overlay.",
       "metamodule": "1",
@@ -1048,15 +1048,15 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1766314347.0,
-      "size": 554411,
+      "timestamp": 1766794110.0,
+      "size": 555296,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "webroot": true
       },
-      "stars": 206,
+      "stars": 207,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1104,6 +1104,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.3.1-b4592e1_103001.zip",
           "changelog": "",
           "size": 554411
+        },
+        {
+          "timestamp": 1766794110.0,
+          "version": "v1.4.0-20dd94a",
+          "versionCode": 104000,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.4.0-20dd94a_104000.zip",
+          "changelog": "",
+          "size": 555296
         }
       ]
     },
@@ -1761,7 +1769,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1879,
+      "stars": 1882,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2361,7 +2369,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1757,
+      "stars": 1758,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2495,7 +2503,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22379,
+      "stars": 22380,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2550,7 +2558,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8132,
+      "stars": 8133,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
