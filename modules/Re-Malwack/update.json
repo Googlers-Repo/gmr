@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v6.0_600.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v6.0_600.md",
       "size": 1759912
+    },
+    {
+      "timestamp": 1766897046.0,
+      "version": "v7.0",
+      "versionCode": 700,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v7.0_700.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v7.0_700.md",
+      "size": 2446697
     }
   ]
 }
