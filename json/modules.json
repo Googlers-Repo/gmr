@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1767012958.42096
+    "timestamp": 1767033442.764455
   },
   "modules": [
     {
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 225,
+      "stars": 226,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2427,
+      "stars": 2428,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -778,7 +778,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 414,
+      "stars": 415,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -894,7 +894,7 @@
         "service": true,
         "action": true
       },
-      "stars": 334,
+      "stars": 335,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1054,7 +1054,7 @@
       "features": {
         "webroot": true
       },
-      "stars": 217,
+      "stars": 218,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1210,7 +1210,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 224,
+      "stars": 225,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1710,7 +1710,7 @@
         "service": true,
         "post_fs_data": true
       },
-      "stars": 260,
+      "stars": 261,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1767,7 +1767,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1891,
+      "stars": 1893,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2308,7 +2308,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2283,
+      "stars": 2284,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2367,7 +2367,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1764,
+      "stars": 1763,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2501,7 +2501,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22403,
+      "stars": 22404,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2556,7 +2556,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8162,
+      "stars": 8163,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
