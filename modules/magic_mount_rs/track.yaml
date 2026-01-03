@@ -1,6 +1,6 @@
 enable: true
 id: magic_mount_rs
-last_update: 1767321417.0
+last_update: 1767431462.0
 manager:
   apatch:
     min: -1
