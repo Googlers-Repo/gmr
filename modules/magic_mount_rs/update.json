@@ -3,14 +3,6 @@
   "timestamp": 1765102448.0,
   "versions": [
     {
-      "timestamp": 1766314347.0,
-      "version": "v1.3.1-b4592e1",
-      "versionCode": 103001,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v1.3.1-b4592e1_103001.zip",
-      "changelog": "",
-      "size": 554411
-    },
-    {
       "timestamp": 1766794110.0,
       "version": "v1.4.0-20dd94a",
       "versionCode": 104000,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v2.2.0-399_202000.zip",
       "changelog": "",
       "size": 1394214
+    },
+    {
+      "timestamp": 1768131636.0,
+      "version": "v2.2.1-412",
+      "versionCode": 202001,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/magic_mount_rs/v2.2.1-412_202001.zip",
+      "changelog": "",
+      "size": 1393048
     }
   ]
 }
