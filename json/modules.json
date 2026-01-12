@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1768200305.886312
+    "timestamp": 1768222700.656187
   },
   "modules": [
     {
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2486,
+      "stars": 2489,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -627,8 +627,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.82",
-      "versionCode": 2082,
+      "version": "v2.83",
+      "versionCode": 2083,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -657,8 +657,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1767617832.030461,
-      "size": 4741471,
+      "timestamp": 1768222691.238217,
+      "size": 4829786,
       "stars": 68,
       "track": {
         "type": "ONLINE_JSON",
@@ -668,14 +668,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1764593624.822717,
-          "version": "v2.77",
-          "versionCode": 2077,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.77_2077.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.77_2077.md",
-          "size": 5792768
-        },
         {
           "timestamp": 1765198435.060915,
           "version": "v2.78",
@@ -715,6 +707,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.82_2082.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.82_2082.md",
           "size": 4741471
+        },
+        {
+          "timestamp": 1768222691.238217,
+          "version": "v2.83",
+          "versionCode": 2083,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.83_2083.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.83_2083.md",
+          "size": 4829786
         }
       ]
     },
@@ -1210,7 +1210,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 244,
+      "stars": 243,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1415,7 +1415,7 @@
       "verified": false,
       "timestamp": 1749863200.0,
       "size": 866802,
-      "stars": 169,
+      "stars": 170,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1710,7 +1710,7 @@
         "service": true,
         "post_fs_data": true
       },
-      "stars": 271,
+      "stars": 272,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1767,7 +1767,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1934,
+      "stars": 1936,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2002,7 +2002,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 4987,
+      "stars": 4990,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2138,7 +2138,7 @@
         "service": true,
         "apks": true
       },
-      "stars": 426,
+      "stars": 428,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2501,7 +2501,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22520,
+      "stars": 22522,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2556,7 +2556,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8292,
+      "stars": 8299,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
