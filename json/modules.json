@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1768222700.656187
+    "timestamp": 1768243199.993992
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 354,
+      "stars": 355,
       "track": {
         "type": "GIT",
         "added": null,
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2489,
+      "stars": 2493,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -484,7 +484,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 959,
+      "stars": 961,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1054,7 +1054,7 @@
       "features": {
         "webroot": true
       },
-      "stars": 270,
+      "stars": 271,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1767,7 +1767,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1936,
+      "stars": 1938,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2002,7 +2002,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 4990,
+      "stars": 4992,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2367,7 +2367,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1776,
+      "stars": 1777,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2501,7 +2501,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22522,
+      "stars": 22526,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2556,7 +2556,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8299,
+      "stars": 8302,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
