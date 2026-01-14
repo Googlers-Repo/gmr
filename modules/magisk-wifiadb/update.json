@@ -41,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/v5.0.0_50000.zip",
       "changelog": "",
       "size": 4331
+    },
+    {
+      "timestamp": 1739639347.0,
+      "version": "v2.2.1-412",
+      "versionCode": 202001,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/v2.2.1-412_202001.zip",
+      "changelog": "",
+      "size": 4331
     }
   ]
 }
