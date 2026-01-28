@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1769582646.736204
+    "timestamp": 1769605335.601025
   },
   "modules": [
     {
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2577,
+      "stars": 2579,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -282,7 +282,7 @@
       "verified": false,
       "timestamp": 1698679366.0,
       "size": 5300707,
-      "stars": 613,
+      "stars": 612,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -484,7 +484,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 990,
+      "stars": 993,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -561,7 +561,7 @@
       "verified": false,
       "timestamp": 1699710957.0,
       "size": 9933908,
-      "stars": 1065,
+      "stars": 1064,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1054,7 +1054,7 @@
       "features": {
         "webroot": true
       },
-      "stars": 304,
+      "stars": 305,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1218,7 +1218,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 269,
+      "stars": 271,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1423,7 +1423,7 @@
       "verified": false,
       "timestamp": 1749863200.0,
       "size": 866802,
-      "stars": 175,
+      "stars": 174,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1775,7 +1775,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1995,
+      "stars": 1996,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -1857,7 +1857,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 186,
+      "stars": 187,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2010,7 +2010,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5094,
+      "stars": 5098,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2316,7 +2316,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2326,
+      "stars": 2327,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2509,7 +2509,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22653,
+      "stars": 22656,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2564,7 +2564,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8415,
+      "stars": 8417,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
