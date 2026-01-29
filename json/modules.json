@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1769669756.022845
+    "timestamp": 1769692126.284862
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 366,
+      "stars": 367,
       "track": {
         "type": "GIT",
         "added": null,
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 258,
+      "stars": 259,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2585,
+      "stars": 2586,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -484,7 +484,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1005,
+      "stars": 1015,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1218,7 +1218,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 271,
+      "stars": 270,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1740,8 +1740,8 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R24",
-      "versionCode": 105002024,
+      "version": "v1.5.2-R25",
+      "versionCode": 105002025,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "added": 1723905223,
@@ -1754,8 +1754,8 @@
         }
       },
       "verified": false,
-      "timestamp": 1767436835.0,
-      "size": 1187127,
+      "timestamp": 1769682558.0,
+      "size": 983240,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1784,14 +1784,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1749780721.0,
-          "version": "v1.5.2-R19",
-          "versionCode": 105002019,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R19_105002019.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R19_105002019.md",
-          "size": 1276688
-        },
         {
           "timestamp": 1751808417.0,
           "version": "v1.5.2-R20",
@@ -1831,6 +1823,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R24_105002024.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R24_105002024.md",
           "size": 1187127
+        },
+        {
+          "timestamp": 1769682558.0,
+          "version": "v1.5.2-R25",
+          "versionCode": 105002025,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R25_105002025.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R25_105002025.md",
+          "size": 983240
         }
       ]
     },
@@ -2010,7 +2010,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5102,
+      "stars": 5103,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2316,7 +2316,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2326,
+      "stars": 2327,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2375,7 +2375,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1796,
+      "stars": 1798,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2509,7 +2509,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22657,
+      "stars": 22656,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2564,7 +2564,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8419,
+      "stars": 8418,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
