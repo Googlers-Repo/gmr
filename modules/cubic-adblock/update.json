@@ -3,14 +3,6 @@
   "timestamp": 1725754490.385085,
   "versions": [
     {
-      "timestamp": 1766407998.628506,
-      "version": "v2.80",
-      "versionCode": 2080,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.80_2080.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.80_2080.md",
-      "size": 5836250
-    },
-    {
       "timestamp": 1767012948.239702,
       "version": "v2.81",
       "versionCode": 2081,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.85_2085.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.85_2085.md",
       "size": 5259361
+    },
+    {
+      "timestamp": 1770037905.638163,
+      "version": "v2.86",
+      "versionCode": 2086,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.86_2086.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.86_2086.md",
+      "size": 5223260
     }
   ]
 }
