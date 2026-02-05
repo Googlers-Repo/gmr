@@ -15,6 +15,14 @@
       "versionCode": 17,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v12_17.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1711830438.0,
+      "version": "1.3.1",
+      "versionCode": 13100,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/1.3.1_13100.zip",
+      "changelog": "",
+      "size": 17029965
     }
   ]
 }
