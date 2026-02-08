@@ -3,14 +3,6 @@
   "timestamp": 1716371540.0,
   "versions": [
     {
-      "timestamp": 1735650872.0,
-      "version": "v1.19.1",
-      "versionCode": 24,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.md",
-      "size": 174665
-    },
-    {
       "timestamp": 1735730251.0,
       "version": "v1.19.2",
       "versionCode": 25,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.20.2_29.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.20.2_29.md",
       "size": 358502
+    },
+    {
+      "timestamp": 1770490020.0,
+      "version": "v1.21.0",
+      "versionCode": 30,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.21.0_30.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.21.0_30.md",
+      "size": 367327
     }
   ]
 }
