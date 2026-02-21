@@ -120,3 +120,66 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+            - nombre: Configurar Java JDK
+  usos: acciones/setup-java@v5.1.0
+  con:
+    # La versión de Java que se configurará. Acepta una versión completa o parcial de Java. Consulte ejemplos de sintaxis compatibles en el archivo README.
+    java-version: # opcional
+    # La ruta al archivo `.java-version`. Consulte ejemplos de sintaxis compatibles en el archivo README.
+    archivo-versión-java: # opcional
+    # Distribución de Java. Consulte la lista de distribuciones compatibles en el archivo README.
+    distribución:
+    # El tipo de paquete (jdk, jre, jdk+fx, jre+fx)
+    java-package: # opcional, el valor predeterminado es jdk
+    # La arquitectura del paquete (por defecto la arquitectura del ejecutor de acciones)
+    arquitectura: # opcional
+    # Ruta donde se encuentra el JDK comprimido
+    jdkFile: # opcional
+    # Configure esta opción si desea que la acción busque la última versión disponible que cumpla con la especificación de la versión.
+    check-latest: # opcional
+    # ID del repositorio de administración de distribución en el archivo pom.xml. El valor predeterminado es `github`.
+    server-id: # opcional, el valor predeterminado es github
+    # Nombre de la variable de entorno para el nombre de usuario para la autenticación en el repositorio Apache Maven. El valor predeterminado es $GITHUB_ACTOR
+    nombre de usuario del servidor: # opcional, el valor predeterminado es GITHUB_ACTOR
+    # Nombre de la variable de entorno para la contraseña o token de autenticación en el repositorio Apache Maven. El valor predeterminado es $GITHUB_TOKEN
+    contraseña del servidor: # opcional, el valor predeterminado es GITHUB_TOKEN
+    Ruta donde se escribirá el archivo settings.xml. El valor predeterminado es ~/.m2.
+    ruta de configuración: # opcional
+    # Sobrescribir el archivo settings.xml si existe. El valor predeterminado es "true".
+    overwrite-settings: # opcional, el valor predeterminado es verdadero
+    # Clave privada GPG para importar. El valor predeterminado es una cadena vacía.
+    clave privada gpg: # opcional
+    Nombre de la variable de entorno para la contraseña de la clave privada GPG. El valor predeterminado es $GPG_PASSPHRASE.
+    frase de contraseña gpg: # opcional
+    # Nombre de la plataforma de compilación donde se almacenarán las dependencias en caché. Puede ser "maven", "gradle" o "sbt".
+    caché: # opcional
+    # La ruta a un archivo de dependencia: pom.xml, build.gradle, build.sbt, etc. Esta opción se puede usar con la opción `cache`. Si se omite, la acción busca el archivo de dependencia en todo el repositorio. Esta opción admite comodines y una lista de nombres de archivo para almacenar en caché varias dependencias.
+    ruta de dependencia de caché: # opcional
+    Solución alternativa para pasar el estado del trabajo al paso posterior al trabajo. Esta variable no está diseñada para configuración manual.
+    job-status: # opcional, el valor predeterminado es ${{ job.status }}
+    # El token utilizado para la autenticación al obtener manifiestos de versiones alojados en github.com, como en el caso de Microsoft Build de OpenJDK. Al ejecutar esta acción en github.com, el valor predeterminado es suficiente. Al ejecutar en GHES, puede pasar un token de acceso personal para github.com si experimenta limitaciones de velocidad.
+    token: # opcional, el valor predeterminado es ${{ github.server_url == 'https://github.com' && github.token || '' }}
+    # Nombre del ID de la cadena de herramientas de Maven si no se desea el nombre predeterminado "${distribution}_${java-version}". Consulte ejemplos de sintaxis compatibles en el archivo de uso avanzado.
+    mvn-toolchain-id: # opcional
+    # Nombre del proveedor de la cadena de herramientas Maven si no se desea el nombre predeterminado "${distribution}". Consulte ejemplos de sintaxis compatibles en el archivo de uso avanzado.
+    mvn-toolchain-vendor: # opcional
+                      - nombre: Configurar el SDK de .NET Core
+  usos: acciones/setup-dotnet@v5.0.1
+  con:
+    Versiones opcionales del SDK. Si no se proporciona, se instalará la versión global.json cuando esté disponible. Ejemplos: 2.2.104, 3.1, 3.1.x, 3.x, 6.0.2xx
+    dotnet-version: # opcional
+    Calidad opcional de la compilación. Los valores posibles son: diario, firmado, validado, vista previa y ga.
+    dotnet-quality: # opcional
+    # Ubicación opcional de global.json, si su global.json no se encuentra en la raíz del repositorio.
+    archivo json global: # opcional
+    # Fuente de paquete opcional para configurar la autenticación. Consultará cualquier archivo NuGet.config existente en la raíz del repositorio y proporcionará un archivo NuGet.config temporal utilizando la variable de entorno NUGET_AUTH_TOKEN como ClearTextPassword.
+    URL de origen: # opcional
+    # PROPIETARIO opcional para usar paquetes de organizaciones/usuarios del Registro de Paquetes de GitHub distintos del propietario del repositorio actual. Solo se usa si también se proporciona una URL de GPR en source-url.
+    propietario: # opcional
+    # Ubicación opcional de NuGet.config, si su NuGet.config no se encuentra en la raíz del repositorio.
+    archivo de configuración: # opcional
+    # Entrada opcional para habilitar el almacenamiento en caché de la carpeta de paquetes globales de NuGet
+    caché: # opcional
+    # Se utiliza para especificar la ruta a un archivo de dependencia: packages.lock.json. Admite comodines o una lista de nombres de archivo para almacenar en caché varias dependencias.
+    ruta de dependencia de caché: # opcional
+          
