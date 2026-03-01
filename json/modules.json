@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1772348059.19217
+    "timestamp": 1772369979.642097
   },
   "modules": [
     {
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2729,
+      "stars": 2731,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -982,7 +982,7 @@
         "webroot": true,
         "apks": true
       },
-      "stars": 385,
+      "stars": 387,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1145,7 +1145,7 @@
       "features": {
         "service": true
       },
-      "stars": 238,
+      "stars": 239,
       "track": {
         "type": "GIT",
         "added": 1723905223.0,
@@ -1790,7 +1790,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2080,
+      "stars": 2081,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2025,7 +2025,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5304,
+      "stars": 5308,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2285,7 +2285,7 @@
       "verified": false,
       "timestamp": 1712163102.0,
       "size": 5920487,
-      "stars": 79,
+      "stars": 80,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -2524,7 +2524,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22925,
+      "stars": 22927,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2579,7 +2579,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8694,
+      "stars": 8700,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
