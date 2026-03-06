@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1772738386.359017
+    "timestamp": 1772764335.794998
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 408,
+      "stars": 409,
       "track": {
         "type": "GIT",
         "added": null,
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 288,
+      "stars": 289,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2752,
+      "stars": 2755,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2330,7 +2330,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2371,
+      "stars": 2372,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2360,8 +2360,8 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.21.0",
-      "versionCode": 30,
+      "version": "v1.22.0",
+      "versionCode": 31,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
@@ -2377,8 +2377,8 @@
         "zygisk-assistant"
       ],
       "verified": false,
-      "timestamp": 1770490020.0,
-      "size": 367327,
+      "timestamp": 1772740850.0,
+      "size": 369895,
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
@@ -2389,7 +2389,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1863,
+      "stars": 1862,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2398,14 +2398,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1735730251.0,
-          "version": "v1.19.2",
-          "versionCode": 25,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.md",
-          "size": 171824
-        },
         {
           "timestamp": 1738608638.0,
           "version": "v1.19.3",
@@ -2445,6 +2437,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.21.0_30.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.21.0_30.md",
           "size": 367327
+        },
+        {
+          "timestamp": 1772740850.0,
+          "version": "v1.22.0",
+          "versionCode": 31,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.22.0_31.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.22.0_31.md",
+          "size": 369895
         }
       ]
     },
@@ -2523,7 +2523,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22957,
+      "stars": 22958,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2578,7 +2578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8725,
+      "stars": 8726,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
