@@ -3,14 +3,6 @@
   "timestamp": 1733382594.0,
   "versions": [
     {
-      "timestamp": 1751808417.0,
-      "version": "v1.5.2-R20",
-      "versionCode": 105002020,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R20_105002020.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R20_105002020.md",
-      "size": 1354745
-    },
-    {
       "timestamp": 1757250766.0,
       "version": "v1.5.2-R21",
       "versionCode": 105002021,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R25_105002025.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R25_105002025.md",
       "size": 983240
+    },
+    {
+      "timestamp": 1772768057.0,
+      "version": "v1.5.2-R26",
+      "versionCode": 105002026,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R26_105002026.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R26_105002026.md",
+      "size": 1035452
     }
   ]
 }
