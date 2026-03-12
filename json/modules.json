@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1773321202.562097
+    "timestamp": 1773342088.524259
   },
   "modules": [
     {
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2798,
+      "stars": 2799,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -239,7 +239,7 @@
       "verified": false,
       "timestamp": 1643646579.0,
       "size": 3796149,
-      "stars": 125,
+      "stars": 126,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -560,7 +560,7 @@
       "verified": false,
       "timestamp": 1699710957.0,
       "size": 9933908,
-      "stars": 1084,
+      "stars": 1085,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -909,7 +909,7 @@
         "service": true,
         "action": true
       },
-      "stars": 346,
+      "stars": 347,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1714,25 +1714,27 @@
     {
       "id": "sensitive_props",
       "name": "Sensitive Props Mod",
-      "version": "v6.5.0-hexpatch",
-      "versionCode": 60507,
+      "version": "v6.5.6-hexpatch",
+      "versionCode": 60560,
       "author": "@T3SL4",
       "description": "Reset sensitive properties to a safe state and try to bypass Safetynet / Play Integrity.",
       "support": "https://github.com/Pixel-Props/sensitive-props/issues",
       "readme": "https://raw.githubusercontent.com/Pixel-Props/sensitive-props/refs/heads/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1738862630.0,
-      "size": 22599,
+      "timestamp": 1773327180.0,
+      "size": 23402,
       "permissions": [
         "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA"
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY"
       ],
       "features": {
         "service": true,
-        "post_fs_data": true
+        "post_fs_data": true,
+        "sepolicy": true
       },
-      "stars": 302,
+      "stars": 303,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1748,6 +1750,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/sensitive_props/v6.5.0-hexpatch_60507.zip",
           "changelog": "",
           "size": 22599
+        },
+        {
+          "timestamp": 1773327180.0,
+          "version": "v6.5.6-hexpatch",
+          "versionCode": 60560,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/sensitive_props/v6.5.6-hexpatch_60560.zip",
+          "changelog": "",
+          "size": 23402
         }
       ]
     },
@@ -1789,7 +1799,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2110,
+      "stars": 2111,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2024,7 +2034,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5420,
+      "stars": 5425,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2330,7 +2340,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2386,
+      "stars": 2388,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2389,7 +2399,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1876,
+      "stars": 1877,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2523,7 +2533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23038,
+      "stars": 23041,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2578,7 +2588,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8820,
+      "stars": 8824,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
