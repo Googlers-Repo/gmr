@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1773407515.563589
+    "timestamp": 1773427891.696255
   },
   "modules": [
     {
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 297,
+      "stars": 299,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2808,
+      "stars": 2812,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -483,7 +483,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1130,
+      "stars": 1131,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -785,7 +785,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 444,
+      "stars": 445,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -981,7 +981,7 @@
         "webroot": true,
         "apks": true
       },
-      "stars": 392,
+      "stars": 393,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1714,16 +1714,16 @@
     {
       "id": "sensitive_props",
       "name": "Sensitive Props Mod",
-      "version": "v6.5.6-hexpatch",
-      "versionCode": 60560,
+      "version": "v6.6.0-hexpatch",
+      "versionCode": 60600,
       "author": "@T3SL4",
       "description": "Reset sensitive properties to a safe state and try to bypass Safetynet / Play Integrity.",
       "support": "https://github.com/Pixel-Props/sensitive-props/issues",
       "readme": "https://raw.githubusercontent.com/Pixel-Props/sensitive-props/refs/heads/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1773327180.0,
-      "size": 23402,
+      "timestamp": 1773417972.0,
+      "size": 28255,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1734,7 +1734,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 306,
+      "stars": 307,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1758,6 +1758,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/sensitive_props/v6.5.6-hexpatch_60560.zip",
           "changelog": "",
           "size": 23402
+        },
+        {
+          "timestamp": 1773417972.0,
+          "version": "v6.6.0-hexpatch",
+          "versionCode": 60600,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/sensitive_props/v6.6.0-hexpatch_60600.zip",
+          "changelog": "",
+          "size": 28255
         }
       ]
     },
@@ -2034,7 +2042,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5432,
+      "stars": 5435,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2340,7 +2348,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2390,
+      "stars": 2391,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2588,7 +2596,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8832,
+      "stars": 8835,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,

@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/sensitive_props/v6.5.6-hexpatch_60560.zip",
       "changelog": "",
       "size": 23402
+    },
+    {
+      "timestamp": 1773417972.0,
+      "version": "v6.6.0-hexpatch",
+      "versionCode": 60600,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/sensitive_props/v6.6.0-hexpatch_60600.zip",
+      "changelog": "",
+      "size": 28255
     }
   ]
 }
