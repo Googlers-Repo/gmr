@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774118599.600571
+    "timestamp": 1774147483.920141
   },
   "modules": [
     {
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2863,
+      "stars": 2866,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -483,7 +483,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1146,
+      "stars": 1147,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1807,7 +1807,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2143,
+      "stars": 2144,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2042,7 +2042,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5521,
+      "stars": 5522,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2178,7 +2178,7 @@
         "service": true,
         "apks": true
       },
-      "stars": 473,
+      "stars": 474,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2407,7 +2407,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1898,
+      "stars": 1900,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2541,7 +2541,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23168,
+      "stars": 23170,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2565,8 +2565,8 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.3.2 (688-2c60cdd-release)",
-      "versionCode": 688,
+      "version": "1.3.3 (731-1193e46-release)",
+      "versionCode": 731,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "manager": {
@@ -2582,8 +2582,8 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1766946527.0,
-      "size": 5810459,
+      "timestamp": 1774139800.0,
+      "size": 5663703,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -2596,7 +2596,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8934,
+      "stars": 8941,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2607,14 +2607,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/zygisksu/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1759842129.0,
-          "version": "1.3.0-RC2 (606-b6f3a4a-release)",
-          "versionCode": 606,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.0-RC2_606-b6f3a4a-release.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.0-RC2_606-b6f3a4a-release.md",
-          "size": 6254071
-        },
         {
           "timestamp": 1760111643.0,
           "version": "1.3.0-RC3 (620-316eada-release)",
@@ -2654,6 +2646,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.2_688-2c60cdd-release.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.2_688-2c60cdd-release.md",
           "size": 5810459
+        },
+        {
+          "timestamp": 1774139800.0,
+          "version": "1.3.3 (731-1193e46-release)",
+          "versionCode": 731,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.3_731-1193e46-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.3.3_731-1193e46-release.md",
+          "size": 5663703
         }
       ]
     }
