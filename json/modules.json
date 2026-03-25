@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774444968.224771
+    "timestamp": 1774465384.12649
   },
   "modules": [
     {
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2882,
+      "stars": 2884,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -483,7 +483,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1154,
+      "stars": 1155,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -893,14 +893,14 @@
     {
       "id": "iOS_Emoji",
       "name": "iOS 18.4 Emoji font",
-      "version": "v18.4",
-      "versionCode": 18400,
+      "version": "v18.4.1",
+      "versionCode": 18401,
       "author": "Keinta15",
       "description": "Systemlessly replaces emoji font with iOS 18.4 Emoji",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1745678577.0,
-      "size": 42415955,
+      "timestamp": 1774459589.0,
+      "size": 42416591,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION"
@@ -909,7 +909,7 @@
         "service": true,
         "action": true
       },
-      "stars": 345,
+      "stars": 346,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -949,6 +949,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4_18400.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4_18400.md",
           "size": 42415955
+        },
+        {
+          "timestamp": 1774459589.0,
+          "version": "v18.4.1",
+          "versionCode": 18401,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4.1_18401.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4.1_18401.md",
+          "size": 42416591
         }
       ]
     },
@@ -1734,7 +1742,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 318,
+      "stars": 319,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1807,7 +1815,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2150,
+      "stars": 2151,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2348,7 +2356,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2414,
+      "stars": 2416,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2541,7 +2549,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23218,
+      "stars": 23223,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2596,7 +2604,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9009,
+      "stars": 9011,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
