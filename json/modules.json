@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774617507.946731
+    "timestamp": 1774638153.708813
   },
   "modules": [
     {
@@ -156,7 +156,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2903,
+      "stars": 2906,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1780,8 +1780,8 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R26",
-      "versionCode": 105002026,
+      "version": "v1.5.2-R27",
+      "versionCode": 105002027,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "added": 1723905223,
@@ -1794,8 +1794,8 @@
         }
       },
       "verified": false,
-      "timestamp": 1772768057.0,
-      "size": 1035452,
+      "timestamp": 1774621397.0,
+      "size": 903621,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1824,14 +1824,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1757250766.0,
-          "version": "v1.5.2-R21",
-          "versionCode": 105002021,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R21_105002021.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R21_105002021.md",
-          "size": 1358238
-        },
         {
           "timestamp": 1758867240.0,
           "version": "v1.5.2-R22",
@@ -1871,6 +1863,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R26_105002026.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R26_105002026.md",
           "size": 1035452
+        },
+        {
+          "timestamp": 1774621397.0,
+          "version": "v1.5.2-R27",
+          "versionCode": 105002027,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R27_105002027.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.5.2-R27_105002027.md",
+          "size": 903621
         }
       ]
     },
@@ -2050,7 +2050,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5564,
+      "stars": 5567,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2186,7 +2186,7 @@
         "service": true,
         "apks": true
       },
-      "stars": 475,
+      "stars": 476,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2549,7 +2549,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23252,
+      "stars": 23256,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
