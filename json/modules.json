@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774703174.686938
+    "timestamp": 1774723829.911661
   },
   "modules": [
     {
@@ -65,16 +65,16 @@
     {
       "id": "Re-Malwack",
       "name": "Re-Malwack | Not just a normal ad-blocker module \u2728",
-      "version": "v7.0",
-      "versionCode": 700,
+      "version": "v8",
+      "versionCode": 800,
       "author": "ZG089",
       "description": "A fully-fledged ad-block module. Contains all your needs \u2728",
       "added": 1732300923.536364,
       "donate": "https://buymeacoffee.com/zg089",
       "support": "https://t.me/Re_Malwack",
       "verified": true,
-      "timestamp": 1766897046.0,
-      "size": 2446697,
+      "timestamp": 1774716116.0,
+      "size": 2843008,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 312,
+      "stars": 313,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -120,6 +120,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v7.0_700.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v7.0_700.md",
           "size": 2446697
+        },
+        {
+          "timestamp": 1774716116.0,
+          "version": "v8",
+          "versionCode": 800,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8_800.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8_800.md",
+          "size": 2843008
         }
       ]
     },
@@ -1815,7 +1823,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2160,
+      "stars": 2162,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2415,7 +2423,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1904,
+      "stars": 1905,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2549,7 +2557,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23264,
+      "stars": 23265,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2604,7 +2612,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9035,
+      "stars": 9037,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
