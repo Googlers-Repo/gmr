@@ -33,6 +33,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8_800.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8_800.md",
       "size": 2843008
+    },
+    {
+      "timestamp": 1774800986.0,
+      "version": "v8.1",
+      "versionCode": 810,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8.1_810.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8.1_810.md",
+      "size": 2843157
     }
   ]
 }

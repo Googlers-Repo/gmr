@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774789644.843289
+    "timestamp": 1774810340.591718
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 420,
+      "stars": 419,
       "track": {
         "type": "GIT",
         "added": null,
@@ -65,16 +65,16 @@
     {
       "id": "Re-Malwack",
       "name": "Re-Malwack | Not just a normal ad-blocker module \u2728",
-      "version": "v8",
-      "versionCode": 800,
+      "version": "v8.1",
+      "versionCode": 810,
       "author": "ZG089",
       "description": "A fully-fledged ad-block module. Contains all your needs \u2728",
       "added": 1732300923.536364,
       "donate": "https://buymeacoffee.com/zg089",
       "support": "https://t.me/Re_Malwack",
       "verified": true,
-      "timestamp": 1774716116.0,
-      "size": 2843008,
+      "timestamp": 1774800986.0,
+      "size": 2843157,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 314,
+      "stars": 316,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -128,6 +128,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8_800.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8_800.md",
           "size": 2843008
+        },
+        {
+          "timestamp": 1774800986.0,
+          "version": "v8.1",
+          "versionCode": 810,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8.1_810.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/Re-Malwack/v8.1_810.md",
+          "size": 2843157
         }
       ]
     },
@@ -164,7 +172,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2918,
+      "stars": 2917,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1823,7 +1831,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2162,
+      "stars": 2163,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -1905,7 +1913,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 200,
+      "stars": 201,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2058,7 +2066,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5570,
+      "stars": 5573,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2194,7 +2202,7 @@
         "service": true,
         "apks": true
       },
-      "stars": 478,
+      "stars": 479,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2364,7 +2372,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2418,
+      "stars": 2416,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2557,7 +2565,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23273,
+      "stars": 23279,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2612,7 +2620,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9040,
+      "stars": 9042,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
