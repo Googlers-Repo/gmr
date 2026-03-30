@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774857082.391128
+    "timestamp": 1774878386.457085
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 419,
+      "stars": 420,
       "track": {
         "type": "GIT",
         "added": null,
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 318,
+      "stars": 317,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -172,7 +172,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2915,
+      "stars": 2914,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -650,8 +650,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.93",
-      "versionCode": 2093,
+      "version": "v2.94",
+      "versionCode": 2094,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -680,8 +680,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1774271990.368264,
-      "size": 5695060,
+      "timestamp": 1774878377.642084,
+      "size": 5807693,
       "stars": 71,
       "track": {
         "type": "ONLINE_JSON",
@@ -691,14 +691,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1771247755.693043,
-          "version": "v2.88",
-          "versionCode": 2088,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.88_2088.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.88_2088.md",
-          "size": 5191450
-        },
         {
           "timestamp": 1771852642.788615,
           "version": "v2.89",
@@ -738,6 +730,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.93_2093.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.93_2093.md",
           "size": 5695060
+        },
+        {
+          "timestamp": 1774878377.642084,
+          "version": "v2.94",
+          "versionCode": 2094,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.94_2094.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.94_2094.md",
+          "size": 5807693
         }
       ]
     },
@@ -925,7 +925,7 @@
         "service": true,
         "action": true
       },
-      "stars": 350,
+      "stars": 349,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1758,7 +1758,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 325,
+      "stars": 327,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1831,7 +1831,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2165,
+      "stars": 2166,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2066,7 +2066,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5575,
+      "stars": 5578,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2372,7 +2372,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2416,
+      "stars": 2417,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2431,7 +2431,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1906,
+      "stars": 1909,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2565,7 +2565,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23286,
+      "stars": 23290,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2620,7 +2620,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9045,
+      "stars": 9049,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
