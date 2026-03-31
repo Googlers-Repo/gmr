@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774897642.89303
+    "timestamp": 1774925400.477858
   },
   "modules": [
     {
@@ -499,7 +499,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1165,
+      "stars": 1166,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1168,7 +1168,7 @@
       "features": {
         "service": true
       },
-      "stars": 242,
+      "stars": 243,
       "track": {
         "type": "GIT",
         "added": 1723905223.0,
@@ -1758,7 +1758,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 327,
+      "stars": 328,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1998,7 +1998,7 @@
         "service": true,
         "webroot": true
       },
-      "stars": 615,
+      "stars": 614,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -2066,7 +2066,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5580,
+      "stars": 5579,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2372,7 +2372,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2417,
+      "stars": 2418,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2565,7 +2565,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23295,
+      "stars": 23298,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2620,7 +2620,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9050,
+      "stars": 9052,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
