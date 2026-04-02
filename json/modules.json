@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1775070706.146033
+    "timestamp": 1775097965.135533
   },
   "modules": [
     {
@@ -507,7 +507,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1172,
+      "stars": 1173,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1264,7 +1264,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 334,
+      "stars": 336,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1766,7 +1766,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 338,
+      "stars": 339,
       "track": {
         "type": "GIT",
         "added": null,
@@ -2074,7 +2074,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5591,
+      "stars": 5592,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2380,7 +2380,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2418,
+      "stars": 2419,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2439,7 +2439,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1913,
+      "stars": 1914,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2573,7 +2573,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23313,
+      "stars": 23314,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2628,7 +2628,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9074,
+      "stars": 9076,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
