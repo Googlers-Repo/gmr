@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1775461968.039428
+    "timestamp": 1775481717.977832
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 429,
+      "stars": 428,
       "track": {
         "type": "GIT",
         "added": null,
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2957,
+      "stars": 2958,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -658,8 +658,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.94",
-      "versionCode": 2094,
+      "version": "v2.95",
+      "versionCode": 2095,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -688,8 +688,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1774878377.642084,
-      "size": 5807693,
+      "timestamp": 1775481707.844565,
+      "size": 6037032,
       "stars": 71,
       "track": {
         "type": "ONLINE_JSON",
@@ -699,14 +699,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1771852642.788615,
-          "version": "v2.89",
-          "versionCode": 2089,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.89_2089.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.89_2089.md",
-          "size": 5441649
-        },
         {
           "timestamp": 1772457057.726486,
           "version": "v2.90",
@@ -746,6 +738,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.94_2094.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.94_2094.md",
           "size": 5807693
+        },
+        {
+          "timestamp": 1775481707.844565,
+          "version": "v2.95",
+          "versionCode": 2095,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.95_2095.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.95_2095.md",
+          "size": 6037032
         }
       ]
     },
@@ -1548,7 +1548,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 250,
+      "stars": 252,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1839,7 +1839,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2181,
+      "stars": 2182,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2074,7 +2074,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5624,
+      "stars": 5623,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2380,7 +2380,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2421,
+      "stars": 2422,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2439,7 +2439,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1922,
+      "stars": 1923,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2573,7 +2573,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23355,
+      "stars": 23358,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2628,7 +2628,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9124,
+      "stars": 9125,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
