@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1776067920.304557
+    "timestamp": 1776088318.660113
   },
   "modules": [
     {
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 335,
+      "stars": 336,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 2986,
+      "stars": 2988,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1013,7 +1013,7 @@
         "webroot": true,
         "apks": true
       },
-      "stars": 410,
+      "stars": 411,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1264,7 +1264,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 346,
+      "stars": 347,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1901,14 +1901,14 @@
     {
       "id": "system_app_nuker",
       "name": "App Nuker",
-      "version": "v1.1.9",
-      "versionCode": 119,
+      "version": "v1.2.0",
+      "versionCode": 120,
       "author": "ChiseWaguri & Contributors",
       "description": "WebUI-based debloater and whiteout creator",
       "verified": true,
       "added": 0,
-      "timestamp": 1760293772.0,
-      "size": 1213816,
+      "timestamp": 1776079892.0,
+      "size": 1215189,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1930,14 +1930,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1745233168.0,
-          "version": "v1.1.4",
-          "versionCode": 114,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.4_114.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.4_114.md",
-          "size": 1210236
-        },
         {
           "timestamp": 1746679502.0,
           "version": "v1.1.5",
@@ -1977,6 +1969,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.9_119.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.9_119.md",
           "size": 1213816
+        },
+        {
+          "timestamp": 1776079892.0,
+          "version": "v1.2.0",
+          "versionCode": 120,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.2.0_120.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.2.0_120.md",
+          "size": 1215189
         }
       ]
     },
@@ -2074,7 +2074,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5672,
+      "stars": 5673,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2573,7 +2573,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23416,
+      "stars": 23419,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2628,7 +2628,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9203,
+      "stars": 9207,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
