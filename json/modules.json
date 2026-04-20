@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1776673108.769202
+    "timestamp": 1776693294.323442
   },
   "modules": [
     {
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3009,
+      "stars": 3010,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -666,8 +666,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.95",
-      "versionCode": 2095,
+      "version": "v2.96",
+      "versionCode": 2096,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -696,8 +696,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1775481707.844565,
-      "size": 6037032,
+      "timestamp": 1776693283.857239,
+      "size": 6098904,
       "stars": 71,
       "track": {
         "type": "ONLINE_JSON",
@@ -707,14 +707,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1772457057.726486,
-          "version": "v2.90",
-          "versionCode": 2090,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.90_2090.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.90_2090.md",
-          "size": 5297009
-        },
         {
           "timestamp": 1773062150.382687,
           "version": "v2.91",
@@ -754,6 +746,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.95_2095.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.95_2095.md",
           "size": 6037032
+        },
+        {
+          "timestamp": 1776693283.857239,
+          "version": "v2.96",
+          "versionCode": 2096,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.96_2096.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.96_2096.md",
+          "size": 6098904
         }
       ]
     },
@@ -941,7 +941,7 @@
         "service": true,
         "action": true
       },
-      "stars": 358,
+      "stars": 359,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1556,7 +1556,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 257,
+      "stars": 258,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1847,7 +1847,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2216,
+      "stars": 2217,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2082,7 +2082,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5721,
+      "stars": 5725,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2636,7 +2636,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9260,
+      "stars": 9263,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
