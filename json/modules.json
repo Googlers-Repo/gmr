@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1777298818.808717
+    "timestamp": 1777318839.508457
   },
   "modules": [
     {
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3025,
+      "stars": 3024,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1021,7 +1021,7 @@
         "webroot": true,
         "apks": true
       },
-      "stars": 412,
+      "stars": 413,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1847,7 +1847,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2234,
+      "stars": 2236,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2014,7 +2014,7 @@
         "service": true,
         "webroot": true
       },
-      "stars": 617,
+      "stars": 618,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -2082,7 +2082,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5760,
+      "stars": 5762,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2447,7 +2447,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1952,
+      "stars": 1953,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2581,7 +2581,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23564,
+      "stars": 23566,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2636,7 +2636,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9326,
+      "stars": 9324,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
