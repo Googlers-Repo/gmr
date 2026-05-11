@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1778493020.747812
+    "timestamp": 1778512958.639736
   },
   "modules": [
     {
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 356,
+      "stars": 357,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3086,
+      "stars": 3088,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -509,7 +509,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1251,
+      "stars": 1252,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -668,8 +668,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v2.98",
-      "versionCode": 2098,
+      "version": "v2.99",
+      "versionCode": 2099,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -698,8 +698,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1777904063.848275,
-      "size": 6360486,
+      "timestamp": 1778512949.331942,
+      "size": 6833127,
       "stars": 73,
       "track": {
         "type": "ONLINE_JSON",
@@ -709,14 +709,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1774271990.368264,
-          "version": "v2.93",
-          "versionCode": 2093,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.93_2093.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.93_2093.md",
-          "size": 5695060
-        },
         {
           "timestamp": 1774878377.642084,
           "version": "v2.94",
@@ -756,6 +748,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.98_2098.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.98_2098.md",
           "size": 6360486
+        },
+        {
+          "timestamp": 1778512949.331942,
+          "version": "v2.99",
+          "versionCode": 2099,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.99_2099.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.99_2099.md",
+          "size": 6833127
         }
       ]
     },
@@ -1274,7 +1274,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 381,
+      "stars": 384,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1849,7 +1849,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2278,
+      "stars": 2280,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2390,7 +2390,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2466,
+      "stars": 2467,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2449,7 +2449,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1976,
+      "stars": 1975,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2583,7 +2583,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23682,
+      "stars": 23686,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2638,7 +2638,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9431,
+      "stars": 9433,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
