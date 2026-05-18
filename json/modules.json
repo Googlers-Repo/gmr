@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1779045335.760132
+    "timestamp": 1779077319.397849
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 463,
+      "stars": 464,
       "track": {
         "type": "GIT",
         "added": null,
@@ -509,7 +509,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1257,
+      "stars": 1258,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1849,7 +1849,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2300,
+      "stars": 2301,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2084,7 +2084,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5899,
+      "stars": 5900,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2344,7 +2344,7 @@
       "verified": false,
       "timestamp": 1712163102.0,
       "size": 5920487,
-      "stars": 81,
+      "stars": 82,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -2449,7 +2449,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1986,
+      "stars": 1987,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2583,7 +2583,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23741,
+      "stars": 23743,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2638,7 +2638,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9481,
+      "stars": 9482,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
