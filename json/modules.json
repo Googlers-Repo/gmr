@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1780893589.443405
+    "timestamp": 1780916801.798473
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 479,
+      "stars": 480,
       "track": {
         "type": "GIT",
         "added": null,
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3173,
+      "stars": 3174,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1776,7 +1776,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 375,
+      "stars": 376,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1849,7 +1849,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2370,
+      "stars": 2371,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2084,7 +2084,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6003,
+      "stars": 6007,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2390,7 +2390,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2493,
+      "stars": 2494,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2583,7 +2583,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23914,
+      "stars": 23916,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2638,7 +2638,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9648,
+      "stars": 9650,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
