@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1782017453.094882
+    "timestamp": 1782035804.883776
   },
   "modules": [
     {
@@ -150,8 +150,8 @@
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v4.3",
-      "versionCode": 635,
+      "version": "v4.4",
+      "versionCode": 679,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "added": 1723905223.0,
@@ -168,8 +168,8 @@
       },
       "license": " GPL-3.0",
       "verified": false,
-      "timestamp": 1762093319.0,
-      "size": 3120144,
+      "timestamp": 1782029771.0,
+      "size": 3203800,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3204,
+      "stars": 3205,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -192,14 +192,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/TA_utl/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1744303722.0,
-          "version": "v3.8.1",
-          "versionCode": 381,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.8.1_381.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.8.1_381.md",
-          "size": 1250184
-        },
         {
           "timestamp": 1746893051.0,
           "version": "v3.9",
@@ -239,6 +231,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v4.3_635.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v4.3_635.md",
           "size": 3120144
+        },
+        {
+          "timestamp": 1782029771.0,
+          "version": "v4.4",
+          "versionCode": 679,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v4.4_679.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v4.4_679.md",
+          "size": 3203800
         }
       ]
     },
@@ -1186,7 +1186,7 @@
       "features": {
         "service": true
       },
-      "stars": 264,
+      "stars": 263,
       "track": {
         "type": "GIT",
         "added": 1723905223.0,
@@ -1274,7 +1274,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 405,
+      "stars": 404,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1849,7 +1849,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2394,
+      "stars": 2395,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2084,7 +2084,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6062,
+      "stars": 6063,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2449,7 +2449,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2026,
+      "stars": 2027,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2583,7 +2583,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24031,
+      "stars": 24032,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2638,7 +2638,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9763,
+      "stars": 9764,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
