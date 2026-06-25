@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1782398520.009463
+    "timestamp": 1782418087.746123
   },
   "modules": [
     {
@@ -926,15 +926,15 @@
     },
     {
       "id": "iOS_Emoji",
-      "name": "iOS 18.4 Emoji font",
-      "version": "v18.4.1",
-      "versionCode": 18401,
+      "name": "iOS 26.4 Emoji font",
+      "version": "v26.4",
+      "versionCode": 26400,
       "author": "Keinta15",
-      "description": "Systemlessly replaces emoji font with iOS 18.4 Emoji",
+      "description": "Systemlessly replaces emoji font with iOS 26.4 Emoji",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1774459589.0,
-      "size": 42416591,
+      "timestamp": 1782413159.0,
+      "size": 34470804,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION"
@@ -991,6 +991,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4.1_18401.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v18.4.1_18401.md",
           "size": 42416591
+        },
+        {
+          "timestamp": 1782413159.0,
+          "version": "v26.4",
+          "versionCode": 26400,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v26.4_26400.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v26.4_26400.md",
+          "size": 34470804
         }
       ]
     },
@@ -1849,7 +1857,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2396,
+      "stars": 2397,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2084,7 +2092,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6078,
+      "stars": 6081,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2449,7 +2457,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2031,
+      "stars": 2032,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2638,7 +2646,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9801,
+      "stars": 9802,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
