@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1782330765.296709
+    "timestamp": 1782360144.8445
   },
   "modules": [
     {
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3216,
+      "stars": 3218,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -472,8 +472,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.1.3",
-      "versionCode": 213,
+      "version": "v2.1.4",
+      "versionCode": 214,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165.0,
@@ -492,8 +492,8 @@
       ],
       "support": "https://github.com/bindhosts/bindhosts/issues",
       "license": "WTFPL",
-      "timestamp": 1777875953.0,
-      "size": 166753,
+      "timestamp": 1782357242.0,
+      "size": 169325,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -509,7 +509,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1311,
+      "stars": 1312,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -518,14 +518,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/bindhosts/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1760831840.0,
-          "version": "v2.0.8",
-          "versionCode": 208,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.8_208.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.0.8_208.md",
-          "size": 126681
-        },
         {
           "timestamp": 1763868080.0,
           "version": "v2.0.9",
@@ -565,6 +557,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.1.3_213.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.1.3_213.md",
           "size": 166753
+        },
+        {
+          "timestamp": 1782357242.0,
+          "version": "v2.1.4",
+          "versionCode": 214,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.1.4_214.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v2.1.4_214.md",
+          "size": 169325
         }
       ]
     },
@@ -1849,7 +1849,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2392,
+      "stars": 2393,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2084,7 +2084,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6079,
+      "stars": 6081,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2638,7 +2638,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9796,
+      "stars": 9798,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
