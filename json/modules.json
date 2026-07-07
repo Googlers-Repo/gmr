@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1783417864.625327
+    "timestamp": 1783435681.516047
   },
   "modules": [
     {
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3252,
+      "stars": 3253,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -509,7 +509,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1325,
+      "stars": 1326,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -586,7 +586,7 @@
       "verified": false,
       "timestamp": 1699710957.0,
       "size": 9933908,
-      "stars": 1134,
+      "stars": 1135,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1194,7 +1194,7 @@
       "features": {
         "service": true
       },
-      "stars": 266,
+      "stars": 264,
       "track": {
         "type": "GIT",
         "added": 1723905223.0,
@@ -1282,7 +1282,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 418,
+      "stars": 419,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1336,7 +1336,7 @@
       "features": {
         "modconf": true
       },
-      "stars": 86,
+      "stars": 87,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1705238797.0266,
@@ -1919,19 +1919,20 @@
     {
       "id": "system_app_nuker",
       "name": "App Nuker",
-      "version": "v1.2.1",
-      "versionCode": 121,
+      "version": "v2.0.0",
+      "versionCode": 200,
       "author": "ChiseWaguri & Contributors",
       "description": "WebUI-based debloater and whiteout creator",
       "verified": true,
       "added": 0,
-      "timestamp": 1778302551.0,
-      "size": 1215187,
+      "timestamp": 1783433696.0,
+      "size": 488280,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
       ],
       "features": {
         "service": true,
@@ -1948,14 +1949,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1749311876.0,
-          "version": "v1.1.6",
-          "versionCode": 116,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.6_116.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.6_116.md",
-          "size": 1241724
-        },
         {
           "timestamp": 1750270921.0,
           "version": "v1.1.7",
@@ -1995,6 +1988,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.2.1_121.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.2.1_121.md",
           "size": 1215187
+        },
+        {
+          "timestamp": 1783433696.0,
+          "version": "v2.0.0",
+          "versionCode": 200,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.0.0_200.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.0.0_200.md",
+          "size": 488280
         }
       ]
     },
@@ -2228,7 +2229,7 @@
         "service": true,
         "apks": true
       },
-      "stars": 516,
+      "stars": 517,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2457,7 +2458,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2042,
+      "stars": 2041,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2591,7 +2592,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24115,
+      "stars": 24116,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
