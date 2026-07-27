@@ -8,6 +8,14 @@
       "versionCode": 104114,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/adb-ndk/1.0.41_104114.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698679366.0,
+      "version": "v2021.12.14",
+      "versionCode": 202112140,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/adb-ndk/v2021.12.14_202112140.zip",
+      "changelog": "",
+      "size": 5300707
     }
   ]
 }
