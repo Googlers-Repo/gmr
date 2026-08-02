@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1785659402.193191
+    "timestamp": 1785677900.823884
   },
   "modules": [
     {
@@ -88,7 +88,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 432,
+      "stars": 433,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -180,7 +180,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3343,
+      "stars": 3345,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -517,7 +517,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1352,
+      "stars": 1353,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2033,7 +2033,7 @@
         "service": true,
         "webroot": true
       },
-      "stars": 628,
+      "stars": 629,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -2101,7 +2101,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6239,
+      "stars": 6240,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2466,7 +2466,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2083,
+      "stars": 2082,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2600,7 +2600,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24283,
+      "stars": 24284,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2657,7 +2657,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10168,
+      "stars": 10171,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
