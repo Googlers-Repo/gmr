@@ -9,6 +9,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.md",
       "size": 2462055
+    },
+    {
+      "timestamp": 1785905766.0,
+      "version": "v2.1.1 (7790)",
+      "versionCode": 7790,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v2.1.1_7790.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v2.1.1_7790.md",
+      "size": 5803220
     }
   ]
 }

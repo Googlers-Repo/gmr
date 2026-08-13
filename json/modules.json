@@ -9,16 +9,16 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1786627298.435286
+    "timestamp": 1786648066.076845
   },
   "modules": [
     {
       "id": "BetterKnownInstalled",
       "name": "BetterKnownInstalled (BKI)",
-      "version": "v1.4.0",
-      "versionCode": 1400,
+      "version": "v1.5.0",
+      "versionCode": 1500,
       "author": "@T3SL4",
-      "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml and cleaning packages-warnings.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
+      "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
       "support": "https://github.com/Pixel-Props/BetterKnownInstalled/issues",
       "readme": "https://raw.githubusercontent.com/Pixel-Props/BetterKnownInstalled/refs/heads/main/README.md",
       "note": {
@@ -27,15 +27,15 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1757052357.0,
-      "size": 1794756,
+      "timestamp": 1786633618.0,
+      "size": 3016586,
       "permissions": [
         "magisk.permission.POST_FS_DATA"
       ],
       "features": {
         "post_fs_data": true
       },
-      "stars": 528,
+      "stars": 531,
       "track": {
         "type": "GIT",
         "added": null,
@@ -59,6 +59,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.4.0_1400.zip",
           "changelog": "",
           "size": 1794756
+        },
+        {
+          "timestamp": 1786633618.0,
+          "version": "v1.5.0",
+          "versionCode": 1500,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.5.0_1500.zip",
+          "changelog": "",
+          "size": 3016586
         }
       ]
     },
@@ -180,7 +188,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3375,
+      "stars": 3377,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -361,7 +369,7 @@
         "service": true,
         "post_fs_data": true
       },
-      "stars": 283,
+      "stars": 284,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -594,7 +602,7 @@
       "verified": false,
       "timestamp": 1699710957.0,
       "size": 9933908,
-      "stars": 1146,
+      "stars": 1147,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1290,7 +1298,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 447,
+      "stars": 448,
       "track": {
         "type": "GIT",
         "added": null,
@@ -2101,7 +2109,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6280,
+      "stars": 6281,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2407,7 +2415,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2559,
+      "stars": 2560,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2527,31 +2535,29 @@
     },
     {
       "id": "zygisk_lsposed",
-      "name": "Zygisk - LSPosed",
-      "version": "v1.9.2 (7024)",
-      "versionCode": 7024,
+      "name": "LSPosed",
+      "version": "v2.1.1 (7790)",
+      "versionCode": 7790,
       "author": "LSPosed Developers",
-      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 9 ~ 17. Requires Zygisk enabled.",
       "require": [
         "zygisksu"
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1697034252.0,
-      "size": 2462055,
+      "timestamp": 1785905766.0,
+      "size": 5803220,
       "permissions": [
         "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
+        "magisk.permission.ACTION",
         "mmrl.permission.APKS",
         "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
-        "post_fs_data": true,
-        "resetprop": true,
         "sepolicy": true,
+        "action": true,
         "apks": true
       },
       "track": {
@@ -2571,6 +2577,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.md",
           "size": 2462055
+        },
+        {
+          "timestamp": 1785905766.0,
+          "version": "v2.1.1 (7790)",
+          "versionCode": 7790,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v2.1.1_7790.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v2.1.1_7790.md",
+          "size": 5803220
         }
       ]
     },
@@ -2600,7 +2614,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24362,
+      "stars": 24368,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2657,7 +2671,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10275,
+      "stars": 10281,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,

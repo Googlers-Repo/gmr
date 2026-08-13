@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.4.0_1400.zip",
       "changelog": "",
       "size": 1794756
+    },
+    {
+      "timestamp": 1786633618.0,
+      "version": "v1.5.0",
+      "versionCode": 1500,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.5.0_1500.zip",
+      "changelog": "",
+      "size": 3016586
     }
   ]
 }
