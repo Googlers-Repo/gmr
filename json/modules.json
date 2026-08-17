@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1786950233.750997
+    "timestamp": 1786971163.264277
   },
   "modules": [
     {
@@ -188,7 +188,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3381,
+      "stars": 3382,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -684,8 +684,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v3.13",
-      "versionCode": 3013,
+      "version": "v3.14",
+      "versionCode": 3014,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -714,8 +714,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1786367913.314733,
-      "size": 3958200,
+      "timestamp": 1786971153.551408,
+      "size": 3897110,
       "stars": 74,
       "track": {
         "type": "ONLINE_JSON",
@@ -725,14 +725,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1783352589.763331,
-          "version": "v3.8",
-          "versionCode": 3008,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.8_3008.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.8_3008.md",
-          "size": 7736130
-        },
         {
           "timestamp": 1783953897.593258,
           "version": "v3.9",
@@ -772,6 +764,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.13_3013.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.13_3013.md",
           "size": 3958200
+        },
+        {
+          "timestamp": 1786971153.551408,
+          "version": "v3.14",
+          "versionCode": 3014,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.14_3014.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.14_3014.md",
+          "size": 3897110
         }
       ]
     },
@@ -1298,7 +1298,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 457,
+      "stars": 456,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1873,7 +1873,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2503,
+      "stars": 2504,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -1935,14 +1935,14 @@
     {
       "id": "system_app_nuker",
       "name": "App Nuker",
-      "version": "v2.1.0",
-      "versionCode": 210,
+      "version": "v2.1.1",
+      "versionCode": 211,
       "author": "ChiseWaguri & Contributors",
       "description": "WebUI-based debloater and whiteout creator",
       "verified": true,
       "added": 0,
-      "timestamp": 1786791478.0,
-      "size": 488765,
+      "timestamp": 1786957732.0,
+      "size": 489003,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1965,14 +1965,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1760175018.0,
-          "version": "v1.1.8",
-          "versionCode": 118,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.8_118.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v1.1.8_118.md",
-          "size": 1243178
-        },
         {
           "timestamp": 1760293772.0,
           "version": "v1.1.9",
@@ -2012,6 +2004,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.1.0_210.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.1.0_210.md",
           "size": 488765
+        },
+        {
+          "timestamp": 1786957732.0,
+          "version": "v2.1.1",
+          "versionCode": 211,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.1.1_211.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.1.1_211.md",
+          "size": 489003
         }
       ]
     },
@@ -2109,7 +2109,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6290,
+      "stars": 6291,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2415,7 +2415,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2566,
+      "stars": 2567,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2474,7 +2474,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2103,
+      "stars": 2105,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2614,7 +2614,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24405,
+      "stars": 24409,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2671,7 +2671,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10326,
+      "stars": 10328,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
