@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1786992353.177797
+    "timestamp": 1787016415.520332
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 534,
+      "stars": 535,
       "track": {
         "type": "GIT",
         "added": null,
@@ -188,7 +188,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3382,
+      "stars": 3383,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -314,7 +314,7 @@
       "verified": false,
       "timestamp": 1698679366.0,
       "size": 5300707,
-      "stars": 647,
+      "stars": 646,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -525,7 +525,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1370,
+      "stars": 1371,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1800,7 +1800,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 398,
+      "stars": 399,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1873,7 +1873,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2504,
+      "stars": 2505,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2614,7 +2614,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24411,
+      "stars": 24413,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2671,7 +2671,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10329,
+      "stars": 10330,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
