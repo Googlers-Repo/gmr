@@ -28,7 +28,7 @@ concurrency:
 env:
   IS_SYNC: ${{ inputs.run_sync == 'Yes' || github.event_name == 'schedule' }}
 
-jobs:
+jobs: nganco
   sync:
     runs-on: ubuntu-latest
     steps:
