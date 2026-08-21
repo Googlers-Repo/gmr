@@ -8,6 +8,14 @@
       "versionCode": 13614,
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/busybox-ndk/1.36.1_13614.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1786195101.0,
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/busybox-ndk/1.0.41_104114.zip",
+      "changelog": "",
+      "size": 9918926
     }
   ]
 }

@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1787316982.192018
+    "timestamp": 1787337738.75665
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 539,
+      "stars": 540,
       "track": {
         "type": "GIT",
         "added": null,
@@ -188,7 +188,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3393,
+      "stars": 3394,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -525,7 +525,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1373,
+      "stars": 1375,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -600,8 +600,8 @@
       "support": "https://github.com/Magisk-Modules-Repo/busybox-ndk/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
       "verified": false,
-      "timestamp": 1699710957.0,
-      "size": 9933908,
+      "timestamp": 1786195101.0,
+      "size": 9918926,
       "stars": 1150,
       "track": {
         "type": "GIT",
@@ -617,6 +617,14 @@
           "versionCode": 13614,
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/busybox-ndk/1.36.1_13614.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1786195101.0,
+          "version": "1.0.41",
+          "versionCode": 104114,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/busybox-ndk/1.0.41_104114.zip",
+          "changelog": "",
+          "size": 9918926
         }
       ]
     },
@@ -1298,7 +1306,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 459,
+      "stars": 460,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1873,7 +1881,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2514,
+      "stars": 2515,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2109,7 +2117,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6303,
+      "stars": 6302,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2415,7 +2423,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2572,
+      "stars": 2573,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2474,7 +2482,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2111,
+      "stars": 2112,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2614,7 +2622,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24447,
+      "stars": 24453,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2671,7 +2679,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10372,
+      "stars": 10373,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
