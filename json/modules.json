@@ -9,14 +9,14 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1788782632.439971
+    "timestamp": 1788816083.075399
   },
   "modules": [
     {
       "id": "BetterKnownInstalled",
       "name": "BetterKnownInstalled (BKI)",
-      "version": "v1.5.2",
-      "versionCode": 1520,
+      "version": "v1.6.0",
+      "versionCode": 1600,
       "author": "@T3SL4",
       "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
       "support": "https://github.com/Pixel-Props/BetterKnownInstalled/issues",
@@ -27,15 +27,15 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1788470890.0,
-      "size": 3016588,
+      "timestamp": 1788804109.0,
+      "size": 3018511,
       "permissions": [
         "magisk.permission.POST_FS_DATA"
       ],
       "features": {
         "post_fs_data": true
       },
-      "stars": 558,
+      "stars": 560,
       "track": {
         "type": "GIT",
         "added": null,
@@ -83,6 +83,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.5.2_1520.zip",
           "changelog": "",
           "size": 3016588
+        },
+        {
+          "timestamp": 1788804109.0,
+          "version": "v1.6.0",
+          "versionCode": 1600,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.6.0_1600.zip",
+          "changelog": "",
+          "size": 3018511
         }
       ]
     },
@@ -204,7 +212,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3426,
+      "stars": 3427,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -330,7 +338,7 @@
       "verified": false,
       "timestamp": 1698679366.0,
       "size": 5300707,
-      "stars": 652,
+      "stars": 654,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -541,7 +549,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1413,
+      "stars": 1414,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -618,7 +626,7 @@
       "verified": false,
       "timestamp": 1786195101.0,
       "size": 9918926,
-      "stars": 1153,
+      "stars": 1154,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -716,8 +724,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v3.16",
-      "versionCode": 3016,
+      "version": "v3.17",
+      "versionCode": 3017,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -746,8 +754,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1788216055.732876,
-      "size": 3758204,
+      "timestamp": 1788816075.275642,
+      "size": 3742537,
       "stars": 77,
       "track": {
         "type": "ONLINE_JSON",
@@ -757,14 +765,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1785163578.976475,
-          "version": "v3.11",
-          "versionCode": 3011,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.11_3011.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.11_3011.md",
-          "size": 8185913
-        },
         {
           "timestamp": 1785768600.170926,
           "version": "v3.12",
@@ -804,6 +804,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.16_3016.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.16_3016.md",
           "size": 3758204
+        },
+        {
+          "timestamp": 1788816075.275642,
+          "version": "v3.17",
+          "versionCode": 3017,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.17_3017.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.17_3017.md",
+          "size": 3742537
         }
       ]
     },
@@ -1242,7 +1250,7 @@
       "features": {
         "service": true
       },
-      "stars": 268,
+      "stars": 269,
       "track": {
         "type": "GIT",
         "added": 1723905223.0,
@@ -1905,7 +1913,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2557,
+      "stars": 2558,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2141,7 +2149,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6330,
+      "stars": 6331,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2646,7 +2654,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24619,
+      "stars": 24623,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2703,7 +2711,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10561,
+      "stars": 10566,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
