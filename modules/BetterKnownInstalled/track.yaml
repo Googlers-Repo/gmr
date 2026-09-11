@@ -1,6 +1,6 @@
 enable: true
 id: BetterKnownInstalled
-last_update: 1788804109.0
+last_update: 1789085175.0
 note:
   message: Installation from recovery is not supported. You must install this module
     from within a running Android environment (Magisk/KernelSU/APatch)

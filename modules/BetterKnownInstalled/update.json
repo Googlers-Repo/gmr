@@ -3,14 +3,6 @@
   "timestamp": 1738867123.0,
   "versions": [
     {
-      "timestamp": 1738867123.0,
-      "version": "v1.3.3",
-      "versionCode": 1337,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.3.3_1337.zip",
-      "changelog": "",
-      "size": 1793757
-    },
-    {
       "timestamp": 1757052357.0,
       "version": "v1.4.0",
       "versionCode": 1400,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.6.0_1600.zip",
       "changelog": "",
       "size": 3018511
+    },
+    {
+      "timestamp": 1789085175.0,
+      "version": "v1.6.1",
+      "versionCode": 1610,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/BetterKnownInstalled/v1.6.1_1610.zip",
+      "changelog": "",
+      "size": 3022006
     }
   ]
 }
