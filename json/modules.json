@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1789124205.001374
+    "timestamp": 1789143128.089196
   },
   "modules": [
     {
@@ -120,7 +120,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 449,
+      "stars": 450,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -338,7 +338,7 @@
       "verified": false,
       "timestamp": 1698679366.0,
       "size": 5300707,
-      "stars": 653,
+      "stars": 654,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1087,7 +1087,7 @@
         "webroot": true,
         "apks": true
       },
-      "stars": 444,
+      "stars": 445,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -2149,7 +2149,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6343,
+      "stars": 6344,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2285,7 +2285,7 @@
         "service": true,
         "apks": true
       },
-      "stars": 526,
+      "stars": 527,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2455,7 +2455,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2597,
+      "stars": 2598,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2654,7 +2654,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24667,
+      "stars": 24672,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2711,7 +2711,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10594,
+      "stars": 10595,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
