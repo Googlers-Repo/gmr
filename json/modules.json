@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1790211803.625037
+    "timestamp": 1790214523.746873
   },
   "modules": [
     {
@@ -1153,6 +1153,7 @@
       "versionCode": 20003,
       "author": "uraniam9",
       "description": "Warmer, darker, calmer screens. Candlelight to 1700K, dimming below the panel minimum, flicker-safe mode for PWM eye strain, and Quiet Field to stop apps waking you. Companion to SonoLune.",
+      "verified": true,
       "support": "https://github.com/uraniam9/lune-bridge/issues",
       "donate": "https://buymeacoffee.com/uraniam9",
       "icon": "https://raw.githubusercontent.com/uraniam9/lune-bridge/main/assets/icon.png",
@@ -1167,7 +1168,6 @@
         "title": "Check it actually worked",
         "message": "After rebooting, run: su -c lunectl status. Some ROMs refuse third-party framework overlays, and the module reports honestly whether the widened range is in effect rather than assuming it is."
       },
-      "verified": false,
       "added": 0,
       "timestamp": 1790063447.0,
       "size": 58148,
@@ -2711,7 +2711,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24793,
+      "stars": 24794,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
