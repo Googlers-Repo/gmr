@@ -1,0 +1,14 @@
+{
+  "id": "lune_bridge",
+  "timestamp": 1790063447.0,
+  "versions": [
+    {
+      "timestamp": 1790063447.0,
+      "version": "v2.0.3",
+      "versionCode": 20003,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/lune_bridge/v2.0.3_20003.zip",
+      "changelog": "",
+      "size": 58148
+    }
+  ]
+}
