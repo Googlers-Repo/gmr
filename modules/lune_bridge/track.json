@@ -1,6 +1,7 @@
 {
   "id": "lune_bridge",
   "enable": true,
+  "verified": true,
   "update_to": "https://github.com/uraniam9/lune-bridge.git",
   "source": "https://github.com/uraniam9/lune-bridge",
   "last_update": 1790063447.0,
