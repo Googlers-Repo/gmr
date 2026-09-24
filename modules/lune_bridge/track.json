@@ -1,0 +1,6 @@
+{
+  "id": "lune_bridge",
+  "enable": true,
+  "update_to": "https://github.com/uraniam9/lune-bridge.git",
+  "source": "https://github.com/uraniam9/lune-bridge"
+}
