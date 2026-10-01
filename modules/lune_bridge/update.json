@@ -17,6 +17,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/lune_bridge/v2.0.4_20004.zip",
       "changelog": "",
       "size": 60439
+    },
+    {
+      "timestamp": 1790415731.0,
+      "version": "v6.0.1",
+      "versionCode": 60001,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/lune_bridge/v6.0.1_60001.zip",
+      "changelog": "",
+      "size": 60439
     }
   ]
 }
