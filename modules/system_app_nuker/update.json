@@ -3,14 +3,6 @@
   "timestamp": 1741510795.0,
   "versions": [
     {
-      "timestamp": 1786957732.0,
-      "version": "v2.1.1",
-      "versionCode": 211,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.1.1_211.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.1.1_211.md",
-      "size": 489003
-    },
-    {
       "timestamp": 1787900086.0,
       "version": "v2.2.0",
       "versionCode": 220,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.2.4_224.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.2.4_224.md",
       "size": 500089
+    },
+    {
+      "timestamp": 1790969582.0,
+      "version": "v2.2.5",
+      "versionCode": 225,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.2.5_225.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/system_app_nuker/v2.2.5_225.md",
+      "size": 783295
     }
   ]
 }
