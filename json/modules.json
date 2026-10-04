@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1791060687.413393
+    "timestamp": 1791090803.243134
   },
   "modules": [
     {
@@ -338,7 +338,7 @@
       "verified": false,
       "timestamp": 1698679366.0,
       "size": 5300707,
-      "stars": 658,
+      "stars": 657,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -626,7 +626,7 @@
       "verified": false,
       "timestamp": 1786195101.0,
       "size": 9918926,
-      "stars": 1170,
+      "stars": 1171,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -999,7 +999,7 @@
         "service": true,
         "action": true
       },
-      "stars": 392,
+      "stars": 393,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -1087,7 +1087,7 @@
         "webroot": true,
         "apks": true
       },
-      "stars": 452,
+      "stars": 453,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1986,7 +1986,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2603,
+      "stars": 2604,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2222,7 +2222,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6389,
+      "stars": 6390,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2528,7 +2528,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2622,
+      "stars": 2623,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2727,7 +2727,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24905,
+      "stars": 24909,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
