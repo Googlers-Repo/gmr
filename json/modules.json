@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1791176239.131377
+    "timestamp": 1791209276.868039
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 575,
+      "stars": 574,
       "track": {
         "type": "GIT",
         "added": null,
@@ -120,7 +120,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 458,
+      "stars": 460,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -549,7 +549,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1454,
+      "stars": 1455,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1986,7 +1986,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2607,
+      "stars": 2608,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2528,7 +2528,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2623,
+      "stars": 2624,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2587,7 +2587,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2159,
+      "stars": 2158,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2727,7 +2727,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24921,
+      "stars": 24923,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
