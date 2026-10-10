@@ -4,7 +4,10 @@
   "verified": true,
   "update_to": "https://github.com/Googlers-Repo/wpd.git",
   "source": "https://github.com/Googlers-Repo/wpd.git",
-  "added": 1445340430.7142262,
-  "last_update": 1757442541.0,
-  "versions": 5
+  "options": {
+    "github": {
+      "source": "actions"
+    }
+  },
+  "added": 1445340430.7142262
 }
