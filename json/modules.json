@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1791646369.091031
+    "timestamp": 1791647144.663532
   },
   "modules": [
     {
@@ -1500,6 +1500,63 @@
       ]
     },
     {
+      "id": "mmrl_wpd",
+      "name": "WiFi Password Viewer for MMRL",
+      "version": "7.0.0",
+      "versionCode": 700,
+      "author": "Der_Googler, veez21 @ xda-developers",
+      "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
+      "added": 1445340430.7142262,
+      "verified": true,
+      "support": "https://github.com/Googlers-Repo/wpd/issues",
+      "categories": [
+        "Tweaks and Hacks",
+        "WebUI",
+        "Miscellaneous"
+      ],
+      "license": "MIT",
+      "cover": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/cover.webp",
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/icon.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/preview.webp"
+      ],
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "note": {
+        "title": "WebUI X v615 required",
+        "message": "This module requires WebUI X above v615 to properly work"
+      },
+      "timestamp": 1791647086.0,
+      "size": 291374,
+      "permissions": [
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
+      ],
+      "features": {
+        "action": true,
+        "webroot": true
+      },
+      "stars": 40,
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Googlers-Repo/wpd.git",
+        "antifeatures": null,
+        "build_metadata": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/track.json"
+      },
+      "versions": [
+        {
+          "timestamp": 1791647086.0,
+          "version": "7.0.0",
+          "versionCode": 700,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/7.0.0_700.zip",
+          "changelog": "",
+          "size": 291374
+        }
+      ]
+    },
+    {
       "id": "nano-ndk",
       "name": "Nano for Android NDK",
       "version": "8.5",
@@ -2627,7 +2684,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24984,
+      "stars": 24983,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
