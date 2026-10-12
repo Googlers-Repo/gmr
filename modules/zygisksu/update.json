@@ -3,14 +3,6 @@
   "timestamp": 1735825712.0,
   "versions": [
     {
-      "timestamp": 1782053119.0,
-      "version": "1.4.1 (780-9d7024c-release)",
-      "versionCode": 780,
-      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.4.1_780-9d7024c-release.zip",
-      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.4.1_780-9d7024c-release.md",
-      "size": 5898969
-    },
-    {
       "timestamp": 1782134337.0,
       "version": "1.4.2 (789-119aaa0-release)",
       "versionCode": 789,
@@ -49,6 +41,14 @@
       "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.5.0_843-5217106-release.zip",
       "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.5.0_843-5217106-release.md",
       "size": 7529581
+    },
+    {
+      "timestamp": 1791815458.0,
+      "version": "1.5.1 (862-56ae062-release)",
+      "versionCode": 862,
+      "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.5.1_862-56ae062-release.zip",
+      "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.5.1_862-56ae062-release.md",
+      "size": 6682412
     }
   ]
 }
