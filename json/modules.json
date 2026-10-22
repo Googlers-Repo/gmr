@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1792668522.354302
+    "timestamp": 1792688122.898025
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 571,
+      "stars": 574,
       "track": {
         "type": "GIT",
         "added": null,
@@ -212,7 +212,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3498,
+      "stars": 3499,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -549,7 +549,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1491,
+      "stars": 1492,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -672,7 +672,7 @@
       "verified": false,
       "timestamp": 1711830438.0,
       "size": 17029965,
-      "stars": 128,
+      "stars": 129,
       "track": {
         "type": "GIT",
         "added": 1706465625.561501,
@@ -1871,7 +1871,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 414,
+      "stars": 415,
       "track": {
         "type": "GIT",
         "added": null,
@@ -2180,7 +2180,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6425,
+      "stars": 6426,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2685,7 +2685,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 25127,
+      "stars": 25138,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2742,7 +2742,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10675,
+      "stars": 10681,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
