@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1793075172.066488
+    "timestamp": 1793101936.78101
   },
   "modules": [
     {
@@ -549,7 +549,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1506,
+      "stars": 1509,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1661,7 +1661,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 336,
+      "stars": 337,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -1952,7 +1952,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2694,
+      "stars": 2696,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2188,7 +2188,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6433,
+      "stars": 6432,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2494,7 +2494,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2654,
+      "stars": 2656,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -2553,7 +2553,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2188,
+      "stars": 2187,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2693,7 +2693,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 25197,
+      "stars": 25202,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2750,7 +2750,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10714,
+      "stars": 10718,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
