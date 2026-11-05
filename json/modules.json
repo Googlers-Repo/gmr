@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1793889001.975069
+    "timestamp": 1793921317.436517
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 585,
+      "stars": 586,
       "track": {
         "type": "GIT",
         "added": null,
@@ -120,7 +120,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 491,
+      "stars": 490,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1732300923.536364,
@@ -549,7 +549,7 @@
         "webroot": true,
         "boot_completed": true
       },
-      "stars": 1529,
+      "stars": 1531,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1733301165.0,
@@ -1420,7 +1420,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 477,
+      "stars": 478,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1952,7 +1952,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2719,
+      "stars": 2721,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2553,7 +2553,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2199,
+      "stars": 2198,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2693,7 +2693,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 25349,
+      "stars": 25346,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2750,7 +2750,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 10818,
+      "stars": 10815,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
