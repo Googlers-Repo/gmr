@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1795390009.576109
+    "timestamp": 1795416537.100547
   },
   "modules": [
     {
@@ -212,7 +212,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3548,
+      "stars": 3549,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -626,7 +626,7 @@
       "verified": false,
       "timestamp": 1786195101.0,
       "size": 9918926,
-      "stars": 1176,
+      "stars": 1177,
       "track": {
         "type": "GIT",
         "added": 1445340430.7142262,
@@ -1420,7 +1420,7 @@
       "features": {
         "post_mount": true
       },
-      "stars": 480,
+      "stars": 481,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1952,7 +1952,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2786,
+      "stars": 2788,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2188,7 +2188,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6497,
+      "stars": 6496,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2553,7 +2553,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2214,
+      "stars": 2215,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2693,7 +2693,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 25606,
+      "stars": 25613,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2750,7 +2750,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 11125,
+      "stars": 11132,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
