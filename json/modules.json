@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
   "metadata": {
     "version": 1,
-    "timestamp": 1795416537.100547
+    "timestamp": 1795477131.074745
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 597,
+      "stars": 596,
       "track": {
         "type": "GIT",
         "added": null,
@@ -212,7 +212,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3549,
+      "stars": 3552,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -732,8 +732,8 @@
     {
       "id": "cubic-adblock",
       "name": "Cubic-AdBlock",
-      "version": "v3.27",
-      "versionCode": 3027,
+      "version": "v3.28",
+      "versionCode": 3028,
       "author": "Vaz15k",
       "description": "A simple AdBlock based on the hosts file.",
       "verified": true,
@@ -762,8 +762,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
       "added": 0,
-      "timestamp": 1794879943.85411,
-      "size": 3729174,
+      "timestamp": 1795477123.251547,
+      "size": 3729050,
       "stars": 80,
       "track": {
         "type": "ONLINE_JSON",
@@ -773,14 +773,6 @@
         "build_metadata": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1791851046.107007,
-          "version": "v3.22",
-          "versionCode": 3022,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.22_3022.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.22_3022.md",
-          "size": 3693287
-        },
         {
           "timestamp": 1792447800.225506,
           "version": "v3.23",
@@ -820,6 +812,14 @@
           "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.27_3027.zip",
           "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.27_3027.md",
           "size": 3729174
+        },
+        {
+          "timestamp": 1795477123.251547,
+          "version": "v3.28",
+          "versionCode": 3028,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.28_3028.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v3.28_3028.md",
+          "size": 3729050
         }
       ]
     },
@@ -1879,7 +1879,7 @@
         "post_fs_data": true,
         "sepolicy": true
       },
-      "stars": 417,
+      "stars": 418,
       "track": {
         "type": "GIT",
         "added": null,
@@ -1952,7 +1952,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2788,
+      "stars": 2790,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223,
@@ -2188,7 +2188,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6496,
+      "stars": 6500,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -2263,7 +2263,7 @@
         "post_fs_data": true,
         "resetprop": true
       },
-      "stars": 133,
+      "stars": 132,
       "track": {
         "type": "GIT",
         "added": 1717861375.501469,
@@ -2553,7 +2553,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2215,
+      "stars": 2216,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -2693,7 +2693,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 25613,
+      "stars": 25620,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -2750,7 +2750,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 11132,
+      "stars": 11138,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
